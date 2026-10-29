@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "koko.md",
+                "file": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "koko.md",
+                "file": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "koko.md",
+                "file": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,10 +229,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d2c86bae519dc7b4",
+  "active": "a66d003cd0c40153",
   "lastOpenFiles": [
-    "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
     "koko.md",
+    "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
     "Main -  CompTIA SecAI+ (CY0-001).md"
   ]
 }
