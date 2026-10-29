@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -13,
-                "top": 57,
+                "top": 399,
                 "zoom": 1.2181372549019607
               },
               "icon": "lucide-file-text",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,10 +214,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d247f32afb138917",
+  "active": "24f9d0141571a008",
   "lastOpenFiles": [
-    "Main -  CompTIA SecAI+ (CY0-001).md",
     "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+    "Main -  CompTIA SecAI+ (CY0-001).md",
     "AI-Sec+/Section+2 Sec+Ai++Section+2+–+Study+Notes.pdf",
     "koko.md",
     "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
