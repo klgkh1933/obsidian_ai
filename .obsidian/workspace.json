@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24f9d0141571a008",
+  "active": "c429dbdfd3dcaf16",
   "lastOpenFiles": [
     "Test.md"
   ]
