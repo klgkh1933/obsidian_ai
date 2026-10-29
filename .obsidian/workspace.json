@@ -11,14 +11,16 @@
             "id": "24f9d0141571a008",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
-                "mode": "source",
-                "source": false
+                "file": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+                "page": 1,
+                "left": -12,
+                "top": 795,
+                "zoom": 1.295343137254902
               },
-              "icon": "lucide-file",
-              "title": "Main -  CompTIA SecAI+ (CY0-001)"
+              "icon": "lucide-file-text",
+              "title": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence"
             }
           }
         ]
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
+                "file": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
+                "file": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
+                "file": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,12 +188,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "24f9d0141571a008",
   "lastOpenFiles": [
-    "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
-    "Main -  CompTIA SecAI+ (CY0-001).md"
+    "Main -  CompTIA SecAI+ (CY0-001).md",
+    "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf"
   ]
 }
