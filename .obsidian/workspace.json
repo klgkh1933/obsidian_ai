@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d844c954a12fea60",
+        "id": "62be945fc84ccea7",
         "type": "tabs",
         "children": [
           {
-            "id": "a66d003cd0c40153",
+            "id": "d247f32afb138917",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -16,7 +16,7 @@
                 "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "page": 1,
                 "left": -13,
-                "top": 796,
+                "top": 57,
                 "zoom": 1.2181372549019607
               },
               "icon": "lucide-file-text",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
+                "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
+                "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main -  CompTIA SecAI+ (CY0-001).md",
+                "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,10 +214,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "24f9d0141571a008",
+  "active": "d247f32afb138917",
   "lastOpenFiles": [
-    "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
     "Main -  CompTIA SecAI+ (CY0-001).md",
+    "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+    "AI-Sec+/Section+2 Sec+Ai++Section+2+–+Study+Notes.pdf",
     "koko.md",
     "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
     "AI-Sec+/Section+1 Sec+Ai++Section+1+–+Study+Notes.pdf",
@@ -226,7 +227,6 @@
     "AI-Sec+/Section+2+-+Lecture+4+-+Statistical+Learning+Fundamentals.pdf",
     "AI-Sec+/Section+2+-+Lecture+3+-+Machine+Learning+Basics.pdf",
     "AI-Sec+/Section+2+-+Lecture+2+-+Generative+AI+Explained.pdf",
-    "AI-Sec+/Section+2 Sec+Ai++Section+2+–+Study+Notes.pdf",
     "AI-Sec+/Section+1+-+Lecture+4+-+What+Makes+This+Course+EXCEPTIONAL.pdf"
   ]
 }
