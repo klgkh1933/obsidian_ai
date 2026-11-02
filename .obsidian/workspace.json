@@ -205,8 +205,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8bb98ad31cc491c7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -225,14 +236,15 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d247f32afb138917",
+  "active": "8bb98ad31cc491c7",
   "lastOpenFiles": [
     "Main -  CompTIA SecAI+ (CY0-001).md",
-    "dsfbdsf.md",
     "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+    "dsfbdsf.md",
     "Temp.md",
     "AI-Sec+/Section+2 Sec+Ai++Section+2+–+Study+Notes.pdf",
     "koko.md",
