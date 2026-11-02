@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"book": "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
+	"bookSize": 4334648,
+	"bookHash": "99e522c4",
+	"highlights": [
+		{
+			"id": "hl-1793653577480-j009au",
+			"cfiRange": "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/12[c001-secc-0013]/8,/1:210,/1:320)",
+			"offset": 11240,
+			"text": "but require more resources and raise potential data security issues. SLMs provide a faster, more secure option",
+			"color": "rgba(255, 169, 77, 0.55)",
+			"note": "",
+			"created": 1793653577481
+		}
+	],
+	"lastCfi": "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/12[c001-secc-0013]/6/1:0)"
+}
