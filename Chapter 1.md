@@ -16,4 +16,5 @@ Deep Learning
 	- [[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/12/4[c001-secc-0008]/8/1:179&end=/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/12/4[c001-secc-0008]/8/1:193|Self-attention]] mechanism
 	- NLP, LLM
 	- Transformers have broad applicability in the field of cybersecurity. Because they’re great with sequence data, they can be applied to event sequences
-	
+NLP
+LLMs
