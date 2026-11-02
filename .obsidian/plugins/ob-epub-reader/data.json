@@ -3,5 +3,72 @@
   "blockRefGotoLinksMigrated": true,
   "hashGotoLinksMigrated": true,
   "wikiLinkParamsSlimmed": true,
-  "titleGotoLinksMigrated": true
+  "titleGotoLinksMigrated": true,
+  "readingHistory": {
+    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub": [
+      {
+        "date": "2026-11-02",
+        "seconds": 91,
+        "percent": 0.050808314087759814
+      }
+    ]
+  },
+  "settings": {
+    "excerptFolder": "epub-books/anno",
+    "excerptFilename": "{title} excerpts.md",
+    "sourceLinkFormat": "callout-title",
+    "defaultExcerptHighlightColor": "yellow",
+    "defaultFlow": "scrolled",
+    "fontSize": 16,
+    "readingFont": "obsidian",
+    "customFonts": [],
+    "readingSidePadding": 12,
+    "lineHeight": 1.8,
+    "paragraphSpacing": 0,
+    "letterSpacing": 0,
+    "readingTheme": "obsidian",
+    "noteIconSize": 20,
+    "noteIconOffsetX": 2,
+    "noteIconOffsetY": 0,
+    "epubHighlightOpacity": 0.28,
+    "excerptCalloutOpacity": 0.2,
+    "noteTypes": [
+      {
+        "id": "note",
+        "label": "Take notes",
+        "icon": "📝"
+      },
+      {
+        "id": "inspiration",
+        "label": "Inspiration",
+        "icon": "💡"
+      },
+      {
+        "id": "practice",
+        "label": "Practice",
+        "icon": "✅"
+      },
+      {
+        "id": "revisit",
+        "label": "Revisit",
+        "icon": "🔁"
+      },
+      {
+        "id": "question",
+        "label": "Question",
+        "icon": "❓"
+      }
+    ],
+    "featureGroups": {
+      "annotationsAndExcerpts": true,
+      "bookshelf": true,
+      "readerCollapsed": false,
+      "annotationsCollapsed": false,
+      "bookshelfCollapsed": false
+    },
+    "autoPasteExcerpt": true,
+    "skipDeleteAnnotationConfirm": false,
+    "toolbarPlacement": "top",
+    "uiLocale": "auto"
+  }
 }
