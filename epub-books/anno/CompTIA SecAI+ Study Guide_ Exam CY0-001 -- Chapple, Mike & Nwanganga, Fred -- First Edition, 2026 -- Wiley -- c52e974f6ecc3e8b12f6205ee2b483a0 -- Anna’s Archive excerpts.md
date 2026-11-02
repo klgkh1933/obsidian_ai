@@ -1,11 +1,11 @@
 ---
 epub-source: Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub
 created: 2026-11-02
-progress-percent: 0.08545034642032333
-progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/12/4[c001-secc-0008]/6/1:0)"
+progress-percent: 0.08775981524249422
+progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/14/4[c001-secc-0009]/2/1:0)"
 progress-chapter: "Chapter 1: AI in Cybersecurity › Review Questions"
-last-read: 2026-11-02T20:35:54.049Z
-reading-time: 1h 15m 19s
+last-read: 2026-11-02T20:41:03.338Z
+reading-time: 1h 18m 49s
 ---
 
 # «CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive» excerpts
@@ -14,8 +14,8 @@ reading-time: 1h 15m 19s
 ## Table of contents
 
 - [[#Assessment Test|Assessment Test]]（2）
-- [[#Chapter 1: AI in Cybersecurity|Chapter 1: AI in Cybersecurity]]（10）
-  - [[#Review Questions|Review Questions]]（10）
+- [[#Chapter 1: AI in Cybersecurity|Chapter 1: AI in Cybersecurity]]（11）
+  - [[#Review Questions|Review Questions]]（11）
 <!-- ob-epub-chapter-toc-end -->
 
 <!-- ob-epub-chapter-body-start -->
@@ -42,6 +42,13 @@ fdsdfsdfds
 ### Review Questions
 
 [[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/10[c001-secc-0006]/2/2[c001-sec-0005]/1:0&end=/6/26!/4/2[c001]/12[c001-secc-0002]/10[c001-secc-0006]/2/2[c001-sec-0005]/1:20|Statistical Learning]]
+<!-- ob-epub-ann-chapter: Chapter 1: AI in Cybersecurity › Review Questions -->
+
+
+---
+
+
+[[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/12/4[c001-secc-0008]/12/1:0&end=/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/12/4[c001-secc-0008]/12/1:150|Transformers have broad applicability in the field of cybersecurity. Because they’re great with sequence data, they can be applied to event sequences.]]
 <!-- ob-epub-ann-chapter: Chapter 1: AI in Cybersecurity › Review Questions -->
 
 
