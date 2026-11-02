@@ -12,7 +12,25 @@
 			"color": "rgba(255, 169, 77, 0.55)",
 			"note": "",
 			"created": 1793653577481
+		},
+		{
+			"id": "hl-1793653829686-njxwn4",
+			"cfiRange": "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/12[c001-secc-0013]/12[c01-tbl-1]/4/2/2/4,/1:15,/1:22)",
+			"offset": 11791,
+			"text": "models ",
+			"color": "rgba(168, 216, 245, 0.55)",
+			"note": "",
+			"created": 1793653829687
+		},
+		{
+			"id": "hl-1793653849707-jqcl7j",
+			"cfiRange": "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/12[c001-secc-0013]/12[c01-tbl-1]/4/4/2/6,/1:0,/1:51)",
+			"offset": 11901,
+			"text": "Millions to a few billion parameters. Much smaller.",
+			"color": "rgba(168, 216, 245, 0.55)",
+			"note": "",
+			"created": 1793653849708
 		}
 	],
-	"lastCfi": "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/12[c001-secc-0013]/6/1:0)"
+	"lastCfi": "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/12[c001-secc-0013]/12[c01-tbl-1]/4/4/10/2/1:0)"
 }

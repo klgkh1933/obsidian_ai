@@ -21,3 +21,7 @@ LLMs
 - In cybersecurity, LLMs are useful for broad tasks, such as summarizing threat reports, generating detection rules, or translating technical information into plain language.[[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/8[c001-secc-0011]/6/1:149&end=/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/8[c001-secc-0011]/6/1:320|doc]]
 SLMs: Small Language Models
 - In cybersecurity, they are useful for tasks like parsing log files, tagging alert data, or analyzing internal threat reports[[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/10[c001-secc-0012]/8/1:135&end=/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/10[c001-secc-0012]/8/1:259|...book]]
+language
+
+*Page 38/348 · 11/2/2026, 4:10:49 PM*
+> Millions to a few billion parameters. Much smaller.

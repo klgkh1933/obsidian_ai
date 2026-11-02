@@ -11,3 +11,7 @@ A zero-day vulnerability :: is one the vendor does not yet know about. A zero-da
 [[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/22!/4/2[f09]/8/2/2/4/1:0&end=/6/22!/4/2[f09]/8/2/2/4/1:14|
 
 
+*Page 38/348 · 11/2/2026, 4:06:17 PM*
+> but require more resources and raise potential data security issues. SLMs provide a faster, more secure option
+
+
