@@ -15,9 +15,9 @@
               "state": {
                 "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
                 "page": 1,
-                "left": -43,
-                "top": 42,
-                "zoom": 0.36519607843137253
+                "left": -41,
+                "top": 61,
+                "zoom": 0.3651960784313726
               },
               "icon": "lucide-file-text",
               "title": "Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence"
@@ -228,10 +228,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d247f32afb138917",
+  "active": "24f9d0141571a008",
   "lastOpenFiles": [
-    "Main -  CompTIA SecAI+ (CY0-001).md",
     "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+    "Main -  CompTIA SecAI+ (CY0-001).md",
     "Temp.md",
     "AI-Sec+/Section+2 Sec+Ai++Section+2+–+Study+Notes.pdf",
     "koko.md",
