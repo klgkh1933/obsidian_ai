@@ -2,10 +2,10 @@
 epub-source: Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub
 created: 2026-11-02
 progress-percent: 0.08083140877598152
-progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/6[c001-secc-0003]/8/4[c001-secc-0004]/2/1:0)"
+progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/8[c001-secc-0005]/8/1:199)"
 progress-chapter: "Chapter 1: AI in Cybersecurity › Review Questions"
-last-read: 2026-11-02T19:34:24.839Z
-reading-time: 39m 57s
+last-read: 2026-11-02T19:38:01.941Z
+reading-time: 43m 5s
 ---
 
 # «CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive» excerpts
