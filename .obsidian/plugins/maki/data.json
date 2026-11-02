@@ -22,8 +22,8 @@
       255
     ]
   },
-  "selectedColor": "green",
-  "snippetTemplate": "> [!quote] {{linkWithDisplay}}\n> {{text}}",
+  "selectedColor": "red",
+  "snippetTemplate": "> {{text}} {{linkWithDisplay}}\n> abc\n> [!quote] {{linkWithDisplay}}\n> {{text}}",
   "displayTemplates": {
     "pdf": "{{file.basename}}, p.{{page}}",
     "epub": "{{file.basename}}, {{chapter}}"
