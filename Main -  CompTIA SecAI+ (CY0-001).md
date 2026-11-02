@@ -11,6 +11,7 @@
 
 The Zero-Day Problem
 
+[[Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf#page=2&selection=114,34,114,64&color=yellow|Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence, p.2]]
 
+[[Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf#page=2&selection=114,34,114,64&color=yellow|Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence, p.2]]
 
-unique fingerpristand what cameo understand what came b
