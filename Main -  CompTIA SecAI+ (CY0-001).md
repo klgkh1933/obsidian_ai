@@ -5,5 +5,5 @@
 ## Section 2 – Introduction to AI Types and Techniques
 
 
-[[Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf#page=2&selection=108,0,110,11&color=yellow|The Zero-Day Problem]]
+[[Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf#page=2&selection=108,0,110,11&color=note|The Zero-Day Problem]]
 
