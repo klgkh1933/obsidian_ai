@@ -2,10 +2,10 @@
 epub-source: Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub
 created: 2026-11-02
 progress-percent: 0.09006928406466513
-progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/6/1:309)"
+progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/8[c001-secc-0011]/2/2[c001-sec-0009]/1:0)"
 progress-chapter: "Chapter 1: AI in Cybersecurity › Review Questions"
-last-read: 2026-11-02T20:46:02.355Z
-reading-time: 1h 22m 1s
+last-read: 2026-11-02T20:50:24.636Z
+reading-time: 1h 26m 17s
 ---
 
 # «CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive» excerpts
@@ -14,8 +14,8 @@ reading-time: 1h 22m 1s
 ## Table of contents
 
 - [[#Assessment Test|Assessment Test]]（2）
-- [[#Chapter 1: AI in Cybersecurity|Chapter 1: AI in Cybersecurity]]（11）
-  - [[#Review Questions|Review Questions]]（11）
+- [[#Chapter 1: AI in Cybersecurity|Chapter 1: AI in Cybersecurity]]（13）
+  - [[#Review Questions|Review Questions]]（13）
 <!-- ob-epub-chapter-toc-end -->
 
 <!-- ob-epub-chapter-body-start -->
@@ -56,6 +56,20 @@ fdsdfsdfds
 
 
 [[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/10[c001-secc-0006]/6/1:98&end=/6/26!/4/2[c001]/12[c001-secc-0002]/10[c001-secc-0006]/6/1:117|logistic regression]]
+<!-- ob-epub-ann-chapter: Chapter 1: AI in Cybersecurity › Review Questions -->
+
+
+---
+
+
+[[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/10[c001-secc-0012]/8/1:135&end=/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/10[c001-secc-0012]/8/1:259|In cybersecurity, they are useful for tasks like parsing log files, tagging alert data, or analyzing internal threat reports]]
+<!-- ob-epub-ann-chapter: Chapter 1: AI in Cybersecurity › Review Questions -->
+
+
+---
+
+
+[[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/8[c001-secc-0011]/6/1:149&end=/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/8[c001-secc-0011]/6/1:320|In cybersecurity, LLMs are useful for broad tasks, such as summarizing threat reports, generating detection rules, or translating technical information into plain language]]
 <!-- ob-epub-ann-chapter: Chapter 1: AI in Cybersecurity › Review Questions -->
 
 
