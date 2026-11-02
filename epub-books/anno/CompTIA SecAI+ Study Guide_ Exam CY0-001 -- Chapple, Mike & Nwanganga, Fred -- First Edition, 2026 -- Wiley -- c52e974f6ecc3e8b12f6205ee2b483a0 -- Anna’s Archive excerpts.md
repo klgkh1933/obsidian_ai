@@ -1,11 +1,11 @@
 ---
 epub-source: Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub
 created: 2026-11-02
-progress-percent: 0.08083140877598152
-progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/8[c001-secc-0005]/8/1:199)"
+progress-percent: 0.08545034642032333
+progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/10[c01-fig-1]/4/2/2/2/1:0)"
 progress-chapter: "Chapter 1: AI in Cybersecurity › Review Questions"
-last-read: 2026-11-02T19:38:01.941Z
-reading-time: 43m 5s
+last-read: 2026-11-02T19:44:39.708Z
+reading-time: 46m 4s
 ---
 
 # «CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive» excerpts
@@ -14,8 +14,8 @@ reading-time: 43m 5s
 ## Table of contents
 
 - [[#Assessment Test|Assessment Test]]（2）
-- [[#Chapter 1: AI in Cybersecurity|Chapter 1: AI in Cybersecurity]]（8）
-  - [[#Review Questions|Review Questions]]（8）
+- [[#Chapter 1: AI in Cybersecurity|Chapter 1: AI in Cybersecurity]]（9）
+  - [[#Review Questions|Review Questions]]（9）
 <!-- ob-epub-chapter-toc-end -->
 
 <!-- ob-epub-chapter-body-start -->
@@ -91,5 +91,12 @@ fdsdfsdfds
 
 
 [[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/10[c001-secc-0006]/6/1:269&end=/6/26!/4/2[c001]/12[c001-secc-0002]/10[c001-secc-0006]/6/1:302|patterns and flagging deviations]]
+<!-- ob-epub-ann-chapter: Chapter 1: AI in Cybersecurity › Review Questions -->
+
+
+---
+
+
+[[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#cfi=/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/12/4[c001-secc-0008]/6/3:15&end=/6/26!/4/2[c001]/12[c001-secc-0002]/12[c001-secc-0007]/12/4[c001-secc-0008]/6/5:234|A transformer is a deep learning model that excels at processing large amounts of sequential data (such as text) and has largely replaced earlier models based on the recurrent neural network architecture for tasks like natural language processing.]]
 <!-- ob-epub-ann-chapter: Chapter 1: AI in Cybersecurity › Review Questions -->
 <!-- ob-epub-chapter-body-end -->
