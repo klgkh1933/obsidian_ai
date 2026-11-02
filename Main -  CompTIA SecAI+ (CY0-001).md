@@ -15,3 +15,7 @@ The Zero-Day Problem
 
 [[Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf#page=2&selection=114,34,114,64&color=yellow|Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence, p.2]]
 
+[[Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf#page=2&selection=118,50,118,70&color=note|never been seen, si]]
+
+![Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf#page=2&selection=122,27,122,41&color=red]]
+
