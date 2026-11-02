@@ -8,8 +8,8 @@
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub": [
       {
         "date": "2026-11-02",
-        "seconds": 317,
-        "percent": 0.050808314087759814
+        "seconds": 479,
+        "percent": 0.408
       }
     ]
   },
@@ -26,11 +26,11 @@
     "lineHeight": 1.8,
     "paragraphSpacing": 0,
     "letterSpacing": 0,
-    "readingTheme": "obsidian",
+    "readingTheme": "dark",
     "noteIconSize": 20,
     "noteIconOffsetX": 2,
     "noteIconOffsetY": 0,
-    "epubHighlightOpacity": 0.28,
+    "epubHighlightOpacity": 0.25,
     "excerptCalloutOpacity": 0.2,
     "noteTypes": [
       {
@@ -70,5 +70,6 @@
     "skipDeleteAnnotationConfirm": true,
     "toolbarPlacement": "top",
     "uiLocale": "auto"
-  }
+  },
+  "bookmarks": {}
 }
