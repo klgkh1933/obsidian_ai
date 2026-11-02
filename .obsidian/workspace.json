@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3334f9f7cb6d5b",
+        "id": "39d93733a520409f",
         "type": "tabs",
         "children": [
           {
-            "id": "6cd15da90c2af643",
+            "id": "08a3c1cd5da5606a",
             "type": "leaf",
             "state": {
               "type": "maki-epub",
@@ -22,21 +22,37 @@
         ]
       },
       {
-        "id": "4fd6c1bcc8fa198c",
+        "id": "5ae2f13a9bcc4aec",
         "type": "tabs",
         "children": [
           {
-            "id": "efc7ab54674078e0",
+            "id": "b1d0ecc061bd5588",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "maki-epub",
               "state": {
-                "file": "Temp.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub"
               },
-              "icon": "lucide-file",
-              "title": "Temp"
+              "icon": "book-open",
+              "title": "CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f016b4b1daa4422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdd37a1e4feeb75c",
+            "type": "leaf",
+            "state": {
+              "type": "maki-epub",
+              "state": {
+                "file": "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub"
+              },
+              "icon": "book-open",
+              "title": "CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive"
             }
           }
         ]
@@ -220,10 +236,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "efc7ab54674078e0",
+  "active": "fdd37a1e4feeb75c",
   "lastOpenFiles": [
-    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Temp.md",
+    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Chapter 1.md",
     "Pasted image 20261102160622.png",
     "Main -  CompTIA SecAI+ (CY0-001).md",
