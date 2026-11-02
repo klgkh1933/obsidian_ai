@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "palette": {
+    "yellow": [
+      255,
+      208,
+      0
+    ],
+    "red": [
+      255,
+      86,
+      86
+    ],
+    "green": [
+      68,
+      207,
+      110
+    ],
+    "blue": [
+      84,
+      155,
+      255
+    ]
+  },
+  "selectedColor": "green",
+  "snippetTemplate": "> [!quote] {{linkWithDisplay}}\n> {{text}}",
+  "displayTemplates": {
+    "pdf": "{{file.basename}}, p.{{page}}",
+    "epub": "{{file.basename}}, {{chapter}}"
+  },
+  "onSelect": "off",
+  "epub": {
+    "flow": "scrolled",
+    "fontSizePercent": 100,
+    "followTheme": true
+  },
+  "readingPositions": {
+    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub": "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002],/8[c001-secc-0005]/6/3:289,/12[c001-secc-0007]/8/3:347)"
+  }
+}
