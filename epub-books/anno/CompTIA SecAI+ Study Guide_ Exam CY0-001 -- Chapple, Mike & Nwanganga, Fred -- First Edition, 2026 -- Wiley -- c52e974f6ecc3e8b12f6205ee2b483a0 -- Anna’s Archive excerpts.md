@@ -4,8 +4,8 @@ created: 2026-11-02
 progress-percent: 0.08775981524249422
 progress-cfi: "epubcfi(/6/26!/4/2[c001]/12[c001-secc-0002]/14[c001-secc-0010]/4/1:309)"
 progress-chapter: "Chapter 1: AI in Cybersecurity › Review Questions"
-last-read: 2026-11-02T19:54:24.787Z
-reading-time: 52m 20s
+last-read: 2026-11-02T19:59:24.773Z
+reading-time: 57m 15s
 ---
 
 # «CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive» excerpts
