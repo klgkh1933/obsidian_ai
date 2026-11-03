@@ -11,15 +11,32 @@
             "id": "0d0e615cf62505f7",
             "type": "leaf",
             "state": {
-              "type": "maki-epub",
+              "type": "markdown",
               "state": {
-                "file": "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub"
+                "file": "Temp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "book-open",
-              "title": "CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "Temp"
+            }
+          },
+          {
+            "id": "5cefb60828fe1192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/My Obsidian Related Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Obsidian Related Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0f016b4b1daa4422",
@@ -47,12 +64,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "Misc/My Obsidian Related Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "My Obsidian Related Notes"
             }
           }
         ],
@@ -237,13 +254,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0d0e615cf62505f7",
+  "active": "5cefb60828fe1192",
   "lastOpenFiles": [
-    "Chapter 1.md",
-    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Temp.md",
-    "Pasted image 20261102160622.png",
+    "Misc/My Obsidian Related Notes.md",
+    "Chapter 1.md",
     "Main -  CompTIA SecAI+ (CY0-001).md",
+    "Pasted image 20261102160622.png",
+    "Misc",
+    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "AI-Sec+Udemy/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
     "epub-highlights/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.json",
     "epub-highlights",
@@ -253,7 +272,6 @@
     "Assets",
     "AI-Sec+/AI-Sec+.zip",
     "AI-Sec+/AI-Sec+.zip.tmp",
-    "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.zip",
     "dsfbdsf.md",
     "koko.md"
   ]
