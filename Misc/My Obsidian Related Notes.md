@@ -10,3 +10,9 @@
 - To add an anotation:
 	- Select the text
 	- Past (Ctrl+V) on md page
+
+
+To see Where a Concept is used 
+- in the concept page, 
+- click the three dots on the top
+- select Backlinks in document

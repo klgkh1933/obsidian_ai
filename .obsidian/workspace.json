@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/My Obsidian Related Notes.md",
+                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -68,11 +68,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "My Obsidian Related Notes"
+              "title": "Rick_SecAI_Study_Guide_Episodes_00-09"
+            }
+          },
+          {
+            "id": "ec36e57df6fa6c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/CIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CIA"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/My Obsidian Related Notes.md",
+                "file": "Concepts/CIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -212,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/My Obsidian Related Notes.md",
+                "file": "Concepts/CIA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -262,13 +276,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8cea7ccb04b6ab61",
+  "active": "ec36e57df6fa6c3f",
   "lastOpenFiles": [
-    "Concepts/CIA.md",
     "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
-    "Book-The COMPTIA SECAI+/Chapter 1.md",
+    "Concepts/CIA.md",
+    "Misc/My Obsidian Related Notes.md",
     "YT - SecAI+ By Rick/Youtube.md",
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
+    "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Concepts",
     "YT - SecAI+ By Rick/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
     "YT - SecAI+ By Rick/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
@@ -294,7 +309,6 @@
     "media-lib",
     "YT - SecAI+ By Rick",
     "Pasted image 20261102160622.png",
-    "Misc/My Obsidian Related Notes.md",
     "Book-The COMPTIA SECAI+",
     "Temp.md",
     "Misc",
