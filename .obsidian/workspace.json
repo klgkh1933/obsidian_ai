@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kko.md",
+                "file": "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kko"
+              "title": "SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)"
             }
           }
         ],
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+                "file": "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,8 +217,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -232,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -255,8 +255,11 @@
   },
   "active": "8cea7ccb04b6ab61",
   "lastOpenFiles": [
-    "kko.md",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Youtube.md",
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan).md",
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts",
+    "Untitled",
+    "kko.md",
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Book-The COMPTIA SECAI+/Chapter 1.md",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/assets/Pasted image 20261103135022.png",
@@ -277,9 +280,7 @@
     "Misc",
     "AI-Sec+Udemy/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
     "epub-highlights/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.json",
-    "epub-highlights",
     "epub-books/anno/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive excerpts.md",
-    "epub-books/anno",
     "dsfbdsf.md",
     "koko.md"
   ]
