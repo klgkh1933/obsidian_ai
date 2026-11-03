@@ -196,8 +196,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -222,10 +222,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fdd37a1e4feeb75c",
+  "active": "9445c68377d5953d",
   "lastOpenFiles": [
-    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Temp.md",
+    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Chapter 1.md",
     "Pasted image 20261102160622.png",
     "Main -  CompTIA SecAI+ (CY0-001).md",
