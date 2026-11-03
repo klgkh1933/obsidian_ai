@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e4260099b6381404",
+            "type": "leaf",
+            "state": {
+              "type": "maki-epub",
+              "state": {
+                "file": "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub"
+              },
+              "icon": "book-open",
+              "title": "CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive"
+            }
+          },
+          {
             "id": "9cca1e666eab93bf",
             "type": "leaf",
             "state": {
@@ -94,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,9 +239,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9cca1e666eab93bf",
+  "active": "e4260099b6381404",
   "lastOpenFiles": [
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Youtube.md",
+    "Book-The COMPTIA SECAI+/Chapter 1.md",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/assets/Pasted image 20261103135022.png",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/assets/Pasted image 20261103134808.png",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/assets/hqdefault.avif",
@@ -244,7 +256,6 @@
     "media-lib",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)",
     "Pasted image 20261102160622.png",
-    "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Misc/My Obsidian Related Notes.md",
     "Book-The COMPTIA SECAI+",
     "Temp.md",
