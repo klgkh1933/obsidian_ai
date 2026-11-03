@@ -26,3 +26,33 @@
 
 > [!question] Review question
 > What is the difference between RBAC and ABAC?
+
+
+
+If you prefer a cleaner, more academic look, you can use these symbols instead of colorful emojis:
+
+→
+
+↗
+
+◆
+
+◇
+
+▸
+
+★
+
+⚑
+
+⚠ ⚠
+
+✓
+
+✗
+
+⊕
+
+◎
+
+Click any symbol to copy it.

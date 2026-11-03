@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+                "file": "Misc/My Obsidian Related Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+                "file": "Misc/My Obsidian Related Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,10 +266,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ec36e57df6fa6c3f",
+  "active": "29e79c84fe648b45",
   "lastOpenFiles": [
-    "Misc/My Obsidian Related Notes.md",
     "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+    "Misc/My Obsidian Related Notes.md",
     "kko.md",
     "Temp.md",
     "Pasted image 20261103124710.png",

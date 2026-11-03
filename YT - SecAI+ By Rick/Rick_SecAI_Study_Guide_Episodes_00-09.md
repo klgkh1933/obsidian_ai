@@ -294,25 +294,21 @@ Other important backgrounds:
 
 **Memorize the choice:** OWASP = *risk list*; ATLAS = *attacker methods*; NIST AI RMF = *risk-management activities*; ISO 42001 = *auditable management system*.
 
-```
-
----
-
 ## 5. AI lifecycle and data security
 
 ### 5.1 Seven secure lifecycle gates
 
 Rick emphasizes that **security starting only at deployment is too late**: the data, model and build process may already be compromised.
 
-| Gate | Security questions | Controls | Evidence to retain |
-|---|---|---|---|
-| **1. Source data** | Who produced it? Is use permitted? | Approved sources, provenance, license and sensitivity review | Source register, dataset card |
-| **2. Prepare data** | Were cleaning, transformations and labels altered? | Validation, label review, integrity checks, reproducible transformations | Version, checksums, labeling audit |
-| **3. Train/tune** | Who can modify weights, code and environment? | Segregated training, least privilege, protected artifacts, change logging | Approved configuration, access logs |
-| **4. Evaluate** | Is the model accurate, robust, fair, privacy-aware and safe enough? | Independent tests, adversarial evaluation, acceptance threshold and **release veto** | Test results, signed acceptance or rejection |
-| **5. Deploy** | Can a user or agent do more than authorized? | Auth, least-privilege, gateways, secure inputs/outputs, fail-closed controls | Configuration, access rules, test evidence |
-| **6. Monitor** | Has behavior, data, access or costs changed? | Drift checks, unusual-query detection, leakage and cost monitoring | Metrics, alerts, incident records |
-| **7. Retire** | Are data, weights, endpoints, credentials and dependencies disposed of appropriately? | Revoke access, disable APIs, secure deletion according to retention requirements | Decommission and retention record |
+| Gate                | Security questions                                                                    | Controls                                                                             | Evidence to retain                           |
+| ------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------- |
+| **1. Source data**  | Who produced it? Is use permitted?                                                    | Approved sources, provenance, license and sensitivity review                         | Source register, dataset card                |
+| **2. Prepare data** | Were cleaning, transformations and labels altered?                                    | Validation, label review, integrity checks, reproducible transformations             | Version, checksums, labeling audit           |
+| **3. Train/tune**   | Who can modify weights, code and environment?                                         | Segregated training, least privilege, protected artifacts, change logging            | Approved configuration, access logs          |
+| **4. Evaluate**     | Is the model accurate, robust, fair, privacy-aware and safe enough?                   | Independent tests, adversarial evaluation, acceptance threshold and **release veto** | Test results, signed acceptance or rejection |
+| **5. Deploy**       | Can a user or agent do more than authorized?                                          | Auth, least-privilege, gateways, secure inputs/outputs, fail-closed controls         | Configuration, access rules, test evidence   |
+| **6. Monitor**      | Has behavior, data, access or costs changed?                                          | Drift checks, unusual-query detection, leakage and cost monitoring                   | Metrics, alerts, incident records            |
+| **7. Retire**       | Are data, weights, endpoints, credentials and dependencies disposed of appropriately? | Revoke access, disable APIs, secure deletion according to retention requirements     | Decommission and retention record            |
 
 **Evaluation must be an actual gate:** If a model fails required robustness, privacy, reliability or safety tests, there must be a means to **block promotion**. Reporting a red metric without stopping release is weak control design.
 
