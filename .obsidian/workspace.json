@@ -53,12 +53,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+                "file": "Misc/My Obsidian Related Notes.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Rick_SecAI_Study_Guide_Episodes_00-09"
+              "title": "My Obsidian Related Notes"
             }
           }
         ],
@@ -159,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-Sec+/Section+2+-+Lecture+1+-+Understanding+Artificial+Intelligence.pdf",
+                "file": "Misc/My Obsidian Related Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -202,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+                "file": "Misc/My Obsidian Related Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,12 +242,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

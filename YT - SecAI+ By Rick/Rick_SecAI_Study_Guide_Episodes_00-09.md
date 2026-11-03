@@ -182,7 +182,7 @@ Rick's shorthand is **model = data + code + weights**. For security, broaden it 
 
 **Locate a threat on this map before naming a control.** Traditional network and software protections still matter; AI adds *new* trust dependencies, not a replacement for conventional cybersecurity.
 
-### 3.2 [CIA] applied to AI
+### 3.2 [[CIA]] applied to AI
 
 **CIA triad (background)** means **Confidentiality**, **Integrity**, **Availability**.
 
