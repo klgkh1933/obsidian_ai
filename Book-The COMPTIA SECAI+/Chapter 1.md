@@ -7,7 +7,7 @@ Statistical Learning
 - logistic regression :: SPAM detection
 - Clustering methods :: help identify anomalies in network traffic by grouping similar patterns and flagging deviations.
 
-Deep Learning [[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#epubcfi=/6/26!/4/2%5Bc001%5D/12%5Bc001-secc-0002%5D/12%5Bc001-secc-0007%5D/2/2%5Bc001-sec-0006%5D%2C/1%3A0%2C/1%3A13&color=red|book]]
+Deep Learning [[Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub#epubcfi=/6/26!/4/2%5Bc001%5D/12%5Bc001-secc-0002%5D/12%5Bc001-secc-0007%5D/2/2%5Bc001-sec-0006%5D%2C/1%3A0%2C/1%3A13&color=red|↗]]
 - Neural networks, multiple layers
 - Transformers
 	- test
