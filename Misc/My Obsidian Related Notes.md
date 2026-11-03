@@ -29,8 +29,7 @@
 
 
 
-If you prefer a cleaner, more academic look, you can use these symbols instead of colorful emojis:
-
+### Simple Icons
 →
 
 ↗
@@ -45,7 +44,7 @@ If you prefer a cleaner, more academic look, you can use these symbols instead o
 
 ⚑
 
-⚠ ⚠
+⚠ 
 
 ✓
 
@@ -55,4 +54,5 @@ If you prefer a cleaner, more academic look, you can use these symbols instead o
 
 ◎
 
-Click any symbol to copy it.
+### Using a span with icons
+<span style="color:yellow">⚠</span> Security warning
