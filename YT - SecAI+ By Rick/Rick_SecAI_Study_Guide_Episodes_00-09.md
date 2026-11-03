@@ -265,7 +265,7 @@ Rick's phrase **“four maps, one territory”** means these frameworks are comp
 | **AML.T0054** | LLM Jailbreak |
 | **AML.T0070** | RAG Poisoning — additional relevant current technique |
 
-**Transcript correction:** The garbled supply-chain number **AML.T000010** should be **AML.T0010**. Names/IDs are subject to catalog updates; use the live [MITRE ATLAS](https://atlas.mitre.org/) when precise attribution matters.
+**Transcript correction:** The garbled supply-chain number **AML.T000010** should be **AML.T0010**. Names/IDs are subject to catalog updates; use the live [MITRE ATLAS](https://atlas.mitre.org/) when precise attribution matters. (for the list see [here]([Techniques | MITRE ATLAS™](https://atlas.mitre.org/techniques)))
 
 **Framework distinction:** OWASP names a *risk*; ATLAS describes *adversary behavior that exploits it*. Use both when threat-modeling and planning detections.
 
