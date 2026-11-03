@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement).md",
+                "file": "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)"
+              "title": "SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM)"
             }
           }
         ],
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement).md",
+                "file": "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -255,8 +255,13 @@
   },
   "active": "8cea7ccb04b6ab61",
   "lastOpenFiles": [
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 07 — Indirect Prompt Injection (When Your Data Is the Attacker).md",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md",
-    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement).md",
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 05 — Adversarial Machine Learning (Evasion, Stealing & Inversion).md",
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 03 — AI Security Frameworks= OWASP, NIST, ATLAS & ISO 42001.md",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 02 — The AI Attack Surface (Where the New Risk Lives).md",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 01 — AI & Machine Learning for Security Pros, Explained Simply.md",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Transcripts/SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan).md",
