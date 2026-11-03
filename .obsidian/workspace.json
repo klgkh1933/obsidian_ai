@@ -227,8 +227,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -265,12 +265,12 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "fe0bc66f285ab063",
+  "active": "9445c68377d5953d",
   "lastOpenFiles": [
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Youtube.md",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)",
     "Pasted image 20261102160622.png",
     "Pasted image 20261103124710.png",
-    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Youtube.md",
     "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Misc/My Obsidian Related Notes.md",
@@ -285,7 +285,6 @@
     "epub-books/anno",
     "epub-books",
     "Assets",
-    "AI-Sec+/AI-Sec+.zip",
     "dsfbdsf.md",
     "koko.md"
   ]
