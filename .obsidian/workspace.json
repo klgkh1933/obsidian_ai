@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT - SecAI+ By Rick/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
+                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SecAI+ 06 — How Prompt Injection Works (and How to Defend It)"
+              "title": "Rick_SecAI_Study_Guide_Episodes_00-09"
             }
           }
         ],
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT - SecAI+ By Rick/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
+                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -253,11 +253,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8ba1563a852e6954",
+  "active": "8cea7ccb04b6ab61",
   "lastOpenFiles": [
+    "YT - SecAI+ By Rick/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
+    "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
     "YT - SecAI+ By Rick/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
     "YT - SecAI+ By Rick/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
     "YT - SecAI+ By Rick/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md",
     "YT - SecAI+ By Rick/Transcripts/SecAI+ 02 — The AI Attack Surface (Where the New Risk Lives).md",
     "YT - SecAI+ By Rick/Transcripts/SecAI+ 07 — Indirect Prompt Injection (When Your Data Is the Attacker).md",
