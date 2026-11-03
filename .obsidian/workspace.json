@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d0e615cf62505f7",
+            "id": "5cefb60828fe1192",
             "type": "leaf",
             "state": {
               "type": "maki-epub",
@@ -18,20 +18,6 @@
               "icon": "book-open",
               "title": "CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive"
             }
-          },
-          {
-            "id": "5cefb60828fe1192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/My Obsidian Related Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My Obsidian Related Notes"
-            }
           }
         ]
       },
@@ -39,22 +25,6 @@
         "id": "0f016b4b1daa4422",
         "type": "tabs",
         "children": [
-          {
-            "id": "fdd37a1e4feeb75c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Temp"
-            }
-          },
           {
             "id": "1aad0af3b2a65dc3",
             "type": "leaf",
@@ -69,6 +39,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "My Obsidian Related Notes"
+            }
+          },
+          {
+            "id": "0d0e615cf62505f7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book-The COMPTIA SECAI+/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Chapter 1"
             }
           }
         ],
@@ -263,12 +249,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1aad0af3b2a65dc3",
+  "active": "0d0e615cf62505f7",
   "lastOpenFiles": [
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
+    "Book-The COMPTIA SECAI+/Chapter 1.md",
+    "Book-The COMPTIA SECAI+",
     "Misc/My Obsidian Related Notes.md",
     "Temp.md",
-    "Chapter 1.md",
     "Main -  CompTIA SecAI+ (CY0-001).md",
     "Pasted image 20261102160622.png",
     "Misc",
@@ -280,7 +267,6 @@
     "epub-books",
     "Assets",
     "AI-Sec+/AI-Sec+.zip",
-    "AI-Sec+/AI-Sec+.zip.tmp",
     "dsfbdsf.md",
     "koko.md"
   ]
