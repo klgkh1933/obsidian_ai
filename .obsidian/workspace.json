@@ -11,47 +11,28 @@
             "id": "5cefb60828fe1192",
             "type": "leaf",
             "state": {
-              "type": "maki-epub",
+              "type": "markdown",
               "state": {
-                "file": "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub"
+                "file": "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Youtube.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "book-open",
-              "title": "CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "Youtube"
             }
           },
           {
-            "id": "ca8c3fb51338f0c8",
+            "id": "9cca1e666eab93bf",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "g2mn_B4YjRw",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=g2mn_B4YjRw"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
+                "file": "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Playlist.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "youtube",
-              "title": "YouTube - g2mn_B4YjRw"
+              "icon": "lucide-file",
+              "title": "Playlist"
             }
           }
         ],
@@ -282,22 +263,21 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian42-brat:BRAT": false,
-      "media-extended:Open media library": false,
-      "media-extended:Open media quick switcher": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9445c68377d5953d",
+  "active": "9cca1e666eab93bf",
   "lastOpenFiles": [
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Youtube.md",
+    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Playlist.md",
     "media-lib/YouTube g2mn_B4YjRw.md",
+    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Main -  CompTIA SecAI+ (CY0-001).md",
     "Pasted image 20261103124710.png",
-    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Youtube.md",
     "media-lib",
     "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)",
     "Pasted image 20261102160622.png",
     "Book-The COMPTIA SECAI+/Chapter 1.md",
-    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Misc/My Obsidian Related Notes.md",
     "Book-The COMPTIA SECAI+",
     "Temp.md",
