@@ -3,6 +3,9 @@
 - Maki settings
 	- Snippet Template: {{text}} {{linkWithDisplay}}
 	- Link Display Text (EPub): book
-- Pin the md page 
-	- to force the navigation into the ePub on the left instead of opening another one on the same tab
-
+	- On Text Selection: Copy link to clipboard
+- On the md page 
+	- Pin the page to force the navigation into the ePub on the left instead of opening another one on the same tab
+- To add an anotation:
+	- Select the text
+	- Past (Ctrl+V) on md page
