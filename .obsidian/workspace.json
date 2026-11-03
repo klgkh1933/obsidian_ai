@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/CIA.md",
+                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/CIA.md",
+                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -276,12 +276,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ec36e57df6fa6c3f",
+  "active": "8cea7ccb04b6ab61",
   "lastOpenFiles": [
+    "Concepts/Trust boundary.md",
     "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
     "Concepts/CIA.md",
-    "Misc/My Obsidian Related Notes.md",
+    "Concepts/Model Inversion.md",
     "YT - SecAI+ By Rick/Youtube.md",
+    "Misc/My Obsidian Related Notes.md",
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Concepts",
