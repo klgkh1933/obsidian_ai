@@ -294,6 +294,8 @@ Other important backgrounds:
 
 **Memorize the choice:** OWASP = *risk list*; ATLAS = *attacker methods*; NIST AI RMF = *risk-management activities*; ISO 42001 = *auditable management system*.
 
+```
+
 ---
 
 ## 5. AI lifecycle and data security
