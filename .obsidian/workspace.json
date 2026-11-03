@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cve",
+                "query": "garbled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,7 +276,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8cea7ccb04b6ab61",
+  "active": "8ba1563a852e6954",
   "lastOpenFiles": [
     "Concepts/Trust boundary.md",
     "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
