@@ -130,14 +130,14 @@ The exam is **CompTIA SecAI+ CY0-001**, not the garbled codes sometimes generate
 
 ### 2.3 Learning types and security implications
 
-| Type | Meaning | Security concern |
-|---|---|---|
-| **Supervised learning** | Learns from examples with target labels, such as spam/not spam. | Labels and examples may be corrupted. |
-| **Unsupervised learning** | Finds structure in unlabeled data, such as clusters or unusual behavior. | The notion of “normal” is learned from the dataset; poisoned baselines can mislead. |
-| **Reinforcement learning** | Learns choices/actions from rewards or feedback. | A poorly designed reward can optimize unwanted outcomes. |
-| **Neural network** | Layered computations with numerical weights. | Weights encode learned behavior and are valuable intellectual property. |
-| **Transformer** | Neural network architecture using attention across token sequences. | Common basis for LLMs; context can include mixed-trust material. |
-| **Large Language Model (LLM)** | Usually a transformer-based model predicting/generating token sequences. | Can output plausible errors and follow malicious instructions in context. |
+| Type                           | Meaning                                                                  | Security concern                                                                    |
+| ------------------------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| **Supervised learning**        | Learns from examples with target labels, such as spam/not spam.          | Labels and examples may be corrupted.                                               |
+| **Unsupervised learning**      | Finds structure in unlabeled data, such as clusters or unusual behavior. | The notion of “normal” is learned from the dataset; poisoned baselines can mislead. |
+| **Reinforcement learning**     | Learns choices/actions from rewards or feedback.                         | A poorly designed reward can optimize unwanted outcomes.                            |
+| **Neural network**             | Layered computations with numerical weights.                             | Weights encode learned behavior and are valuable intellectual property.             |
+| **Transformer**                | Neural network architecture using attention across token sequences.      | Common basis for LLMs; context can include mixed-trust material.                    |
+| **Large Language Model (LLM)** | Usually a transformer-based model predicting/generating token sequences. | Can output plausible errors and follow malicious instructions in context.           |
 
 **Generative AI (background)** creates content such as text, images or code. **Predictive AI** produces a class, probability, score or forecast. Both require security, although their risks differ.
 
