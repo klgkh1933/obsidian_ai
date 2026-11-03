@@ -210,12 +210,12 @@ Important boundaries include third-party data → retrieval index; user input �
 
 Rick's phrase **“four maps, one territory”** means these frameworks are complementary, not competitors.
 
-| Framework | Category | Question it answers | Typical use |
-|---|---|---|---|
-| **OWASP LLM Top 10** | Application-risk taxonomy | **What can go wrong in LLM applications?** | Security design reviews, threat categories, prioritization |
-| **MITRE ATLAS** | Adversary tactics and techniques | **How does an attacker do it?** | Red teaming, threat intelligence, detection engineering |
-| **NIST AI Risk Management Framework** | Continuous risk process | **How do we understand, measure and handle AI risks?** | Program-level risk ownership and decisions |
-| **ISO/IEC 42001** | AI management-system standard | **How do we manage AI through auditable organizational processes?** | Policies, roles, evidence, audits and continual improvement |
+| Framework                                   | Category                         | Question it answers                                                 | Typical use                                                 |
+| ------------------------------------------- | -------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **OWASP LLM Top 10**                        | Application-risk taxonomy        | **What can go wrong in LLM applications?**                          | Security design reviews, threat categories, prioritization  |
+| **MITRE ATLAS**                             | Adversary tactics and techniques | **How does an attacker do it?**                                     | Red teaming, threat intelligence, detection engineering     |
+| **NIST AI Risk Management Framework (RMF)** | Continuous risk process          | **How do we understand, measure and handle AI risks?**              | Program-level risk ownership and decisions                  |
+| **ISO/IEC 42001**                           | AI management-system standard    | **How do we manage AI through auditable organizational processes?** | Policies, roles, evidence, audits and continual improvement |
 
 ### 4.1 OWASP Top 10 for LLM Applications — **2025 edition taught by Rick**
 
@@ -265,7 +265,7 @@ Rick's phrase **“four maps, one territory”** means these frameworks are comp
 | **AML.T0054** | LLM Jailbreak |
 | **AML.T0070** | RAG Poisoning — additional relevant current technique |
 
-**Transcript correction:** The garbled supply-chain number **AML.T000010** should be **AML.T0010**. Names/IDs are subject to catalog updates; use the live [MITRE ATLAS](https://atlas.mitre.org/) when precise attribution matters. (for the list see [here]([Techniques | MITRE ATLAS™](https://atlas.mitre.org/techniques)))
+**Transcript correction:** The garbled supply-chain number **AML.T000010** should be **AML.T0010**. Names/IDs are subject to catalog updates; use the live [MITRE ATLAS](https://atlas.mitre.org/) when precise attribution matters. (For the list see [here]([Techniques | MITRE ATLAS™](https://atlas.mitre.org/techniques)))
 
 **Framework distinction:** OWASP names a *risk*; ATLAS describes *adversary behavior that exploits it*. Use both when threat-modeling and planning detections.
 
