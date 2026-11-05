@@ -51,7 +51,9 @@ tags:
 - Prepare rollback/backout or controlled fail-forward plan; define owner, window, dependencies and downtime.
 - Emergency changes need an appropriately accelerated process and retrospective review.
 - Update diagrams, configuration baselines, audit trails and downstream consumers after changes.
+- CAB: Change Advisory Board
 
+![[Pasted image 20261105154445.png]]
 
 ## Apply it to AI security assurance
 
