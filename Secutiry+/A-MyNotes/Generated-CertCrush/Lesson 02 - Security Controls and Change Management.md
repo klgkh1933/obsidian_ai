@@ -59,9 +59,12 @@ tags:
 ![[Pasted image 20261105155643.png]]
 - CAB: Change Advisory Board
 - SOP: Standard Operating Procedure
-- ? Fail forword
+- Fail forward is when you can not go back (back out, rollback the changes)
+	- You 
 Scenario 
 ![[Pasted image 20261105155857.png]]
+![[Pasted image 20261105160118.png]]
+![[Pasted image 20261105160310.png]]
 ## Apply it to AI security assurance
 
 > [!example] Scenario
