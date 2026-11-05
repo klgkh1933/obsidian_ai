@@ -22,7 +22,7 @@ Third
 - Non-repudiation
 	- Can't deny it
 	- Digital signature
-		- Serves: Authenticity and Non-repuduation
+		- Serves: Authenticity and Non-repudiation
 - Accountability
 	- Trace actions to people
 	- Every action logged
@@ -37,8 +37,14 @@ AAA:
 	- Permission
 - Accounting
 	- What did you do?
-	- Audit log
-- 
+	- Audit log 
+	- 
+>- Authentication + Authorization => Confidentiality
+>- Authorization => Integrity
+>- Accounting => Accountability, non-repudiation
+>
+> Triade A: the machinery
+> CIA: the goal
 
 
 Zero trust principles 
