@@ -13,13 +13,13 @@ tags:
   - certcrush
   - study-notes
 ---
-# Lesson 02 — ==🟡Security Controls== and Change Management
 
 **[▶ Watch video](https://www.youtube.com/watch?v=iTlk_HxlCBg)** · [[Secutiry+/CertCrush/003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
 
 > [!summary] Learning target — Essential
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.
 
+# ==🟡Security Controls== 
 ## ==🟡Categories==: how a control is implemented · [↗ 02:23](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=143s)
 
 - Technical/logical: encryption, identity enforcement, firewall, EDR.
@@ -40,9 +40,11 @@ tags:
 
 - [[Defense in Depth]] = independent layers limiting failure of any one safeguard.
 	- Kh: Staking multiple layer of defense.
-- [[Least Privilege]] = minimum access needed; [[Separation of Duties]] = split conflicting powers across people or systems.
+- [[Least Privilege]] = minimum access needed; 
+- [[Separation of Duties]] = split conflicting powers across people or systems.
 - Defense in depth requires diverse, independently enforced controls—not several settings all bypassed by one credential.
 
+# Change Management
 ## Change management protects existing security · [↗ 11:39](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=699s)
 
 - [[Change Management]]: request → impact/risk assessment → approval → test → deploy → verify → document.
