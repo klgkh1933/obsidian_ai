@@ -13,7 +13,7 @@ tags:
   - certcrush
   - study-notes
 ---
-# Lesson 02 — Security Controls and Change Management
+# Lesson 02 — ==🟡Security Controls== and Change Management
 
 **[▶ Watch video](https://www.youtube.com/watch?v=iTlk_HxlCBg)** · [[Secutiry+/CertCrush/003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
 
@@ -26,6 +26,7 @@ tags:
 - Managerial: policies, risk reviews, governance, vendor requirements.
 - Operational: training, procedures, incident-response exercises, routine checks.
 - Physical: locks, surveillance, secure premises.
+![[Pasted image 20261105152918.png]]
 
 ## ==🟡Types==: what a control does · [↗ 04:40](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=280s)
 

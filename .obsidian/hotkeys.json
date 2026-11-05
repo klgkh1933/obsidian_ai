@@ -7,5 +7,14 @@
       ],
       "key": "G"
     }
+  ],
+  "editor:toggle-highlight-yellow": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
   ]
 }
