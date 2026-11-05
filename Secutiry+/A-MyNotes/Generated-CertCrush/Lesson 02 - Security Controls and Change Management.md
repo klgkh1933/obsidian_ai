@@ -34,10 +34,12 @@ tags:
 - Deterrent **discourages**; directive **instructs**; compensating **substitutes** when the preferred control is impractical.
 - Category and type are different dimensions: an access-control rule is typically technical + preventive.
 - Control classification varies with context; examine the actual function rather than the product name.
+![[Pasted image 20261105153417.png]]
 
 ## Organize defenses · [↗ 08:10](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=490s)
 
 - [[Defense in Depth]] = independent layers limiting failure of any one safeguard.
+	- Kh: Staking multiple layer of defense.
 - [[Least Privilege]] = minimum access needed; [[Separation of Duties]] = split conflicting powers across people or systems.
 - Defense in depth requires diverse, independently enforced controls—not several settings all bypassed by one credential.
 
