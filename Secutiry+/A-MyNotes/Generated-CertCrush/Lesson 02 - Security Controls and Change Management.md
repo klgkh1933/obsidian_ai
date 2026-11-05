@@ -20,14 +20,14 @@ tags:
 > [!summary] Learning target — Essential
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.
 
-## Categories: how a control is implemented · [↗ 02:23](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=143s)
+## ==🟡Categories==: how a control is implemented · [↗ 02:23](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=143s)
 
 - Technical/logical: encryption, identity enforcement, firewall, EDR.
 - Managerial: policies, risk reviews, governance, vendor requirements.
 - Operational: training, procedures, incident-response exercises, routine checks.
 - Physical: locks, surveillance, secure premises.
 
-## Types: what a control does · [↗ 04:40](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=280s)
+## ==🟡Types==: what a control does · [↗ 04:40](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=280s)
 
 - Preventive **blocks**; detective **finds**; corrective **restores**.
 - Deterrent **discourages**; directive **instructs**; compensating **substitutes** when the preferred control is impractical.
