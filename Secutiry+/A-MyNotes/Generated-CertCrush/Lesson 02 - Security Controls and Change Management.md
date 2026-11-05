@@ -55,6 +55,7 @@ tags:
 ![[Pasted image 20261105154445.png]]
 ![[Pasted image 20261105154707.png]]
 ![[Pasted image 20261105154840.png]]
+![[Pasted image 20261105155236.png]]
 - CAB: Change Advisory Board
 - SOP: Standard Operating Procedure
 ## Apply it to AI security assurance
