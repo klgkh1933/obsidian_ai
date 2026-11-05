@@ -51,10 +51,12 @@ tags:
 - Prepare rollback/backout or controlled fail-forward plan; define owner, window, dependencies and downtime.
 - Emergency changes need an appropriately accelerated process and retrospective review.
 - Update diagrams, configuration baselines, audit trails and downstream consumers after changes.
-- CAB: Change Advisory Board
 
 ![[Pasted image 20261105154445.png]]
-
+![[Pasted image 20261105154707.png]]
+![[Pasted image 20261105154840.png]]
+- CAB: Change Advisory Board
+- SOP: Standard Operating Procedure
 ## Apply it to AI security assurance
 
 > [!example] Scenario
