@@ -56,8 +56,12 @@ tags:
 ![[Pasted image 20261105154707.png]]
 ![[Pasted image 20261105154840.png]]
 ![[Pasted image 20261105155236.png]]
+![[Pasted image 20261105155643.png]]
 - CAB: Change Advisory Board
 - SOP: Standard Operating Procedure
+- ? Fail forword
+Scenario 
+![[Pasted image 20261105155857.png]]
 ## Apply it to AI security assurance
 
 > [!example] Scenario
