@@ -30,10 +30,17 @@ Third
 - 
 AAA:
 - Authentication
-	- Who are you
+	- Who are you?
 	- Password, token
 - Authorization
+	- What may you do?
+	- Permission
 - Accounting
+	- What did you do?
+	- Audit log
+> abd
+> then this.
+
 Zero trust principles 
 - never trust, always verify, and 
 - least privilege
