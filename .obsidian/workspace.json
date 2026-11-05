@@ -266,8 +266,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -302,8 +302,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8ba1563a852e6954",
+  "active": "ec36e57df6fa6c3f",
   "lastOpenFiles": [
+    "Secutiry+/SecGuy.Security+/001 - CompTIA Security+ SY0-801 4.4 Monitoring, Alerting & Telemetry ｜ SIEM, SNMPv3 & IPFIX.md",
+    "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
     "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.en-orig.vtt",
     "Secutiry+/CertCrush/002 - CompTIA Security+ SY0-801 Full Course in 8 Hours.en-orig.vtt",
     "Secutiry+/CertCrush/003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2).en-orig.vtt",
@@ -314,8 +316,6 @@
     "Secutiry+/CertCrush/008 - Security+ SY0-801 Policy vs Standard vs Procedure (Lesson 19).en-orig.vtt",
     "Secutiry+/CertCrush/009 - Security+ SY0-801 Third-Party Risk and Compliance (Lesson 20).en-orig.vtt",
     "Secutiry+/CertCrush/010 - Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7).en-orig.vtt",
-    "Secutiry+/CertCrush/011 - Security+ SY0-801 CVE vs CWE vs CVSS Explained (Lesson 9).en-orig.vtt",
-    "Secutiry+/SecGuy.Security+/001 - CompTIA Security+ SY0-801 4.4 Monitoring, Alerting & Telemetry ｜ SIEM, SNMPv3 & IPFIX.md",
     "Untitled.md",
     "Secutiry+/SecGuy.Security+/023 - CompTIA Secruity+ Exam Full Course 2026 - Zero to Job Ready.md",
     "Secutiry+/SecGuy.Security+/022 - CompTIA Security+ SY0-801： 1.1 Security Concepts and Controls.md",
@@ -339,7 +339,6 @@
     "Secutiry+/SecGuy.Security+/004 - CompTIA Security+ SY0-801 4.1 Operational Defense Engineering ｜ Segmentation, Isolation & Hardening.md",
     "Secutiry+/SecGuy.Security+/003 - CompTIA Security+ SY0-801 4.2 Asset Management for Security ｜ Hardware, Software & Data.md",
     "Secutiry+/SecGuy.Security+/002 - CompTIA Security+ SY0-801 4.3 Vulnerability Management ｜ Scan, Prioritize, Remediate & Validate.md",
-    "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
     "Pasted image 20261103124710.png",
     "SecAI+/Rick.SecAI+/assets/Pasted image 20261103135022.png",
     "SecAI+/Rick.SecAI+/assets/Pasted image 20261103134808.png",
