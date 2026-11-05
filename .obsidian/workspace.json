@@ -88,20 +88,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecAI+/SecGuy.SecAI+/014 - SecAI+ Domain 1： 10 Question Walkthrough.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "014 - SecAI+ Domain 1： 10 Question Walkthrough"
-            }
-          },
-          {
-            "id": "407f26afc52755d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.md",
                 "mode": "source",
                 "source": false
@@ -110,8 +96,7 @@
               "title": "001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.7920722961426
+    "width": 435.8553657531738,
+    "collapsed": true
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -302,8 +288,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "407f26afc52755d1",
+  "active": "ec36e57df6fa6c3f",
   "lastOpenFiles": [
+    "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.md",
+    "SecAI+/SecGuy.SecAI+/014 - SecAI+ Domain 1： 10 Question Walkthrough.md",
     "Secutiry+/SecGuy.Security+/001 - CompTIA Security+ SY0-801 4.4 Monitoring, Alerting & Telemetry ｜ SIEM, SNMPv3 & IPFIX.md",
     "Secutiry+/CertCrush/021 - Security+ SY0-801 Incident Response Explained (Lesson 18).md",
     "Secutiry+/CertCrush/020 - Security+ SY0-801 Vulnerability Management Explained (Lesson 17).md",
@@ -325,7 +313,6 @@
     "Secutiry+/CertCrush/004 - Security+ SY0-801 Cryptography Explained for Beginners (Lesson 3).md",
     "Secutiry+/CertCrush/003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2).md",
     "Secutiry+/CertCrush/002 - CompTIA Security+ SY0-801 Full Course in 8 Hours.md",
-    "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.md",
     "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
     "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.en-orig.vtt",
     "Secutiry+/CertCrush/002 - CompTIA Security+ SY0-801 Full Course in 8 Hours.en-orig.vtt",
@@ -339,7 +326,6 @@
     "Secutiry+/CertCrush/010 - Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7).en-orig.vtt",
     "Untitled.md",
     "Secutiry+/SecGuy.Security+/023 - CompTIA Secruity+ Exam Full Course 2026 - Zero to Job Ready.md",
-    "Secutiry+/SecGuy.Security+/022 - CompTIA Security+ SY0-801： 1.1 Security Concepts and Controls.md",
     "Pasted image 20261103124710.png",
     "SecAI+/Rick.SecAI+/assets/Pasted image 20261103135022.png",
     "SecAI+/Rick.SecAI+/assets/Pasted image 20261103134808.png",
