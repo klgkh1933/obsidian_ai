@@ -17,17 +17,23 @@ DAD Triad:
 - Disclosure <> failure of CIA.Confidentiality
 - Alteration <> failure of CIA.Integrity
 - Destruction <> failure of CIA.Availability
-Third, 
+Third
 - Authenticity
 - Non-repudiation
 	- Can't deny it
-	- Signe
+	- Digital signature
+		- Serves: Authenticity and Non-repuduation
 - Accountability
+	- Trace actions to people
+	- Every action logged
+	- Logging
 - 
 AAA:
-- authentication
-- authorization
-- accounting
+- Authentication
+	- Who are you
+	- Password, token
+- Authorization
+- Accounting
 Zero trust principles 
 - never trust, always verify, and 
 - least privilege
