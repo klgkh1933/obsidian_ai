@@ -1,4 +1,5 @@
 # Principles
+[From](https://www.youtube.com/watch?v=RZnprQW-3Ac&list=PLKOHyT8e8FEw&index=1)
 CIA Triad:
 - Confidentiality 
 	- Only the right people
@@ -9,15 +10,19 @@ CIA Triad:
 	- Hashing
 		- Temper-evident seal 
 - Availability 
-	- Up when you
+	- Up when you need it
+	- Backups, redundancy
+	- Failover, patching
 DAD Triad:
-- disclosure, 
-- alteration
-- destruction. 
+- Disclosure <> failure of CIA.Confidentiality
+- Alteration <> failure of CIA.Integrity
+- Destruction <> failure of CIA.Availability
 Third, 
-- authenticity
-- non-repudiation 
-- accountability,
+- Authenticity
+- Non-repudiation
+	- Can't deny it
+	- Signe
+- Accountability
 - 
 AAA:
 - authentication
