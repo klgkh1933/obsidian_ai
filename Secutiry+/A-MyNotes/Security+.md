@@ -1,6 +1,6 @@
 # Principles
 [From](https://www.youtube.com/watch?v=RZnprQW-3Ac&list=PLKOHyT8e8FEw&index=1)
-CIA Triad:
+## CIA Triad:
 - Confidentiality 
 	- Only the right people
 	- Encryption
@@ -13,11 +13,14 @@ CIA Triad:
 	- Up when you need it
 	- Backups, redundancy
 	- Failover, patching
-DAD Triad:
-- Disclosure <> failure of CIA.Confidentiality
-- Alteration <> failure of CIA.Integrity
-- Destruction <> failure of CIA.Availability
-Third
+## DAD Triad:
+- Disclosure
+	- failure of CIA.Confidentiality
+- Alteration
+	- failure of CIA.Integrity
+- Destruction
+	- failure of CIA.Availability
+## Third
 - Authenticity
 - Non-repudiation
 	- Can't deny it
@@ -28,7 +31,7 @@ Third
 	- Every action logged
 	- Logging
 - 
-AAA:
+## Triple A (AAA):
 - Authentication
 	- Who are you?
 	- Password, token
@@ -46,7 +49,7 @@ AAA:
 > Triple A: the machinery
 > CIA: the goal
 
-Zero trust principles 
+## Zero trust principles 
 - Verify explicitly
 	- Prove who is asking
 	- Device healthy?
