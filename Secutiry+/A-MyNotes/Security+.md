@@ -55,5 +55,6 @@ Zero trust principles
 	- Recheck often
 - Least privilege
 	- Only what you need
-	- s
+	- Small slice only
 - Assume breach
+	- Attacker already in
