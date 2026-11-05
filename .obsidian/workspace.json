@@ -35,8 +35,7 @@
               "title": "My Obsidian Related Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,10 +226,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fbdc288fc49a3562",
+  "active": "ec36e57df6fa6c3f",
   "lastOpenFiles": [
-    "Secutiry+/A-MyNotes/Security+.md",
     "Misc/My Obsidian Related Notes.md",
+    "Secutiry+/A-MyNotes/Security+.md",
     "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.md",
     "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
     "Secutiry+/A-MyNotes",

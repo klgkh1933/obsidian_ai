@@ -38,8 +38,8 @@ AAA:
 - Accounting
 	- What did you do?
 	- Audit log
-> abd
-> then this.
+- 
+
 
 Zero trust principles 
 - never trust, always verify, and 
