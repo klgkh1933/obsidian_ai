@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+                "file": "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rick_SecAI_Study_Guide_Episodes_00-09"
+              "title": "013 - SecAI+ Domain 4.2： Compliance & Law"
             }
           },
           {
@@ -77,6 +77,41 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "d1080f56b0a596ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4ecbb5d040711e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SecAI+/SecGuy.SecAI+/014 - SecAI+ Domain 1： 10 Question Walkthrough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "014 - SecAI+ Domain 1： 10 Question Walkthrough"
+            }
+          },
+          {
+            "id": "407f26afc52755d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,7 +285,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,17 +302,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8ba1563a852e6954",
+  "active": "407f26afc52755d1",
   "lastOpenFiles": [
-    "Secutiry+/SecGuy.SecAI+/007 - CompTIA SecAi+ Domain 2.4： Model Theft, Model DOS, Excessive Agency, Insecure Output Handling.md",
-    "Secutiry+/SecGuy.SecAI+/006 - CompTIA SecAI+ Domain 2.3： Model Inversion, Inference & Poisoning.md",
-    "Secutiry+/SecGuy.SecAI+/005 - CompTIA SecAI+ Domain 2.2： Direct vs. Indirect Prompt Injection.md",
-    "Secutiry+/SecGuy.SecAI+/004 - CompTIA SecAI+ Domain 2.1： MITRE ATLAS & OWASP LLM.md",
-    "Secutiry+/SecGuy.SecAI+",
+    "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
+    "Untitled.md",
+    "SecAI+/SecGuy.SecAI+/014 - SecAI+ Domain 1： 10 Question Walkthrough.md",
+    "SecAI+/SecGuy.SecAI+/003 - CompTIA SecAI+ Domain 1.3： Fine-Tuning, RLHF & Model Drift Explained.md",
+    "SecAI+/SecGuy.SecAI+/001 - CompTIA SecAI+ Domain 1： AI Fundamentals & Neural Networks Explained.md",
+    "SecAI+/Rick.SecAI+/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+    "SecAI+",
+    "SecAI+/SecGuy.SecAI+/007 - CompTIA SecAi+ Domain 2.4： Model Theft, Model DOS, Excessive Agency, Insecure Output Handling.md",
+    "SecAI+/SecGuy.SecAI+/006 - CompTIA SecAI+ Domain 2.3： Model Inversion, Inference & Poisoning.md",
+    "SecAI+/SecGuy.SecAI+/005 - CompTIA SecAI+ Domain 2.2： Direct vs. Indirect Prompt Injection.md",
+    "SecAI+/SecGuy.SecAI+/004 - CompTIA SecAI+ Domain 2.1： MITRE ATLAS & OWASP LLM.md",
+    "SecAI+/SecGuy.SecAI+",
     "Secutiry+/New folder",
     "Secutiry+",
     "New folder",
-    "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
     "Misc/My Obsidian Related Notes.md",
     "kko.md",
     "Temp.md",
@@ -285,30 +327,24 @@
     "Concepts/CIA.md",
     "Concepts/Trust boundary.md",
     "Concepts/Model Inversion.md",
-    "YT - SecAI+ By Rick/Youtube.md",
+    "SecAI+/Rick.SecAI+/Youtube.md",
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Concepts",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 02 — The AI Attack Surface (Where the New Risk Lives).md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 07 — Indirect Prompt Injection (When Your Data Is the Attacker).md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 05 — Adversarial Machine Learning (Evasion, Stealing & Inversion).md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 03 — AI Security Frameworks= OWASP, NIST, ATLAS & ISO 42001.md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 01 — AI & Machine Learning for Security Pros, Explained Simply.md",
-    "YT - SecAI+ By Rick/Transcripts/SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan).md",
-    "YT - SecAI+ By Rick/Transcripts",
-    "YT - SecAI+ By Rick/assets/Pasted image 20261103135022.png",
-    "YT - SecAI+ By Rick/assets/Pasted image 20261103134808.png",
-    "YT - SecAI+ By Rick/assets/hqdefault.avif",
-    "YT - SecAI+ By Rick/assets/Pasted image 20261103134111.png",
-    "YT - SecAI+ By Rick/assets",
-    "YT - SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan)/Playlist.md",
-    "media-lib/YouTube g2mn_B4YjRw.md",
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md",
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 02 — The AI Attack Surface (Where the New Risk Lives).md",
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 07 — Indirect Prompt Injection (When Your Data Is the Attacker).md",
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 05 — Adversarial Machine Learning (Evasion, Stealing & Inversion).md",
+    "SecAI+/Rick.SecAI+/Transcripts",
+    "SecAI+/Rick.SecAI+/assets/Pasted image 20261103135022.png",
+    "SecAI+/Rick.SecAI+/assets/Pasted image 20261103134808.png",
+    "SecAI+/Rick.SecAI+/assets/hqdefault.avif",
+    "SecAI+/Rick.SecAI+/assets/Pasted image 20261103134111.png",
+    "SecAI+/Rick.SecAI+/assets",
     "media-lib",
-    "YT - SecAI+ By Rick",
     "Pasted image 20261102160622.png"
   ]
 }
