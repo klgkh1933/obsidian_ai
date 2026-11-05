@@ -43,10 +43,17 @@ AAA:
 >- Authorization => Integrity
 >- Accounting => Accountability, non-repudiation
 >
-> Triade A: the machinery
+> Triple A: the machinery
 > CIA: the goal
 
-
 Zero trust principles 
-- never trust, always verify, and 
-- least privilege
+- Verify explicitly
+	- Prove who is asking
+	- Device healthy?
+- Verify continuously
+	- No one-time stamp
+	- Recheck often
+- Least privilege
+	- Only what you need
+	- s
+- Assume breach
