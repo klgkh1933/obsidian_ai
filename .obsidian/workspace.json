@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise.md",
+                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 08 - AI Threats and Indicators of Compromise"
+              "title": "Lesson 02 - Security Controls and Change Management - Kh"
             }
           },
           {
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,6 +243,7 @@
   },
   "active": "8109e20b36d1cfd5",
   "lastOpenFiles": [
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Index.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence.md",
@@ -280,7 +280,6 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 12 - Cloud Security and Shared Responsibility.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 10 - Hardening and Security Mitigations.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 09 - Vulnerabilities, CVE, CWE and CVSS.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush",
     "Secutiry+/A-MyNotes",
     "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.en-orig.vtt",
