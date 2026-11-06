@@ -31,6 +31,8 @@ tags:
 ## ==🟡Types==: what a control does · [↗ 04:40](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=280s)
 
 - Preventive **blocks**; detective **finds**; corrective **restores**.
+- Detective
+- Corrective
 - Deterrent **discourages**; directive **instructs**; compensating **substitutes** when the preferred control is impractical.
 - Category and type are different dimensions: an access-control rule is typically technical + preventive.
 - Control classification varies with context; examine the actual function rather than the product name.
@@ -81,4 +83,4 @@ Scenario
 - **What I misunderstood:**
 - **One real example:**
 - **One unresolved question:**
->[exmaple!] sdfds
+>[!example]  sdfds
