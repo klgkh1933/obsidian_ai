@@ -4,39 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "d1080f56b0a596ee",
+        "id": "39d93733a520409f",
         "type": "tabs",
         "children": [
           {
-            "id": "ec36e57df6fa6c3f",
+            "id": "5cefb60828fe1192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Index.md",
+                "file": "YT - SecAI+ By Rick/Youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Youtube"
             }
           },
           {
-            "id": "8109e20b36d1cfd5",
+            "id": "e4260099b6381404",
+            "type": "leaf",
+            "state": {
+              "type": "maki-epub",
+              "state": {
+                "file": "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub"
+              },
+              "icon": "lucide-ghost",
+              "title": "maki-epub"
+            }
+          },
+          {
+            "id": "9cca1e666eab93bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management.md",
+                "file": "Book-The COMPTIA SECAI+/Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 02 - Security Controls and Change Management"
+              "title": "Chapter 1"
             }
           },
           {
-            "id": "fbdc288fc49a3562",
+            "id": "29e79c84fe648b45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Secutiry+/A-MyNotes/Generated-CertCrush\"  \" AI\"",
+                "query": "garbled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 665.898853302002
+    "width": 310.7920722961426
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -205,8 +217,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -224,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,17 +252,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8109e20b36d1cfd5",
+  "active": "29e79c84fe648b45",
   "lastOpenFiles": [
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 10 - Hardening and Security Mitigations.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Index.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management.md",
+    "YT - SecAI+ By Rick/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+    "Untitled.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105160310.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105160118.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105155857.png",
@@ -261,33 +265,40 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105154840.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105154707.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105154445.png",
-    "Concepts/Change Management.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105153417.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets",
-    "Misc/My Obsidian Related Notes.md",
-    "Secutiry+/A-MyNotes/Security+.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 14 - Availability, Backups and Disaster Recovery.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 11 - Network Architecture and Secure Access.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes.md",
+    "Secutiry+/SecGuy.Security+/010 - CompTIA Security+ SY0-801： 3.1 Secure Architecture.md",
+    "Secutiry+/SecGuy.Security+/003 - CompTIA Security+ SY0-801 4.2 Asset Management for Security ｜ Hardware, Software & Data.md",
+    "Secutiry+/SecGuy.Security+/007 - CompTIA Security+ SY0-801 3.3 Data Protection ｜ Classification, DLP, Encryption & Lifecycle.md",
+    "Secutiry+/SecGuy.Security+/023 - CompTIA Secruity+ Exam Full Course 2026 - Zero to Job Ready.md",
+    "Secutiry+/SecGuy.Security+/022 - CompTIA Security+ SY0-801： 1.1 Security Concepts and Controls.md",
+    "Secutiry+/SecGuy.Security+/021 - CompTIA Security+ SY0-801： 1.2 Change Management.md",
+    "Secutiry+/SecGuy.Security+/020 - CompTIA Security+ SY0-801： 1.3 Cryptographic Solutions & Trust Engine.md",
+    "Secutiry+/SecGuy.Security+/019 - CompTIA Security+ SY0-801： Domain 1 Mastery Workshop.md",
+    "Secutiry+/SecGuy.Security+/018 - CompTIA Security+ SY0-801： 2.1 Threat Intelligence & Vulnerability Priority.md",
+    "Secutiry+/SecGuy.Security+/017 - CompTIA Security+ SY0-801： 2.2 Threat Actors & Motivations.md",
+    "Secutiry+/SecGuy.Security+/016 - CompTIA Security+ SY0-801： 2.3 Message, Image, Attachment, Browser, and Human Vectors.md",
+    "Secutiry+/SecGuy.Security+/015 - CompTIA Security+ SY0-801： 2.3 Network, Endpoint, Remote, Supply-Chain, IoT, Physical, Signal Vector.md",
+    "Secutiry+/SecGuy.Security+/014 - CompTIA Security+ SY0-801： 2.4 Attack Surfaces & Vulnerabilities.md",
+    "Secutiry+/SecGuy.Security+/013 - CompTIA Security+ SY0-801： 2.5 Analyzing Indicators of Malicious Activity.md",
+    "Secutiry+/SecGuy.Security+/012 - CompTIA Security+ SY0-801： 2.6 AI Threats & Vulnerabilities.md",
+    "Secutiry+/SecGuy.Security+/011 - CompTIA Security+ SY0-801： Domain 2 Workshop.md",
+    "Secutiry+/SecGuy.Security+/008 - CompTIA Security+ SY0-801 3.2 Identity Architecture & Failure Modes ｜ IAM & Resilience.md",
+    "Secutiry+/SecGuy.Security+/009 - CompTIA Security+ SY0-801 3.2 Zero Trust & Secure Access ｜ VPN, ZTNA, SSE & Segmentation.md",
+    "Secutiry+/SecGuy.Security+/001 - CompTIA Security+ SY0-801 4.4 Monitoring, Alerting & Telemetry ｜ SIEM, SNMPv3 & IPFIX.md",
+    "Secutiry+/SecGuy.Security+/005 - CompTIA Security+ SY0-801 4.1 Layered Security Mitigation ｜ Segmentation, Hardening & Deception.md",
+    "Secutiry+/SecGuy.Security+/006 - CompTIA Security+ SY0-801 Domain 3 Workshop ｜ Secure Architecture Challenge.md",
+    "Secutiry+/SecGuy.Security+/004 - CompTIA Security+ SY0-801 4.1 Operational Defense Engineering ｜ Segmentation, Isolation & Hardening.md",
+    "Secutiry+/SecGuy.Security+/002 - CompTIA Security+ SY0-801 4.3 Vulnerability Management ｜ Scan, Prioritize, Remediate & Validate.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes.md",
-    "Concepts/Data Exfiltration.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 19 - Governance, Policies and Risk Treatment.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 18 - Incident Response and Forensics.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 17 - Asset and Vulnerability Management.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 16 - Monitoring, SIEM, SOAR and Security AI.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 15 - Identity and Access Management.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 13 - Data Protection and Information Lifecycle.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 12 - Cloud Security and Shared Responsibility.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 09 - Vulnerabilities, CVE, CWE and CVSS.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/assets",
     "Secutiry+/A-MyNotes/Generated-CertCrush",
+    "Secutiry+/SecGuy.Security+",
+    "Secutiry+/CertCrush",
     "Secutiry+/A-MyNotes",
-    "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.en-orig.vtt",
-    "Secutiry+/CertCrush/002 - CompTIA Security+ SY0-801 Full Course in 8 Hours.en-orig.vtt",
-    "Secutiry+/CertCrush/003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2).en-orig.vtt",
-    "Secutiry+/CertCrush/004 - Security+ SY0-801 Cryptography Explained for Beginners (Lesson 3).en-orig.vtt",
-    "Secutiry+/CertCrush/005 - Security+ SY0-801 Encryption in Practice Explained (Lesson 4).en-orig.vtt",
-    "Secutiry+/CertCrush/006 - Security+ SY0-801 Zero Trust Explained (Lesson 5).en-orig.vtt",
-    "Secutiry+/CertCrush/007 - Security+ SY0-801 Threat Actors Explained (Lesson 6).en-orig.vtt"
+    "Secutiry+",
+    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
+    "Concepts",
+    "YT - SecAI+ By Rick/Transcripts",
+    "YT - SecAI+ By Rick/assets"
   ]
 }
