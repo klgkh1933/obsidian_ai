@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/My Obsidian Related Notes.md",
+                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Obsidian Related Notes"
+              "title": "Lesson 02 - Security Controls and Change Management - Kh"
             }
           }
         ],
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,13 +229,14 @@
   },
   "active": "fbdc288fc49a3562",
   "lastOpenFiles": [
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Index.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
+    "Misc/My Obsidian Related Notes.md",
     "Concepts/SIEM and SOAR.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 10 - Hardening and Security Mitigations.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Index.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust.md",
@@ -250,7 +252,6 @@
     "Concepts/Change Management.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105153417.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets",
-    "Misc/My Obsidian Related Notes.md",
     "Secutiry+/A-MyNotes/Security+.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 14 - Availability, Backups and Disaster Recovery.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 11 - Network Architecture and Secure Access.md",
