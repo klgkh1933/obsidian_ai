@@ -31,7 +31,12 @@ tags:
 	- Problem: Key distribution
 - Asymmetric cryptography 
 	- uses a public/private key pair for signatures and some key-establishment/encryption applications.
-- Modern TLS uses authenticated asymmetric key establishment plus efficient symmetric session encryption; avoid a simplistic “encrypt the session key with RSA” model for TLS 1.3.
+	- Problem: slow, computationally heavy
+	- RSA classic,
+	- ECC small keys (same security, for phones and low powered devices)
+- Hybrid usage: Modern TLS 
+	- uses authenticated asymmetric key establishment plus 
+	- efficient symmetric session encryption; avoid a simplistic “encrypt the session key with RSA” model for TLS 1.3.
 
 ## Keys, algorithms and modes · [↗ 07:04](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=424s)
 
