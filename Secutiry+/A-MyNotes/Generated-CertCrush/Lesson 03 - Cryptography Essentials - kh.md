@@ -67,6 +67,7 @@ tags:
 
 - [[Digital Signatures]] can authenticate possession of a private key and detect message alteration.
 	- ![[Pasted image 20261109141930.png]]
+	- ![[Pasted image 20261109143838.png]]
 - [[PKI and TLS]] uses certificates, issuers and trust chains to bind a public key to a verified identity/name.
 - Validate the certificate chain, name, validity and applicable revocation status; secure private keys and issuance processes.
 
