@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 665.898853302002
+    "width": 665.898853302002,
+    "collapsed": true
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -229,6 +230,7 @@
   },
   "active": "fbdc288fc49a3562",
   "lastOpenFiles": [
+    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109140925.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109140359.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109140313.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109140032.png",
@@ -267,7 +269,6 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105160310.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105160118.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105155857.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105155643.png",
     "Concepts/Change Management.md",
     "Secutiry+/A-MyNotes/Security+.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 14 - Availability, Backups and Disaster Recovery.md",

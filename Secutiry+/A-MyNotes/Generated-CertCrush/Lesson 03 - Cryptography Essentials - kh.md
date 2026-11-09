@@ -46,14 +46,17 @@ tags:
 - ECB leaks repeated-block patterns. Prefer appropriately implemented **authenticated encryption** such as AES-GCM.
 ![[Pasted image 20261109140032.png]]
 
-Modes
+**Modes**:
 ![[Pasted image 20261109140359.png]]
 ## Hashing and password storage · [↗ 09:06](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=546s)
 
 - [[Hashing and Password Storage]]: a cryptographic hash is a one-way digest; it is **not** encryption and does not hide a secret.
 - To detect tampering, compare with an authenticated or otherwise trusted expected digest.
 - For passwords, use unique salts plus a deliberately expensive password KDF (e.g., Argon2id); plain SHA-256 is not enough.
-
+- SHA: Secure Hash Algorithm
+	- SHA 2 and SHA 3 are the current families
+	- MD5 broken, SHA 1 retired 
+![[Pasted image 20261109140925.png]]
 ## Signatures, PKI and certificate trust · [↗ 12:45](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=765s)
 
 - [[Digital Signatures]] can authenticate possession of a private key and detect message alteration.
