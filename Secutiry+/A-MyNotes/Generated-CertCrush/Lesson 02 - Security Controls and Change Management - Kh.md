@@ -59,12 +59,11 @@ tags:
     - House rule
     - Do this  
 
+![[Pasted image 20261105153417.png]]
 
 - Category and type are different dimensions: an access-control rule is typically technical + preventive.
 - Control classification varies with context; examine the actual function rather than the product name.
-
-![[Pasted image 20261105153417.png]]
-
+![[Pasted image 20261109114021.png]]
 ## Organize defenses · [↗ 08:10](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=490s)
 
 - [[Defense in Depth]] = independent layers limiting failure of any one safeguard.
