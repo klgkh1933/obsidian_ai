@@ -69,6 +69,7 @@ tags:
 
 - [[Defense in Depth]] = independent layers limiting failure of any one safeguard.
 	- Staking multiple layer of defense.
+	- ![[Pasted image 20261109113446.png|589]]
 - [[Least Privilege]] = minimum access needed; 
 - [[Separation of Duties]] = split conflicting powers across people or systems.
 - Defense in depth requires diverse, independently enforced controls—not several settings all bypassed by one credential.
