@@ -33,36 +33,39 @@ tags:
 
 **Six control types**:
 
-- **Preventive**: Blocks
-    - Locked door
-    - Firewall
-    - Encryption
-- **Detective**: Finds
-    - Camera
-    - IDS
-    - Log review
-- **Corrective**: Restores
-    - Backups
-    - Extinguisher
-- **Deterrent**: Discourages 
-    - Dog sign
-    - Seen camera
-    - Warning sign
-- **Compensating**: Substitutes when the preferred control is impractical.
-    - Isolation
-    - Watch it
-    - Deadbolt
-- **Directive**
-    - Lock screen
-    - Use policy
-    - Sign-in sign
-    - House rule
-    - Do this
+1. **Preventive**: Blocks
+    Locked door
+    Firewall
+    Encryption
+2. **Detective**: Finds
+    1. Camera
+    2. IDS
+    3. Log review
+3. **Corrective**: Restores
+    1. Backups
+    2. Extinguisher
+4. **Deterrent**: Discourages 
+    1. Dog sign
+    2. Seen camera
+    3. Warning sign
+5. **Compensating**: Substitutes when the preferred control is impractical.
+    1. Isolation
+    2. Watch it
+    3. Deadbolt
+6. **Directive**
+    1. Lock screen
+    2. Use policy
+    3. Sign-in sign
+    4. House rule
+    5. Do this
     - 
-- Preventive **blocks**; detective **finds**; corrective **restores**.
-- Detective
-- Corrective
-- Deterrent **discourages**; directive **instructs**; compensating **substitutes** when the preferred control is impractical.
+
+1 sdlfkj
+2 dfsdjk
+3- sdfds
+1- dfsd
+1. sdfds
+
 - Category and type are different dimensions: an access-control rule is typically technical + preventive.
 - Control classification varies with context; examine the actual function rather than the product name.
 ![[Pasted image 20261105153417.png]]
