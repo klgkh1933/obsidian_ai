@@ -35,9 +35,10 @@ tags:
 	- RSA classic,
 	- ECC small keys (same security, for phones and low powered devices)
 - Hybrid usage: Modern TLS 
-	- uses authenticated asymmetric key establishment plus 
-	- efficient symmetric session encryption; avoid a simplistic “encrypt the session key with RSA” model for TLS 1.3.
-	- ![[Pasted image 20261109115656.png]]
+	- TLS 1.3 (Transport Layer Security)
+	- uses authenticated asymmetric key establishment (RSA) 
+	- uses efficient symmetric session encryption (AES)
+	-  ![[Pasted image 20261109115656.png]]
 ## Keys, algorithms and modes · [↗ 07:04](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=424s)
 
 - AES commonly uses 128-, 192- or 256-bit keys. Larger keys do not compensate for poor key handling or implementation.
