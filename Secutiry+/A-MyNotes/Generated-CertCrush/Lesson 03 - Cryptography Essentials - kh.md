@@ -44,7 +44,10 @@ tags:
 - AES commonly uses 128-, 192- or 256-bit keys. Larger keys do not compensate for poor key handling or implementation.
 - At a similar **classical** security level, about 256-bit elliptic-curve keys correspond to 3072-bit RSA keys; do not compare bit lengths across algorithms directly.
 - ECB leaks repeated-block patterns. Prefer appropriately implemented **authenticated encryption** such as AES-GCM.
+![[Pasted image 20261109140032.png]]
 
+Modes
+![[Pasted image 20261109140359.png]]
 ## Hashing and password storage · [↗ 09:06](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=546s)
 
 - [[Hashing and Password Storage]]: a cryptographic hash is a one-way digest; it is **not** encryption and does not hide a secret.
