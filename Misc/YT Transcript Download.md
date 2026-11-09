@@ -7,9 +7,9 @@
 ## Step 2:
 - Download transcript using the yt_dlp library (install before):
 - Set the output folder in "transcript_in" in the command
-- 
--  in Powershell run 
-- `py -m yt_dlp `
+
+For a list  in Powershell run :
+ `py -m yt_dlp `
   --cookies-from-browser edge `
   --skip-download `
   --ignore-errors `
@@ -24,3 +24,19 @@
   -o "transcript_in/%(playlist_index)03d - %(title)s.%(ext)s" `
   "https://www.youtube.com/playlist?list=PLJRYKNJxAx9NJaMHXWvV1EF0VJLvsW9vb"`
 
+For individual videos:
+py -m yt_dlp `
+  --cookies-from-browser edge `
+  --skip-download `
+  --no-playlist `
+  --ignore-errors `
+  --ignore-no-formats-error `
+  --write-subs `
+  --write-auto-subs `
+  --write-info-json `
+  --sub-langs "en-orig,en" `
+  --sub-format vtt `
+  -o "transcript_in/%(title)s [%(id)s].%(ext)s" `
+  "https://www.youtube.com/watch?v=VIDEO_ID_1" `
+  "https://www.youtube.com/watch?v=VIDEO_ID_2" `
+  "https://www.youtube.com/watch?v=VIDEO_ID_3"
