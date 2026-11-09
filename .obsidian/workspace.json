@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/YT Transcript Download.md",
+                "file": "Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YT Transcript Download"
+              "title": "Temp"
             }
           }
         ],
@@ -227,10 +227,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fbdc288fc49a3562",
+  "active": "8ba1563a852e6954",
   "lastOpenFiles": [
-    "Misc/My Obsidian Related Notes.md",
+    "Temp_soumna/نظام الفطرة： اخسر الوزن بلا جوع حسب نوع جسمك (بشهرين!) [y5oDBBBPngk].info.json",
+    "Temp_soumna/نظام الفطرة： اخسر الوزن بلا جوع حسب نوع جسمك (بشهرين!) [y5oDBBBPngk].en.vtt",
+    "Temp_soumna/كيف تتخلص من الكرش و مقاومة الانسولين بشهرين بلا دواء! [IqxWsFJaqvo].info.json",
+    "Temp_soumna/كيف تتخلص من الكرش و مقاومة الانسولين بشهرين بلا دواء! [IqxWsFJaqvo].en.vtt",
+    "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].info.json",
+    "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].en.vtt",
+    "Temp_soumna/افضل 3 بدائل للسكر لتخسر الوزن و تحمي صحتك (من الطبيعة)🍀 [yLjiA92o9dE].info.json",
+    "Temp_soumna/افضل 3 بدائل للسكر لتخسر الوزن و تحمي صحتك (من الطبيعة)🍀 [yLjiA92o9dE].en.vtt",
+    "Temp_soumna/احدث 7 اسرار تخلصك من السكري بشهرين (بلا دواء!) [Iv0zSAEu-40].info.json",
+    "Temp_soumna/احدث 7 اسرار تخلصك من السكري بشهرين (بلا دواء!) [Iv0zSAEu-40].en.vtt",
+    "Temp_soumna/NA - كيف تتخلص من الكرش و دهون البطن العنيدة بشهر بلا دايت!.info.json",
     "Misc/YT Transcript Download.md",
+    "Misc/My Obsidian Related Notes.md",
     "kko.md",
     "Main -  CompTIA SecAI+ (CY0-001).md",
     "Temp.md",
@@ -258,22 +269,11 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105155606.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261105155236.png",
     "Concepts/Change Management.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets",
     "Secutiry+/A-MyNotes/Security+.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 14 - Availability, Backups and Disaster Recovery.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 11 - Network Architecture and Secure Access.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes.md",
-    "Concepts/Data Exfiltration.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush",
-    "Secutiry+/A-MyNotes",
-    "Secutiry+/CertCrush/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.en-orig.vtt",
-    "Secutiry+/CertCrush/002 - CompTIA Security+ SY0-801 Full Course in 8 Hours.en-orig.vtt",
-    "Secutiry+/CertCrush/003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2).en-orig.vtt",
-    "Secutiry+/CertCrush/004 - Security+ SY0-801 Cryptography Explained for Beginners (Lesson 3).en-orig.vtt",
-    "Secutiry+/CertCrush/005 - Security+ SY0-801 Encryption in Practice Explained (Lesson 4).en-orig.vtt",
-    "Secutiry+/CertCrush/006 - Security+ SY0-801 Zero Trust Explained (Lesson 5).en-orig.vtt",
-    "Secutiry+/CertCrush/007 - Security+ SY0-801 Threat Actors Explained (Lesson 6).en-orig.vtt"
+    "Concepts/Data Exfiltration.md"
   ]
 }
