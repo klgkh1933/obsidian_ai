@@ -22,8 +22,15 @@ tags:
 
 ## Encryption: symmetric vs asymmetric · [↗ 02:46](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=166s)
 
-- Symmetric encryption uses the **same secret key** to encrypt and decrypt; AES suits large volumes of data.
-- Asymmetric cryptography uses a public/private key pair for signatures and some key-establishment/encryption applications.
+- Symmetric encryption 
+	- uses the **same secret key** to encrypt and decrypt; 
+	- Fast: suits large volumes of data.
+	- AES: the gold standard (Advanced Encryption Standard)
+		- AES 128 or 256
+		- DES, Triple DES: legacy, too short key
+	- Problem: Key distribution
+- Asymmetric cryptography 
+	- uses a public/private key pair for signatures and some key-establishment/encryption applications.
 - Modern TLS uses authenticated asymmetric key establishment plus efficient symmetric session encryption; avoid a simplistic “encrypt the session key with RSA” model for TLS 1.3.
 
 ## Keys, algorithms and modes · [↗ 07:04](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=424s)
