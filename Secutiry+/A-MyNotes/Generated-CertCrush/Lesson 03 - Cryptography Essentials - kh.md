@@ -52,11 +52,16 @@ tags:
 
 - [[Hashing and Password Storage]]: a cryptographic hash is a one-way digest; it is **not** encryption and does not hide a secret.
 - To detect tampering, compare with an authenticated or otherwise trusted expected digest.
-- For passwords, use unique salts plus a deliberately expensive password KDF (e.g., Argon2id); plain SHA-256 is not enough.
 - SHA: Secure Hash Algorithm
 	- SHA 2 and SHA 3 are the current families
 	- MD5 broken, SHA 1 retired 
-![[Pasted image 20261109140925.png]]
+- ![[Pasted image 20261109140925.png]]
+- Passwords
+	- are stored as hashes, not plain text
+	- rainbow tables: giant list common passwords and their hashes
+		- Hackers steal the hashes, look them up, and get the password
+		- 
+	- use unique salts plus a deliberately expensive password KDF (e.g., Argon2id); plain SHA-256 is not enough.
 ## Signatures, PKI and certificate trust · [↗ 12:45](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=765s)
 
 - [[Digital Signatures]] can authenticate possession of a private key and detect message alteration.
