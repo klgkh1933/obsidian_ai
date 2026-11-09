@@ -63,6 +63,8 @@ tags:
 	- defense: use Salt = a random value added to the password
 	- ![[Pasted image 20261109141733.png]]
 	- use unique salts plus a deliberately expensive password KDF (e.g., Argon2id); plain SHA-256 is not enough.
+- ...
+	- ![[Pasted image 20261109144958.png]]
 ## Signatures, PKI and certificate trust · [↗ 12:45](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=765s)
 
 - [[Digital Signatures]] can authenticate possession of a private key and detect message alteration.
