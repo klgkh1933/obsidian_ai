@@ -58,13 +58,15 @@ tags:
 - ![[Pasted image 20261109140925.png]]
 - Passwords
 	- are stored as hashes, not plain text
-	- rainbow tables: giant list common passwords and their hashes
+	- rainbow tables: giant precomputed list/table of common passwords and their hashes
 		- Hackers steal the hashes, look them up, and get the password
-		- 
+	- defense: use Salt = a random value added to the password
+	- ![[Pasted image 20261109141733.png]]
 	- use unique salts plus a deliberately expensive password KDF (e.g., Argon2id); plain SHA-256 is not enough.
 ## Signatures, PKI and certificate trust · [↗ 12:45](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=765s)
 
 - [[Digital Signatures]] can authenticate possession of a private key and detect message alteration.
+	- ![[Pasted image 20261109141930.png]]
 - [[PKI and TLS]] uses certificates, issuers and trust chains to bind a public key to a verified identity/name.
 - Validate the certificate chain, name, validity and applicable revocation status; secure private keys and issuance processes.
 
