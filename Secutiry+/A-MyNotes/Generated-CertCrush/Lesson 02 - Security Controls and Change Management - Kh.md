@@ -20,7 +20,7 @@ tags:
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.
 
 # ==🔵Security Controls== 
-## ==🔵Categories==: how a control is implemented · [↗ 02:23](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=143s)
+## ==🔵Categories of Controls==: how a control is implemented · [↗ 02:23](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=143s)
 
 - **Technical**/logical: encryption, identity enforcement, firewall, EDR.
 - **Managerial**: policies, risk reviews, governance, vendor requirements.
@@ -29,51 +29,46 @@ tags:
 
 ![[Pasted image 20261105152918.png]]
 
-## ==🟡Types==: what a control does · [↗ 04:40](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=280s)
+## ==🔵Types of Controls==: what a control does · [↗ 04:40](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=280s)
 
 **Six control types**:
 
 1. **Preventive**: Blocks
-    Locked door
-    Firewall
-    Encryption
+    - Locked door
+    - Firewall
+    - Encryption
 2. **Detective**: Finds
-    1. Camera
-    2. IDS
-    3. Log review
+    - Camera
+    - IDS
+    - Log review
 3. **Corrective**: Restores
-    1. Backups
-    2. Extinguisher
+    - Backups
+    - Extinguisher
 4. **Deterrent**: Discourages 
-    1. Dog sign
-    2. Seen camera
-    3. Warning sign
+    - Dog sign
+    - Seen camera
+    - Warning sign
 5. **Compensating**: Substitutes when the preferred control is impractical.
-    1. Isolation
-    2. Watch it
-    3. Deadbolt
+    - Isolation
+    - Watch it
+    - Deadbolt
 6. **Directive**
-    1. Lock screen
-    2. Use policy
-    3. Sign-in sign
-    4. House rule
-    5. Do this
-    - 
+    - Lock screen
+    - Use policy
+    - Sign-in sign
+    - House rule
+    - Do this  
 
-1 sdlfkj
-2 dfsdjk
-3- sdfds
-1- dfsd
-1. sdfds
 
 - Category and type are different dimensions: an access-control rule is typically technical + preventive.
 - Control classification varies with context; examine the actual function rather than the product name.
+
 ![[Pasted image 20261105153417.png]]
 
 ## Organize defenses · [↗ 08:10](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=490s)
 
 - [[Defense in Depth]] = independent layers limiting failure of any one safeguard.
-	- Kh: Staking multiple layer of defense.
+	- Staking multiple layer of defense.
 - [[Least Privilege]] = minimum access needed; 
 - [[Separation of Duties]] = split conflicting powers across people or systems.
 - Defense in depth requires diverse, independently enforced controls—not several settings all bypassed by one credential.
