@@ -77,7 +77,9 @@ tags:
 	- ![[Pasted image 20261109144240.png]]
 - Validate the certificate chain, name, validity and applicable revocation status; secure private keys and issuance processes.
 
-
+## Examples
+- ![[Pasted image 20261109150344.png]]
+- ![[Pasted image 20261109150424.png]]
 ## Apply it to AI security assurance
 
 > [!example] Scenario
