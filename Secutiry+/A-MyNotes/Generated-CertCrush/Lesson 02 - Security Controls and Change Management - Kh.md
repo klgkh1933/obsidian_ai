@@ -31,6 +31,34 @@ tags:
 
 ## ==🟡Types==: what a control does · [↗ 04:40](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=280s)
 
+**Six control types**:
+
+- **Preventive**: Blocks
+    - Locked door
+    - Firewall
+    - Encryption
+- **Detective**: Finds
+    - Camera
+    - IDS
+    - Log review
+- **Corrective**: Restores
+    - Backups
+    - Extinguisher
+- **Deterrent**: Discourages 
+    - Dog sign
+    - Seen camera
+    - Warning sign
+- **Compensating**: Substitutes when the preferred control is impractical.
+    - Isolation
+    - Watch it
+    - Deadbolt
+- **Directive**
+    - Lock screen
+    - Use policy
+    - Sign-in sign
+    - House rule
+    - Do this
+    - 
 - Preventive **blocks**; detective **finds**; corrective **restores**.
 - Detective
 - Corrective
