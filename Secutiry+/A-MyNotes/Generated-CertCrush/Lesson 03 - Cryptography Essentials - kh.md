@@ -25,7 +25,7 @@ tags:
 - Symmetric encryption 
 	- uses the **same secret key** to encrypt and decrypt; 
 	- Fast: suits large volumes of data.
-	- AES: the gold standard (Advanced Encryption Standard)
+	- ==AES==: the gold standard (Advanced Encryption Standard)
 		- AES 128 or 256
 		- DES, Triple DES: legacy, too ==short== key
 	- Problem: Key distribution

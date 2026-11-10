@@ -1,6 +1,10 @@
+- Help
+	- `==concept==
+	- 
+
 ```dataviewjs 
 
-const FOLDER = "YT - SecAI+ By Rick"; // Change as needed
+const FOLDER = "Secutiry+/A-MyNotes/Generated-CertCrush"; // Change as needed
 
 const pages = dv.pages(`"${FOLDER}"`)
     .where(p => p.file.path !== dv.current().file.path)
