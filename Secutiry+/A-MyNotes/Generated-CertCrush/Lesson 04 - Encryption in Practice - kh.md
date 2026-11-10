@@ -65,11 +65,15 @@ tags:
 		- Configure your web server with your private key, issued server certificate, and intermediate certificate chain.
 - Wildcard certificates cover limited matching subdomains ( the domain and one level subdomains) and enlarge the consequences of key compromise.
 - Use lifecycle controls: issuance, expiry, rotation, revocation; TPM, HSM or KMS where warranted.
+	- Expiry
+		- ![[Pasted image 20261110164502.png|522]]
 	- Revocation:
 		- e.g. if it is leaked
 		- CRL (Certificate Revocation List)
 			- becomes mandatory
 			- OCSP, the old system, is optional
+	- TPM (Trusted Platform Module) 
+		- is a hardware-based security component designed to protect cryptographic keys, verify system integrity, and support secure authentication.
 
 ## Not all transformations are encryption · [↗ 14:22](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=862s)
 
