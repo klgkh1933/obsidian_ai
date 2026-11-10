@@ -26,7 +26,7 @@ tags:
 	- ![[Pasted image 20261110150333.png]]
 	- ![[Pasted image 20261110150545.png]]
 - In transit (in motion)
-	- 
+	- ![[Pasted image 20261110150741.png]]
 - In use
 - Choose the plac ement of keys and decryption privileges based on who should be able to see each record.
 
