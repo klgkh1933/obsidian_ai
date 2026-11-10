@@ -22,8 +22,8 @@ tags:
 
 ## Choose encryption by threat and data state · [↗ 01:06](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=66s)
 
-- Full-disk/volume encryption protects a stolen **powered-off** device; file- or field-level encryption can narrow access boundaries.
-- Data at rest, in transit and in use face different threats; encrypted disks do not stop a process that is permitted to read plaintext.
+- ==Full-disk/volume encryption== protects a stolen **powered-off** device; file- or field-level encryption can narrow access boundaries.
+- ==Data at rest==, in transit and in use face different threats; encrypted disks do not stop a process that is permitted to read plaintext.
 - Choose the placement of keys and decryption privileges based on who should be able to see each record.
 
 ## Transport, key exchange and forward secrecy · [↗ 03:16](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=196s)
