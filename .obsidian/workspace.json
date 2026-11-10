@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(EC)DHE.md",
+                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "(EC)DHE"
+              "title": "Lesson 03 - Cryptography Essentials - kh"
             }
           },
           {
@@ -50,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.3998908996582
+    "width": 545.3998908996582,
+    "collapsed": true
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -205,8 +216,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -241,13 +252,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5fffcff06d286cb8",
+  "active": "cf4c8a3b0066e9fd",
   "lastOpenFiles": [
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
-    "(EC)DHE.md",
     "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Index.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
+    "ECDHE.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Index.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109150424.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109150344.png",
