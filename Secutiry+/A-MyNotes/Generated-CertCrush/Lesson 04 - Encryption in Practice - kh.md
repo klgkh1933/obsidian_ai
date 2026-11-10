@@ -63,8 +63,12 @@ tags:
 		- You typically receive your server certificate and the necessary Intermediate CA certificate(s).
 	5. Install the certificates on your server
 		- Configure your web server with your private key, issued server certificate, and intermediate certificate chain.
-- Wildcard certificates cover limited matching subdomains and enlarge the consequences of key compromise.
+- Wildcard certificates cover limited matching subdomains ( the domain and one level subdomains) and enlarge the consequences of key compromise.
 - Use lifecycle controls: issuance, expiry, rotation, revocation; TPM, HSM or KMS where warranted.
+	- Revocation:
+		- e.g. if it is leaked
+		- CRL (Certificate Revocation List)
+			- becomes manadto
 
 ## Not all transformations are encryption · [↗ 14:22](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=862s)
 
