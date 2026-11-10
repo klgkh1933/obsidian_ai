@@ -74,9 +74,10 @@ tags:
 			- OCSP, the old system, is optional
 	- TPM (Trusted Platform Module) 
 		- is a hardware-based security component designed to protect cryptographic keys, verify system integrity, and support secure authentication.
-- 
-	 - TPM vs HSM
-		 - 
+	- HSM (Hardware Security Module) 
+		- is a specialized hardware device designed to securely generate, store, manage, and use cryptographic keys.
+		- It is similar to a TPM, but HSMs are generally designed for enterprise and high-security environments.
+		 - TPM vs HSM
 
 | Feature              | TPM                                     | HSM                                               |
 | -------------------- | --------------------------------------- | ------------------------------------------------- |
@@ -85,8 +86,7 @@ tags:
 | Typical applications | BitLocker, device identity, attestation | Root CA keys, code signing, payment systems       |
 | Performance          | Generally limited                       | Often designed for higher cryptographic workloads |
 | Cost                 | Usually included with computer          | Often substantially more expensive                |
-
-Both help protect private keys, but they are designed for different operational requirements.
+Continue... https://youtu.be/i_T7hNmbgEQ?t=773
 
 ## Not all transformations are encryption · [↗ 14:22](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=862s)
 
