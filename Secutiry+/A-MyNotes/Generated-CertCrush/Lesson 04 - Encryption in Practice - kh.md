@@ -68,7 +68,8 @@ tags:
 	- Revocation:
 		- e.g. if it is leaked
 		- CRL (Certificate Revocation List)
-			- becomes manadto
+			- becomes mandatory
+			- OCSP, the old system, is optional
 
 ## Not all transformations are encryption · [↗ 14:22](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=862s)
 
