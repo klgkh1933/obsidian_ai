@@ -40,9 +40,9 @@ tags:
 		2. Replace an insecure protocol with a different secure protocol
 			- Telnet → SSH
 			- FTP → SFTP
-- In use
-- Choose the plac ement of keys and decryption privileges based on who should be able to see each record.
 
+## Key Exchange 
+- [[ECDHE]] (Elliptic Curve Diffie-Hellman Ephemeral)
 ## Transport, key exchange and forward secrecy · [↗ 03:16](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=196s)
 
 - Use properly validated TLS/SSH/IPsec to protect traffic over untrusted networks.
