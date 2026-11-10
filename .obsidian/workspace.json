@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fbdc288fc49a3562",
+  "active": "cf4c8a3b0066e9fd",
   "lastOpenFiles": [
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
     "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109150424.png",
