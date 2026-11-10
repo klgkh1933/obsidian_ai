@@ -28,6 +28,7 @@ tags:
 - In transit (in motion)
 	- ![[Pasted image 20261110150741.png]]
 	- ![[Pasted image 20261110151344.png]]
+	- ![[Pasted image 20261110153635.png|369]]
 	- There are two approaches to securing communication.
 		1. Add TLS to an existing protocol
 			- HTTP → HTTPS
