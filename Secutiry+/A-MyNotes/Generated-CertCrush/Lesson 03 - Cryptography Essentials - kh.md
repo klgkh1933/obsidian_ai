@@ -27,7 +27,7 @@ tags:
 	- Fast: suits large volumes of data.
 	- AES: the gold standard (Advanced Encryption Standard)
 		- AES 128 or 256
-		- DES, Triple DES: legacy, too short key
+		- DES, Triple DES: legacy, too ==short== key
 	- Problem: Key distribution
 - Asymmetric cryptography 
 	- uses a public/private key pair for signatures and some key-establishment/encryption applications.
