@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
+                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 03 - Cryptography Essentials - kh"
+              "title": "Lesson 04 - Encryption in Practice - kh"
             }
           }
         ],
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.3998908996582
+    "width": 545.3998908996582,
+    "collapsed": true
   },
   "right": {
     "id": "4c4163d0368f7916",

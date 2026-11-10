@@ -1,5 +1,6 @@
 - Help
-	- `==concept==
+	- `==concept==    
+	- or  Press Ctrl + Shift + H (the default Highlight shortcut, if assigned).
 	- 
 
 ```dataviewjs 
