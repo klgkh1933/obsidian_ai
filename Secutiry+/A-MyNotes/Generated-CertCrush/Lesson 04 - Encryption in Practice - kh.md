@@ -43,15 +43,11 @@ tags:
 
 ## Key Exchange 
 - [[ECDHE]] (Elliptic Curve Diffie-Hellman Ephemeral)
-## Transport, key exchange and forward secrecy · [↗ 03:16](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=196s)
-
-- Use properly validated TLS/SSH/IPsec to protect traffic over untrusted networks.
-- [[PKI and TLS]]: authenticated ephemeral Diffie–Hellman key exchange (often ECDHE) offers **forward secrecy** for recorded past sessions if a long-term key is later exposed.
-- Certificates authenticate the endpoint; an unverified key exchange alone can be intercepted.
 
 ## Certificates and key protection · [↗ 07:44](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=464s)
 
 - Self-signed certificates can be appropriate in controlled environments **if explicitly trusted**; public sites usually require trusted issuance.
+- Root CA and Third-party CA
 - A CSR contains identifying data and the public key; keep the private key private.
 - Wildcard certificates cover limited matching subdomains and enlarge the consequences of key compromise.
 - Use lifecycle controls: issuance, expiry, rotation, revocation; TPM, HSM or KMS where warranted.
