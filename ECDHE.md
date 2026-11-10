@@ -2,6 +2,8 @@ ECDHE (Elliptic Curve Diffie-Hellman Ephemeral) is a cryptographic method that a
 
 This is the remarkable part: even if an attacker records everything exchanged between the two computers, they cannot practically calculate the shared secret.
 
+![[Pasted image 20261110154905.png|357]]
+
 Let's understand how it works.
 
 ## 1. The basic idea

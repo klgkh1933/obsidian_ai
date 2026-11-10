@@ -48,6 +48,7 @@
           {
             "id": "cf4c8a3b0066e9fd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -55,6 +56,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Lesson 04 - Encryption in Practice - kh"
             }
@@ -255,8 +257,9 @@
   "active": "cf4c8a3b0066e9fd",
   "lastOpenFiles": [
     "ECDHE.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
+    "Assets/Pasted image 20261110154905.png",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110153635.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110151344.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110150741.png",
@@ -269,7 +272,6 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109150344.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109144958.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109144240.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109144058.png",
     "Temp.md",
     "Temp_soumna/نظام الفطرة： اخسر الوزن بلا جوع حسب نوع جسمك (بشهرين!) [y5oDBBBPngk].info.json",
     "Temp_soumna/نظام الفطرة： اخسر الوزن بلا جوع حسب نوع جسمك (بشهرين!) [y5oDBBBPngk].en.vtt",
