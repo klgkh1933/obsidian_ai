@@ -27,6 +27,18 @@ tags:
 	- ![[Pasted image 20261110150545.png]]
 - In transit (in motion)
 	- ![[Pasted image 20261110150741.png]]
+	- ![[Pasted image 20261110151344.png]]
+	- There are two approaches to securing communication.
+		1. Add TLS to an existing protocol
+			- HTTP → HTTPS
+		    - FTP → FTPS	    
+			- LDAP → LDAPS
+		    
+			- These retain the underlying application protocol while protecting communication with TLS.
+		
+		2. Replace an insecure protocol with a different secure protocol
+			- Telnet → SSH
+			- FTP → SFTP
 - In use
 - Choose the plac ement of keys and decryption privileges based on who should be able to see each record.
 
