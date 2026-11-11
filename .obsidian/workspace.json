@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book-The COMPTIA SECAI+/Chapter 1.md",
+                "file": "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "AAA Key Concepts Dashboard.md"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.7920722961426
+    "width": 549.5
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -252,8 +252,32 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "29e79c84fe648b45",
+  "active": "8ba1563a852e6954",
   "lastOpenFiles": [
+    "Concepts/Zero Trust.md",
+    "Concepts/Vulnerability Management.md",
+    "Concepts/Threat Modeling.md",
+    "Concepts/Third-Party Risk.md",
+    "Concepts/SIEM and SOAR.md",
+    "Concepts/Separation of Duties.md",
+    "Concepts/Security Governance.md",
+    "Concepts/Security Controls.md",
+    "Concepts/Security Automation.md",
+    "Concepts/Security Assessment and Authorization.md",
+    "Concepts/RTO and RPO.md",
+    "Concepts/Risk Assessment.md",
+    "Concepts/Residual Risk.md",
+    "Concepts/RBAC and ABAC.md",
+    "Concepts.zip",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
+    "ECDHE.md",
+    "kko.md",
+    "Temp.md",
+    "Main -  CompTIA SecAI+ (CY0-001).md",
+    "Secutiry+/A-MyNotes/Security+.md",
+    "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
+    "Misc/My Obsidian Related Notes.md",
+    "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Temp_soumna/‫3 اغذية جبارة تخلصك من السكري باسابيع (بلا دواء!) [1zHLzVaqYyE].info.json",
     "Temp_soumna/‫3 اغذية جبارة تخلصك من السكري باسابيع (بلا دواء!) [1zHLzVaqYyE].en.vtt",
     "Temp_soumna/‏10 أسرار للمشي تذيب الكرش و الدهون بأيام (بلا دايت!) [3mbsXalTw9k].info.json",
@@ -263,8 +287,6 @@
     "Temp_soumna/كيف تتخلص من الكرش و مقاومة الانسولين بشهرين بلا دواء! [IqxWsFJaqvo].info.json",
     "Temp_soumna/كيف تتخلص من الكرش و مقاومة الانسولين بشهرين بلا دواء! [IqxWsFJaqvo].en.vtt",
     "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].info.json",
-    "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].en.vtt",
-    "Temp_soumna/افضل 3 بدائل للسكر لتخسر الوزن و تحمي صحتك (من الطبيعة)🍀 [yLjiA92o9dE].info.json",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110164502.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110153635.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110151344.png",
@@ -275,30 +297,8 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109150344.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109144958.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109144240.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
-    "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
     "Misc/YT Transcript Download.md",
-    "ECDHE.md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 07 — Indirect Prompt Injection (When Your Data Is the Attacker).md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 05 — Adversarial Machine Learning (Evasion, Stealing & Inversion).md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 03 — AI Security Frameworks= OWASP, NIST, ATLAS & ISO 42001.md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 02 — The AI Attack Surface (Where the New Risk Lives).md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 01 — AI & Machine Learning for Security Pros, Explained Simply.md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan).md",
-    "SecAI+/SecGuy.SecAI+/017 - SecAI+ Domain 3： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/016 - SecAI+ Domain 4： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/015 - SecAI+ Domain 2： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/014 - SecAI+ Domain 1： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
-    "SecAI+/SecGuy.SecAI+/012 - SecAi+ Domain 4.1： AI CoE, Responsible AI, and AI RIsk.md",
-    "SecAI+/SecGuy.SecAI+/011 - SecAI+ Domain 3.3： The AI Analyst (Blue Team Tools, MCP & Co-Pilot).md",
-    "SecAI+/SecGuy.SecAI+/010 - SecAI+ Domain 3.1： The AI Analyst (Blue Team Tools, MCP & Co-Pilot).md",
-    "SecAI+/SecGuy.SecAI+/009 - Domain 3.2： The AI Offensive (Red Team, Deepfakes & Malware).md",
-    "SecAI+/SecGuy.SecAI+/008 - CompTIA SecAI+ Domain 2.5： Blue Team Defense & AI Guardrails.md"
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md"
   ]
 }
