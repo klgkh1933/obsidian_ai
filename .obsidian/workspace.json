@@ -6,7 +6,7 @@
       {
         "id": "39d93733a520409f",
         "type": "tabs",
-        "dimension": 53.027522935779814,
+        "dimension": 54.77064220183486,
         "children": [
           {
             "id": "5cefb60828fe1192",
@@ -68,7 +68,7 @@
       {
         "id": "b329b00d4b77c58a",
         "type": "tabs",
-        "dimension": 46.972477064220186,
+        "dimension": 45.22935779816514,
         "children": [
           {
             "id": "7b0264e62fc99e4c",
@@ -276,8 +276,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7b0264e62fc99e4c",
+  "active": "29e79c84fe648b45",
   "lastOpenFiles": [
+    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132056.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
@@ -322,7 +323,6 @@
     "SecAI+/SecGuy.SecAI+/016 - SecAI+ Domain 4： 10 Question Walkthrough.md",
     "SecAI+/SecGuy.SecAI+/015 - SecAI+ Domain 2： 10 Question Walkthrough.md",
     "SecAI+/SecGuy.SecAI+/014 - SecAI+ Domain 1： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
-    "SecAI+/SecGuy.SecAI+/012 - SecAi+ Domain 4.1： AI CoE, Responsible AI, and AI RIsk.md"
+    "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md"
   ]
 }
