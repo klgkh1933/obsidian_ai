@@ -56,6 +56,8 @@ tags:
 - ECB (Electronic Codebook): Simple, but ***insecure*** for most applications.
 - CBC (Cipher Block Chaining): Provides ***confidentiality*** when used correctly, **but not integrity.**
 - GCM (Galois/Counter Mode): Provides ***both confidentiality and integrity***. Recommended for modern TLS.
+
+##>> Revision from here
 ## Hashing and password storage · [↗ 09:06](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=546s)
 
 - [[Hashing and Password Storage]]: a cryptographic hash is a one-way digest; it is **not** encryption and does not hide a secret.
