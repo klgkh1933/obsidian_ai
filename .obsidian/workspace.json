@@ -6,6 +6,7 @@
       {
         "id": "39d93733a520409f",
         "type": "tabs",
+        "dimension": 53.027522935779814,
         "children": [
           {
             "id": "5cefb60828fe1192",
@@ -60,23 +61,30 @@
               "icon": "lucide-file",
               "title": "Lesson 04 - Encryption in Practice - kh"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b329b00d4b77c58a",
+        "type": "tabs",
+        "dimension": 46.972477064220186,
+        "children": [
           {
-            "id": "32721e1d08a256ca",
+            "id": "9718c4dac7ffdea3",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Ft%253D773%2526v%253Di_T7hNmbgEQ%2526feature%253Dyoutu.be&hl=en&passive=true&service=youtube&uilel=3&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S591098255:1794506112178311",
-                "title": "YouTube",
+                "url": "https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=773s",
+                "title": "Security+ SY0-801 Encryption in Practice Explained (Lesson 4) - YouTube",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "YouTube"
+              "title": "Security+ SY0-801 Encryption in Practice Explained (Lesson 4) - YouTube"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.8315315246582
+    "width": 561.8315315246582,
+    "collapsed": true
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -267,7 +276,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "32721e1d08a256ca",
+  "active": "9718c4dac7ffdea3",
   "lastOpenFiles": [
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
