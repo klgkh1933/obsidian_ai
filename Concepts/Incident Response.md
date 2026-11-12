@@ -33,8 +33,8 @@ What do you preserve before rebuilding a compromised agent host?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 18 - Incident Response and Forensics|Lesson 18]] · [↗ Video](https://www.youtube.com/watch?v=mAmQzpzlEJ0)
+[[Lesson 18 - Incident Response and Forensics|Lesson 18]] · [↗ Video](https://www.youtube.com/watch?v=mAmQzpzlEJ0)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

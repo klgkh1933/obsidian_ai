@@ -15,7 +15,7 @@ tags:
 ---
 # Lesson 15 — Identity and Access Management
 
-**[▶ Watch video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)** · [[017 - Security+ SY0-801 Identity and Access Management Explained (Lesson 15)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
+**[▶ Watch video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)** · [[017 - Security+ SY0-801 Identity and Access Management Explained (Lesson 15)|Full transcript]] · [[Security+ - Master Notes|Consolidated notes]] · [[Index|All lessons]]
 
 > [!summary] Learning target — Essential
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.

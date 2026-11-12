@@ -15,7 +15,7 @@ tags:
 ---
 # Lesson 02 — Security Controls and Change Management
 
-**[▶ Watch video](https://www.youtube.com/watch?v=iTlk_HxlCBg)** · [[003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
+**[▶ Watch video](https://www.youtube.com/watch?v=iTlk_HxlCBg)** · [[003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2)|Full transcript]] · [[Security+ - Master Notes|Consolidated notes]] · [[Index|All lessons]]
 
 > [!summary] Learning target — Essential
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.

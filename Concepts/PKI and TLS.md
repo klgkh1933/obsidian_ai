@@ -32,8 +32,8 @@ Why is certificate validation necessary during an encrypted session?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials|Lesson 03]] · [↗ Video](https://www.youtube.com/watch?v=Xns4tNjM-yg) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice|Lesson 04]] · [↗ Video](https://www.youtube.com/watch?v=i_T7hNmbgEQ) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 11 - Network Architecture and Secure Access|Lesson 11]] · [↗ Video](https://www.youtube.com/watch?v=X_nHCg144zE)
+[[Lesson 03 - Cryptography Essentials|Lesson 03]] · [↗ Video](https://www.youtube.com/watch?v=Xns4tNjM-yg) · [[Lesson 04 - Encryption in Practice|Lesson 04]] · [↗ Video](https://www.youtube.com/watch?v=i_T7hNmbgEQ) · [[Lesson 11 - Network Architecture and Secure Access|Lesson 11]] · [↗ Video](https://www.youtube.com/watch?v=X_nHCg144zE)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

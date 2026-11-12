@@ -32,8 +32,8 @@ Why does successful login not imply access to all documents?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [↗ Video](https://www.youtube.com/watch?v=RZnprQW-3Ac) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 15 - Identity and Access Management|Lesson 15]] · [↗ Video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)
+[[Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [↗ Video](https://www.youtube.com/watch?v=RZnprQW-3Ac) · [[Lesson 15 - Identity and Access Management|Lesson 15]] · [↗ Video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

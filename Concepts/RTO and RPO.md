@@ -32,8 +32,8 @@ Why can a restored document index still violate the RPO or produce unauthorized 
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 14 - Availability, Backups and Disaster Recovery|Lesson 14]] · [↗ Video](https://www.youtube.com/watch?v=8Sflt57yaWU)
+[[Lesson 14 - Availability, Backups and Disaster Recovery|Lesson 14]] · [↗ Video](https://www.youtube.com/watch?v=8Sflt57yaWU)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

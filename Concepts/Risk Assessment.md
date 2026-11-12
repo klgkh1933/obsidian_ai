@@ -33,8 +33,8 @@ What evidence would make you revise the likelihood of prompt-injection exfiltrat
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 09 - Vulnerabilities, CVE, CWE and CVSS|Lesson 09]] · [↗ Video](https://www.youtube.com/watch?v=npIynPoRltA) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 19 - Governance, Policies and Risk Treatment|Lesson 19]] · [↗ Video](https://www.youtube.com/watch?v=QNT9oLfo-3I)
+[[Lesson 09 - Vulnerabilities, CVE, CWE and CVSS|Lesson 09]] · [↗ Video](https://www.youtube.com/watch?v=npIynPoRltA) · [[Lesson 19 - Governance, Policies and Risk Treatment|Lesson 19]] · [↗ Video](https://www.youtube.com/watch?v=QNT9oLfo-3I)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

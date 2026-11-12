@@ -32,8 +32,8 @@ How would you distinguish a compromised source document from a modified model fi
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]] · [↗ Video](https://www.youtube.com/watch?v=a2G9W8QmFCs)
+[[Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]] · [↗ Video](https://www.youtube.com/watch?v=a2G9W8QmFCs)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

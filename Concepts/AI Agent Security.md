@@ -33,8 +33,8 @@ What happens if the agent follows malicious instructions hidden in a retrieved f
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]] · [↗ Video](https://www.youtube.com/watch?v=a2G9W8QmFCs) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 16 - Monitoring, SIEM, SOAR and Security AI|Lesson 16]] · [↗ Video](https://www.youtube.com/watch?v=p8H-Fg_NOaQ)
+[[Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]] · [↗ Video](https://www.youtube.com/watch?v=a2G9W8QmFCs) · [[Lesson 16 - Monitoring, SIEM, SOAR and Security AI|Lesson 16]] · [↗ Video](https://www.youtube.com/watch?v=p8H-Fg_NOaQ)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

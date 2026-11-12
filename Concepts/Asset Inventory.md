@@ -32,8 +32,8 @@ How can a forgotten test AI service bypass the organization’s patch and securi
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 09 - Vulnerabilities, CVE, CWE and CVSS|Lesson 09]] · [↗ Video](https://www.youtube.com/watch?v=npIynPoRltA) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 17 - Asset and Vulnerability Management|Lesson 17]] · [↗ Video](https://www.youtube.com/watch?v=fTpQRFzTVwY)
+[[Lesson 09 - Vulnerabilities, CVE, CWE and CVSS|Lesson 09]] · [↗ Video](https://www.youtube.com/watch?v=npIynPoRltA) · [[Lesson 17 - Asset and Vulnerability Management|Lesson 17]] · [↗ Video](https://www.youtube.com/watch?v=fTpQRFzTVwY)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

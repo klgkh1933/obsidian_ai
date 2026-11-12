@@ -32,8 +32,8 @@ What happens to a document’s embeddings when the original file is deleted?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 13 - Data Protection and Information Lifecycle|Lesson 13]] · [↗ Video](https://www.youtube.com/watch?v=7hF2DSks_OU) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 17 - Asset and Vulnerability Management|Lesson 17]] · [↗ Video](https://www.youtube.com/watch?v=fTpQRFzTVwY)
+[[Lesson 13 - Data Protection and Information Lifecycle|Lesson 13]] · [↗ Video](https://www.youtube.com/watch?v=7hF2DSks_OU) · [[Lesson 17 - Asset and Vulnerability Management|Lesson 17]] · [↗ Video](https://www.youtube.com/watch?v=fTpQRFzTVwY)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

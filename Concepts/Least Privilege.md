@@ -32,8 +32,8 @@ What damage remains possible if an AI agent’s credential is stolen?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [↗ Video](https://www.youtube.com/watch?v=RZnprQW-3Ac) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management|Lesson 02]] · [↗ Video](https://www.youtube.com/watch?v=iTlk_HxlCBg) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture|Lesson 05]] · [↗ Video](https://www.youtube.com/watch?v=XGLBWhiy0s4) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 15 - Identity and Access Management|Lesson 15]] · [↗ Video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)
+[[Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [↗ Video](https://www.youtube.com/watch?v=RZnprQW-3Ac) · [[Lesson 02 - Security Controls and Change Management|Lesson 02]] · [↗ Video](https://www.youtube.com/watch?v=iTlk_HxlCBg) · [[Lesson 05 - Zero Trust Architecture|Lesson 05]] · [↗ Video](https://www.youtube.com/watch?v=XGLBWhiy0s4) · [[Lesson 15 - Identity and Access Management|Lesson 15]] · [↗ Video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

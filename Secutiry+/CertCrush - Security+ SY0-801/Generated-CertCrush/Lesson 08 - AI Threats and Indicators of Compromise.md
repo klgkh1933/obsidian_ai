@@ -15,7 +15,7 @@ tags:
 ---
 # Lesson 08 — AI Threats and Indicators of Compromise
 
-**[▶ Watch video](https://www.youtube.com/watch?v=a2G9W8QmFCs)** · [[019 - Security+ SY0-801 AI Threats and 12 Indicators of Compromise (Lesson 8)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
+**[▶ Watch video](https://www.youtube.com/watch?v=a2G9W8QmFCs)** · [[019 - Security+ SY0-801 AI Threats and 12 Indicators of Compromise (Lesson 8)|Full transcript]] · [[Security+ - Master Notes|Consolidated notes]] · [[Index|All lessons]]
 
 > [!summary] Learning target — Essential
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.

@@ -31,7 +31,7 @@ tags:
 - Authenticity identifies genuine origin; [[Digital Signatures]] can substantiate integrity and key possession; [[AAA (Authentication Authorization Accounting)]] and protected logs support accountability.
 - **Important:** a log record does not automatically prove non-repudiation; a digest without a trusted reference does not prove integrity.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials|Lesson 03]]
+**Lessons:** [[Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [[Lesson 03 - Cryptography Essentials|Lesson 03]]
 
 ### Security control reasoning
 
@@ -39,7 +39,7 @@ tags:
 - [[Defense in Depth]] stacks independent safeguards; [[Least Privilege]] reduces the damage of a compromised identity; [[Separation of Duties]] divides conflicting authority.
 - [[Change Management]]: approve, test, deploy, verify and document—plan rollback and exceptions.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management|Lesson 02]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 10 - Hardening and Security Mitigations|Lesson 10]]
+**Lessons:** [[Lesson 02 - Security Controls and Change Management|Lesson 02]] · [[Lesson 10 - Hardening and Security Mitigations|Lesson 10]]
 
 ## 02 · Identity, authorization and zero trust
 
@@ -51,7 +51,7 @@ tags:
 - [[Identity Threats]]: password spraying, phishing, token replay/session theft; MFA at login does not neutralize a subsequently stolen bearer token.
 - [[OAuth and OIDC]]: OAuth delegated authorization; OIDC identity; SAML SSO assertions; LDAP directories; Kerberos tickets.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 15 - Identity and Access Management|Lesson 15]]
+**Lessons:** [[Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [[Lesson 15 - Identity and Access Management|Lesson 15]]
 
 ### Zero trust
 
@@ -59,7 +59,7 @@ tags:
 - Policy decision and enforcement components perform different duties; reevaluate context and test denied requests.
 - An AI agent or service account is not a substitute for **end-user document authorization**.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture|Lesson 05]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 15 - Identity and Access Management|Lesson 15]]
+**Lessons:** [[Lesson 05 - Zero Trust Architecture|Lesson 05]] · [[Lesson 15 - Identity and Access Management|Lesson 15]]
 
 ## 03 · Cryptography and data protection
 
@@ -70,7 +70,7 @@ tags:
 - [[Digital Signatures]] and [[PKI and TLS]]: verify source and certificate chain; TLS protects traffic but not the rightness of an application’s access decisions.
 - ECDHE offers forward secrecy; HSM/KMS/TPM and certificate lifecycle reduce private-key exposure; encrypted disks do not prevent authorized plaintext access.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials|Lesson 03]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice|Lesson 04]]
+**Lessons:** [[Lesson 03 - Cryptography Essentials|Lesson 03]] · [[Lesson 04 - Encryption in Practice|Lesson 04]]
 
 ### Data handling
 
@@ -79,7 +79,7 @@ tags:
 - [[Data Lifecycle]] includes records, prompts, embeddings, caches, logs, backups, retention holds and verifiable disposal.
 - [[Data Exfiltration]] can use authorized agents, email connectors or application outputs even though traffic is encrypted.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 13 - Data Protection and Information Lifecycle|Lesson 13]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]]
+**Lessons:** [[Lesson 13 - Data Protection and Information Lifecycle|Lesson 13]] · [[Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]]
 
 ## 04 · Threats and weaknesses
 
@@ -90,7 +90,7 @@ tags:
 - Malware: virus, worm, Trojan, ransomware, spyware, rootkit, logic bomb, fileless abuse.
 - Human vectors: phishing, smishing, vishing, quishing, deepfake impersonation; use independent verification.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence|Lesson 06]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes|Lesson 07]]
+**Lessons:** [[Lesson 06 - Threat Actors, Vectors and Intelligence|Lesson 06]] · [[Lesson 07 - Malware, Human Attacks and Deepfakes|Lesson 07]]
 
 ### Vulnerability analysis
 
@@ -99,7 +99,7 @@ tags:
 - Risk depends on reachability, exploitation, business impact, affected information and compensating controls.
 - Hardening, patching, isolation, allowlisting, code review and tested negative permissions reduce exposure.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 09 - Vulnerabilities, CVE, CWE and CVSS|Lesson 09]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 10 - Hardening and Security Mitigations|Lesson 10]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 17 - Asset and Vulnerability Management|Lesson 17]]
+**Lessons:** [[Lesson 09 - Vulnerabilities, CVE, CWE and CVSS|Lesson 09]] · [[Lesson 10 - Hardening and Security Mitigations|Lesson 10]] · [[Lesson 17 - Asset and Vulnerability Management|Lesson 17]]
 
 ## 05 · Network and cloud architecture
 
@@ -109,7 +109,7 @@ tags:
 - Firewalls control traffic; IDS detects; IPS blocks; NAC controls device admission; VPN secures connectivity but does not grant application authorization.
 - Fail-open and fail-closed express an availability/security trade-off; select deliberately for each resource.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 11 - Network Architecture and Secure Access|Lesson 11]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture|Lesson 05]]
+**Lessons:** [[Lesson 11 - Network Architecture and Secure Access|Lesson 11]] · [[Lesson 05 - Zero Trust Architecture|Lesson 05]]
 
 ### Cloud responsibilities
 
@@ -117,7 +117,7 @@ tags:
 - Microservices, serverless and IaC require controlled identities, dependencies and change testing.
 - Data locality, jurisdiction, hosting, subprocessors and approved cloud security posture must be separately verified.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 12 - Cloud Security and Shared Responsibility|Lesson 12]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]]
+**Lessons:** [[Lesson 12 - Cloud Security and Shared Responsibility|Lesson 12]] · [[Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]]
 
 ## 06 · AI-specific threats and controls
 
@@ -128,7 +128,7 @@ tags:
 - Model file manipulation and untrusted dependencies need signed provenance, versioning, validation and supplier review.
 - Hallucinations, bias and lack of explainability are different kinds of AI reliability/trustworthiness problems.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]]
+**Lessons:** [[Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]]
 
 ### Agents and sensitive actions
 
@@ -137,7 +137,7 @@ tags:
 - A well-designed system should prevent exfiltration even when the model obeys a hostile retrieved passage.
 - Monitor prompt injection and data exfiltration at deterministic application and tool boundaries.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 16 - Monitoring, SIEM, SOAR and Security AI|Lesson 16]]
+**Lessons:** [[Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]] · [[Lesson 16 - Monitoring, SIEM, SOAR and Security AI|Lesson 16]]
 
 ## 07 · Security operations and recovery
 
@@ -148,7 +148,7 @@ tags:
 - [[Security Automation]] should have scoped credentials, human approval for high-impact actions, and rollback.
 - [[Incident Response]]: prepare, detect/analyze, contain, eradicate, recover, communicate and learn; operational phases often overlap.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 16 - Monitoring, SIEM, SOAR and Security AI|Lesson 16]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 18 - Incident Response and Forensics|Lesson 18]]
+**Lessons:** [[Lesson 16 - Monitoring, SIEM, SOAR and Security AI|Lesson 16]] · [[Lesson 18 - Incident Response and Forensics|Lesson 18]]
 
 ### Resilience and asset control
 
@@ -157,7 +157,7 @@ tags:
 - [[Business Continuity and Disaster Recovery]]: backups, immutable/offline copies, tested restoration, alternative service procedures.
 - A restored AI service needs both its data/index and the correct identity/authorization policies.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 14 - Availability, Backups and Disaster Recovery|Lesson 14]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 17 - Asset and Vulnerability Management|Lesson 17]]
+**Lessons:** [[Lesson 14 - Availability, Backups and Disaster Recovery|Lesson 14]] · [[Lesson 17 - Asset and Vulnerability Management|Lesson 17]]
 
 ## 08 · Governance, risk and assurance
 
@@ -168,7 +168,7 @@ tags:
 - Avoid, reduce, transfer/share or accept risk. [[Residual Risk]] still requires an accountable owner and decision authority.
 - NIST CSF outcomes help structure review; federal and departmental controls must be assessed under the applicable GC processes.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 19 - Governance, Policies and Risk Treatment|Lesson 19]]
+**Lessons:** [[Lesson 19 - Governance, Policies and Risk Treatment|Lesson 19]]
 
 ### Supplier assurance and authorization
 
@@ -176,7 +176,7 @@ tags:
 - [[Security Assessment and Authorization]]: define scope/requirements, evaluate control design, gather test evidence, report gaps, and obtain a documented decision by authorized risk owners.
 - Audit evidence, independent testing and awareness outcomes show whether required controls are working.
 
-**Lessons:** [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]]
+**Lessons:** [[Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]]
 
 ## At-a-glance relationships
 

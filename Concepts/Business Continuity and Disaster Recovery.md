@@ -32,8 +32,8 @@ What will the department do if its AI model API becomes unavailable for two days
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 14 - Availability, Backups and Disaster Recovery|Lesson 14]] · [↗ Video](https://www.youtube.com/watch?v=8Sflt57yaWU)
+[[Lesson 14 - Availability, Backups and Disaster Recovery|Lesson 14]] · [↗ Video](https://www.youtube.com/watch?v=8Sflt57yaWU)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

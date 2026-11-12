@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/Security+.md",
+                "file": "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security+"
+              "title": "Lesson 05 - Zero Trust Architecture - Kh"
             }
           },
           {
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
+                "file": "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
                 "mode": "source",
                 "source": false
               },
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b329b00d4b77c58a",
@@ -279,32 +279,32 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9cca1e666eab93bf",
+  "active": "7b0264e62fc99e4c",
   "lastOpenFiles": [
-    "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
-    "Secutiry+/A-MyNotes/CertCrush-Transcript/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.md",
-    "Secutiry+/A-MyNotes/Security+.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Security+.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/AAA Key Concepts Dashboard.md.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/CertCrush-Transcript/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust.md",
     "SecAI+/Rick.SecAI+/Rick_SecAI_Study_Guide_Episodes_00-09.md",
     "Concepts/ECDHE.md",
     "Main -  CompTIA SecAI+ (CY0-001).md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
     "SecAI+/SecGuy.SecAI+/001 - CompTIA SecAI+ Domain 1： AI Fundamentals & Neural Networks Explained.md",
     "Book-The COMPTIA SECAI+/Chapter 1.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132301.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132203.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132056.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112131312.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112131028.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112130634.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112130600.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112130253.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112130130.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112132301.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112132203.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112132056.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112131312.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112131028.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112130634.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112130600.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112130253.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112130130.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials.md",
     "Misc/My Obsidian Related Notes.md",
     "Temp_soumna/‫3 اغذية جبارة تخلصك من السكري باسابيع (بلا دواء!) [1zHLzVaqYyE].info.json",
     "Temp_soumna/‫3 اغذية جبارة تخلصك من السكري باسابيع (بلا دواء!) [1zHLzVaqYyE].en.vtt",
@@ -316,7 +316,7 @@
     "Temp_soumna/كيف تتخلص من الكرش و مقاومة الانسولين بشهرين بلا دواء! [IqxWsFJaqvo].en.vtt",
     "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].info.json",
     "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].en.vtt",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110164502.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261110164502.png",
     "Misc/YT Transcript Download.md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",

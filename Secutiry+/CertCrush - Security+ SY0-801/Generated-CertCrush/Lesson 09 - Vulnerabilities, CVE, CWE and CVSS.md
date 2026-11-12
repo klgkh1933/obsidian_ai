@@ -15,7 +15,7 @@ tags:
 ---
 # Lesson 09 — Vulnerabilities, CVE, CWE and CVSS
 
-**[▶ Watch video](https://www.youtube.com/watch?v=npIynPoRltA)** · [[011 - Security+ SY0-801 CVE vs CWE vs CVSS Explained (Lesson 9)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
+**[▶ Watch video](https://www.youtube.com/watch?v=npIynPoRltA)** · [[011 - Security+ SY0-801 CVE vs CWE vs CVSS Explained (Lesson 9)|Full transcript]] · [[Security+ - Master Notes|Consolidated notes]] · [[Index|All lessons]]
 
 > [!summary] Learning target — Essential
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.
