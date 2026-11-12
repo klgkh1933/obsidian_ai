@@ -57,8 +57,12 @@ tags:
 - Prioritize quality and applicability of intelligence; record source, timeliness, confidence and limitations.
 - Translate intelligence into justified control changes, monitoring and risk decisions.
 - ![[Pasted image 20261112162418.png]]
+- ![[Pasted image 20261112162531.png]]
+- ![[Pasted image 20261112162702.png]]
+- ![[Pasted image 20261112162806.png]]
 
-
+## Lesson review
+- ![[Pasted image 20261112162937.png]]
 ## Apply it to AI security assurance
 
 > [!example] Scenario
