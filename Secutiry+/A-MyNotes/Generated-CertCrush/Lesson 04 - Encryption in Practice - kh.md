@@ -94,12 +94,15 @@ tags:
 - Obfuscation hides meaning but does not provide strong confidentiality.
 - Tokenization substitutes a controlled reference; masking hides parts of data; hashing creates a digest.
 - Modern password stores rely on salted, slow password hashing—not simple SHA-256.
-	- 
+	- ![[Pasted image 20261112130634.png]]
+	- ![[Pasted image 20261112131028.png]]
 
 ## Post-quantum planning · [↗ 18:43](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=1123s)
 
 - Long-lived sensitive data may justify planning for migration to standardized post-quantum algorithms.
 - Maintain algorithm inventories and crypto-agility; deployment should follow approved government/organizational guidance.
+- PQC: post quantum cryptography
+- 
 
 
 ## Apply it to AI security assurance
@@ -117,4 +120,4 @@ tags:
 
 - **What I misunderstood:**
 - **One real example:**
-- **One unresolved question
+- **One unresolved question:**
