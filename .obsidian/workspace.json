@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
+                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 04 - Encryption in Practice - kh"
+              "title": "Lesson 02 - Security Controls and Change Management - Kh"
             }
           }
         ],
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.7920722961426
+    "width": 561.8315315246582
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -256,6 +256,7 @@
   "active": "29e79c84fe648b45",
   "lastOpenFiles": [
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials.md",
     "Misc/My Obsidian Related Notes.md",
     "Temp_soumna/‫3 اغذية جبارة تخلصك من السكري باسابيع (بلا دواء!) [1zHLzVaqYyE].info.json",
@@ -278,7 +279,6 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109150344.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109144958.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261109144240.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
     "Misc/YT Transcript Download.md",
     "ECDHE.md",
