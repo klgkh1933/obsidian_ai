@@ -38,9 +38,9 @@ tags:
     - Firewall
     - Encryption
 2. **Detective**: Finds
+    - Monitoring and Log review
     - Camera
     - **IDS** stands for **Intrusion Detection System**, which monitors network traffic for suspicious activity
-    - Log review
 3. **Corrective**: Restores
     - Backups
     - Extinguisher
@@ -69,9 +69,9 @@ tags:
 - [[Defense in Depth]] = independent layers limiting failure of any one safeguard.
 	- Staking multiple layer of defense.
 	- ![[Pasted image 20261109113446.png|589]]
+	- Defense in depth requires diverse, independently enforced controls—not several settings all bypassed by one credential.
 - [[Least Privilege]] = minimum access needed; 
 - [[Separation of Duties]] = split conflicting powers across people or systems.
-- Defense in depth requires diverse, independently enforced controls—not several settings all bypassed by one credential.
 
 # Change Management
 ## Change management protects existing security · [↗ 11:39](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=699s)
@@ -88,8 +88,9 @@ tags:
 ![[Pasted image 20261105155643.png]]
 - CAB: Change Advisory Board
 - SOP: Standard Operating Procedure
-- Fail forward is when you can not go back (back out, rollback the changes)
-	- keep it, patch on after
+- Back out vd Fail forward
+	- is when you can not go 
+		- keep it, patch on after
 Scenario 
 ![[Pasted image 20261105155857.png]]
 ![[Pasted image 20261105160118.png]]
