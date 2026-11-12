@@ -36,8 +36,9 @@ tags:
 	- ECC small keys (same security, for phones and low powered devices)
 - Hybrid usage: Modern TLS 
 	- TLS 1.3 (Transport Layer Security)
-	- uses authenticated asymmetric key establishment (RSA) 
-	- !? TLS 1.3 does not use RSA to establish session keys. It typically uses ephemeral ==[[ECDHE]]== for key agreement, while RSA can be used for authentication through digital signatures.
+	- TLS 1.3 uses
+		- ephemeral ==[[ECDHE]]== for key agreement, 
+		- RSA or ECDSA  for authentication through digital signatures.
 	- uses efficient symmetric session encryption (AES)
 	-  ![[Pasted image 20261109115656.png]]
 ## Keys, algorithms and modes · [↗ 07:04](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=424s)
