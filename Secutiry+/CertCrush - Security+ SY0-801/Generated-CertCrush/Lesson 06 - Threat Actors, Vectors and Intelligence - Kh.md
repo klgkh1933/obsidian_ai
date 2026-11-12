@@ -39,7 +39,8 @@ tags:
 ## Actor actor attributes
 - ![[Pasted image 20261112154114.png]]
 
-
+### Actor motivations
+- ![[Pasted image 20261112160737.png]]
 ## Attack surface versus vector · [↗ 09:43](https://www.youtube.com/watch?v=YHj9rKND0VY&t=583s)
 
 - [[Threat Modeling]]: **attack surface** is the set of exposed ways in; **attack vector** is a particular route or method.
