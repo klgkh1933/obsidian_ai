@@ -22,6 +22,7 @@ tags:
 
 ## Threat actor classes and motivations · [↗ 01:15](https://www.youtube.com/watch?v=YHj9rKND0VY&t=75s)
 
+### Threat actor classes
 - Nation-state/APT: espionage, persistence, strategic disruption; 
 	- ![[Pasted image 20261112152441.png]]
 - Organized crime: profit and extortion.
@@ -35,7 +36,9 @@ tags:
 	-  
 - Accidental actor
 	- ![[Pasted image 20261112153756.png]]
-#
+## Actor actor attributes
+- ![[Pasted image 20261112154114.png]]
+
 
 ## Attack surface versus vector · [↗ 09:43](https://www.youtube.com/watch?v=YHj9rKND0VY&t=583s)
 
