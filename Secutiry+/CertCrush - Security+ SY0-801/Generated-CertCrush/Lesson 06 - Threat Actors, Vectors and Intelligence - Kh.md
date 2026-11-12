@@ -56,6 +56,9 @@ tags:
 - Collect, process, analyze and share evidence relevant to your systems and threat model.
 - Prioritize quality and applicability of intelligence; record source, timeliness, confidence and limitations.
 - Translate intelligence into justified control changes, monitoring and risk decisions.
+- Two questions rank threats:
+	- ***Likelihood*** is how probable it is that a threat will actually be tried against you. 
+	- ***Impact*** is how much damage it would cause if it worked. A nation state targeting a local bakery is low likelihood.
 - ![[Pasted image 20261112162418.png]]
 - ![[Pasted image 20261112162531.png]]
 - ![[Pasted image 20261112162702.png]]
