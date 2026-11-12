@@ -15,7 +15,7 @@ tags:
 ---
 # Lesson 11 — Network Architecture and Secure Access
 
-**[▶ Watch video](https://www.youtube.com/watch?v=X_nHCg144zE)** · [[Secutiry+/CertCrush/013 - Security+ SY0-801 Network Design Explained (Lesson 11)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
+**[▶ Watch video](https://www.youtube.com/watch?v=X_nHCg144zE)** · [[013 - Security+ SY0-801 Network Design Explained (Lesson 11)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
 
 > [!summary] Learning target — Important
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.

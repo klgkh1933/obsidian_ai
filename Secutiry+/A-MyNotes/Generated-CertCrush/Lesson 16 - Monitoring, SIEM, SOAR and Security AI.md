@@ -15,7 +15,7 @@ tags:
 ---
 # Lesson 16 — Monitoring, SIEM, SOAR and Security AI
 
-**[▶ Watch video](https://www.youtube.com/watch?v=p8H-Fg_NOaQ)** · [[Secutiry+/CertCrush/018 - Security+ SY0-801 SIEM vs SOAR： What Each One Does (Lesson 16)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
+**[▶ Watch video](https://www.youtube.com/watch?v=p8H-Fg_NOaQ)** · [[018 - Security+ SY0-801 SIEM vs SOAR： What Each One Does (Lesson 16)|Full transcript]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Consolidated notes]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|All lessons]]
 
 > [!summary] Learning target — Essential
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.

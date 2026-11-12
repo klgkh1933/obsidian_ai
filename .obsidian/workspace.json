@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecAI+/Rick.SecAI+/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+                "file": "Secutiry+/A-MyNotes/Security+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rick_SecAI_Study_Guide_Episodes_00-09"
+              "title": "Security+"
             }
           },
           {
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "b329b00d4b77c58a",
@@ -279,19 +279,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7b0264e62fc99e4c",
+  "active": "9cca1e666eab93bf",
   "lastOpenFiles": [
+    "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
+    "Secutiry+/A-MyNotes/CertCrush-Transcript/001 - Security+ SY0-801 Lesson 1： CIA Triad, AAA and Zero Trust.md",
+    "Secutiry+/A-MyNotes/Security+.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust.md",
+    "SecAI+/Rick.SecAI+/Rick_SecAI_Study_Guide_Episodes_00-09.md",
     "Concepts/ECDHE.md",
     "Main -  CompTIA SecAI+ (CY0-001).md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
-    "SecAI+/Rick.SecAI+/Rick_SecAI_Study_Guide_Episodes_00-09.md",
     "SecAI+/SecGuy.SecAI+/001 - CompTIA SecAI+ Domain 1： AI Fundamentals & Neural Networks Explained.md",
     "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132301.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132203.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132056.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112131312.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112131028.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112130634.png",
@@ -313,7 +317,6 @@
     "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].info.json",
     "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].en.vtt",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110164502.png",
-    "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
     "Misc/YT Transcript Download.md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",
@@ -323,9 +326,6 @@
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 03 — AI Security Frameworks= OWASP, NIST, ATLAS & ISO 42001.md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 02 — The AI Attack Surface (Where the New Risk Lives).md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 01 — AI & Machine Learning for Security Pros, Explained Simply.md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan).md",
-    "SecAI+/SecGuy.SecAI+/017 - SecAI+ Domain 3： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/016 - SecAI+ Domain 4： 10 Question Walkthrough.md"
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 01 — AI & Machine Learning for Security Pros, Explained Simply.md"
   ]
 }
