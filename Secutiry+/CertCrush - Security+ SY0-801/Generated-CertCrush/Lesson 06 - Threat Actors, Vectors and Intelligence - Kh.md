@@ -25,6 +25,7 @@ tags:
 - Nation-state/APT: espionage, persistence, strategic disruption; organized crime: profit and extortion.
 - Hacktivists, competitors, insiders (malicious or accidental) and less capable attackers vary in resources and access.
 - Evaluate capability, intent, access, target value and observed activity rather than treating the label as a risk score.
+- 
 
 ## Attack surface versus vector · [↗ 09:43](https://www.youtube.com/watch?v=YHj9rKND0VY&t=583s)
 
