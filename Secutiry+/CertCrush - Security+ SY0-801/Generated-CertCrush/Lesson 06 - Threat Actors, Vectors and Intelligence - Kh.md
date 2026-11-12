@@ -22,10 +22,13 @@ tags:
 
 ## Threat actor classes and motivations · [↗ 01:15](https://www.youtube.com/watch?v=YHj9rKND0VY&t=75s)
 
-- Nation-state/APT: espionage, persistence, strategic disruption; organized crime: profit and extortion.
+- Nation-state/APT: espionage, persistence, strategic disruption; 
 	- ![[Pasted image 20261112152441.png]]
-	- ![[Pasted image 20261112152716.png]]
-- Hacktivists, competitors, insiders (malicious or accidental) and less capable attackers vary in resources and access.
+- Organized crime: profit and extortion.
+  Terrorism:
+  Hacktivist:
+		- ![[Pasted image 20261112152716.png]]
+- Hackti competitors, insiders (malicious or accidental) and less capable attackers vary in resources and access.
 - Evaluate capability, intent, access, target value and observed activity rather than treating the label as a risk score.
 - 
 
