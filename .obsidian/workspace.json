@@ -40,17 +40,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book-The COMPTIA SECAI+/Chapter 1.md",
+                "file": "SecAI+/Rick.SecAI+/Rick_SecAI_Study_Guide_Episodes_00-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "Rick_SecAI_Study_Guide_Episodes_00-09"
             }
           },
           {
             "id": "29e79c84fe648b45",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,6 +59,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Lesson 05 - Zero Trust Architecture - Kh"
             }
@@ -73,6 +75,7 @@
           {
             "id": "7b0264e62fc99e4c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "webviewer",
               "state": {
@@ -80,6 +83,7 @@
                 "title": "Security+ SY0-801 Zero Trust Explained (Lesson 5) - YouTube",
                 "mode": "webview"
               },
+              "pinned": true,
               "icon": "globe-2",
               "title": "Security+ SY0-801 Zero Trust Explained (Lesson 5) - YouTube"
             }
@@ -146,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.8315315246582,
-    "collapsed": true
+    "width": 561.8315315246582
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -276,12 +279,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "29e79c84fe648b45",
+  "active": "7b0264e62fc99e4c",
   "lastOpenFiles": [
+    "Concepts/ECDHE.md",
+    "Main -  CompTIA SecAI+ (CY0-001).md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
+    "SecAI+/Rick.SecAI+/Rick_SecAI_Study_Guide_Episodes_00-09.md",
+    "SecAI+/SecGuy.SecAI+/001 - CompTIA SecAI+ Domain 1： AI Fundamentals & Neural Networks Explained.md",
+    "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132301.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132203.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112132056.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112131312.png",
@@ -305,10 +313,8 @@
     "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].info.json",
     "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].en.vtt",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110164502.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110153635.png",
     "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
     "Misc/YT Transcript Download.md",
-    "ECDHE.md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 07 — Indirect Prompt Injection (When Your Data Is the Attacker).md",
@@ -320,9 +326,6 @@
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 01 — AI & Machine Learning for Security Pros, Explained Simply.md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 00 — The Whole Exam in 9 Minutes (Domains, Weights, Plan).md",
     "SecAI+/SecGuy.SecAI+/017 - SecAI+ Domain 3： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/016 - SecAI+ Domain 4： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/015 - SecAI+ Domain 2： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/014 - SecAI+ Domain 1： 10 Question Walkthrough.md",
-    "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md"
+    "SecAI+/SecGuy.SecAI+/016 - SecAI+ Domain 4： 10 Question Walkthrough.md"
   ]
 }
