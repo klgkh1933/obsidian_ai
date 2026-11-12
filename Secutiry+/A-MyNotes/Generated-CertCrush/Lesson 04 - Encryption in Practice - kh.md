@@ -86,13 +86,15 @@ tags:
 | Typical applications | BitLocker, device identity, attestation | Root CA keys, code signing, payment systems       |
 | Performance          | Generally limited                       | Often designed for higher cryptographic workloads |
 | Cost                 | Usually included with computer          | Often substantially more expensive                |
-Continue... https://youtu.be/i_T7hNmbgEQ?t=773
 
+![[Pasted image 20261112130130.png]]
+![[Pasted image 20261112130253.png]]
 ## Not all transformations are encryption · [↗ 14:22](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=862s)
 
 - Obfuscation hides meaning but does not provide strong confidentiality.
 - Tokenization substitutes a controlled reference; masking hides parts of data; hashing creates a digest.
 - Modern password stores rely on salted, slow password hashing—not simple SHA-256.
+	- 
 
 ## Post-quantum planning · [↗ 18:43](https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=1123s)
 
@@ -115,4 +117,4 @@ Continue... https://youtu.be/i_T7hNmbgEQ?t=773
 
 - **What I misunderstood:**
 - **One real example:**
-- **One unresolved question:**
+- **One unresolved question
