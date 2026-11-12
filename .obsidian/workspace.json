@@ -256,6 +256,8 @@
   "active": "7b0264e62fc99e4c",
   "lastOpenFiles": [
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence - Kh.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112152716.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112152441.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
@@ -278,8 +280,6 @@
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112131312.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112131028.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112130634.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112130600.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 02 - Security Controls and Change Management - Kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials.md",
@@ -299,7 +299,6 @@
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 07 — Indirect Prompt Injection (When Your Data Is the Attacker).md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 05 — Adversarial Machine Learning (Evasion, Stealing & Inversion).md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 03 — AI Security Frameworks= OWASP, NIST, ATLAS & ISO 42001.md"
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md"
   ]
 }
