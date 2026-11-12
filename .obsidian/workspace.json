@@ -9,43 +9,17 @@
         "dimension": 54.77064220183486,
         "children": [
           {
-            "id": "5cefb60828fe1192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YT - SecAI+ By Rick/Youtube.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Youtube"
-            }
-          },
-          {
-            "id": "e4260099b6381404",
-            "type": "leaf",
-            "state": {
-              "type": "maki-epub",
-              "state": {
-                "file": "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub"
-              },
-              "icon": "lucide-ghost",
-              "title": "maki-epub"
-            }
-          },
-          {
             "id": "9cca1e666eab93bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
+                "file": "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence - Kh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 05 - Zero Trust Architecture - Kh"
+              "title": "Lesson 06 - Threat Actors, Vectors and Intelligence - Kh"
             }
           },
           {
@@ -64,8 +38,7 @@
               "title": "Lesson 05 - Zero Trust Architecture - Kh"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b329b00d4b77c58a",
@@ -79,7 +52,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.youtube.com/watch?v=XGLBWhiy0s4",
+                "url": "https://www.youtube.com/watch?v=YHj9rKND0VY",
                 "title": "Security+ SY0-801 Zero Trust Explained (Lesson 5) - YouTube",
                 "mode": "webview"
               },
@@ -150,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.8315315246582,
-    "collapsed": true
+    "width": 561.8315315246582
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -282,7 +254,10 @@
   },
   "active": "7b0264e62fc99e4c",
   "lastOpenFiles": [
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence - Kh.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
+    "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112142123.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112142006.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112141829.png",
@@ -317,7 +292,6 @@
     "Temp_soumna/كيف تتخلص من الكرش و مقاومة الانسولين بشهرين بلا دواء! [IqxWsFJaqvo].info.json",
     "Temp_soumna/كيف تتخلص من الكرش و مقاومة الانسولين بشهرين بلا دواء! [IqxWsFJaqvo].en.vtt",
     "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].info.json",
-    "Temp_soumna/خسارة الوزن باقوى 3 علاجات طبيعية بايام (بلا دواء!) [9SecIGatLwU].en.vtt",
     "Misc/YT Transcript Download.md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 09 — AI Supply-Chain Security (Models, Hubs & the AI-BOM).md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 08 — Data Poisoning & Model Backdoors, Explained Simply.md",
@@ -325,7 +299,6 @@
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 06 — How Prompt Injection Works (and How to Defend It).md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 05 — Adversarial Machine Learning (Evasion, Stealing & Inversion).md",
     "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 04 — Securing the AI Lifecycle & Data (Provenance to Retirement)..md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 03 — AI Security Frameworks= OWASP, NIST, ATLAS & ISO 42001.md",
-    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 02 — The AI Attack Surface (Where the New Risk Lives).md"
+    "SecAI+/Rick.SecAI+/Transcripts/SecAI+ 03 — AI Security Frameworks= OWASP, NIST, ATLAS & ISO 42001.md"
   ]
 }
