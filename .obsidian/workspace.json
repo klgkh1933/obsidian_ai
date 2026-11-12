@@ -53,12 +53,12 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.youtube.com/watch?v=YHj9rKND0VY",
-                "title": "Security+ SY0-801 Zero Trust Explained (Lesson 5) - YouTube",
+                "title": "Security+ SY0-801 Threat Actors Explained (Lesson 6) - YouTube",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "Security+ SY0-801 Zero Trust Explained (Lesson 5) - YouTube"
+              "title": "Security+ SY0-801 Threat Actors Explained (Lesson 6) - YouTube"
             }
           }
         ]
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.8315315246582
+    "width": 561.8315315246582,
+    "collapsed": true
   },
   "right": {
     "id": "4c4163d0368f7916",
