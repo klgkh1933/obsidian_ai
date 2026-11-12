@@ -104,6 +104,9 @@ tags:
 - PQC: post quantum cryptography
 - 
 
+# Review what has been covered
+- ![[Pasted image 20261112131312.png]]
+- 
 
 ## Apply it to AI security assurance
 

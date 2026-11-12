@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
+                "file": "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 04 - Encryption in Practice - kh"
+              "title": "Lesson 05 - Zero Trust Architecture - Kh"
             }
           }
         ],
@@ -71,17 +71,17 @@
         "dimension": 46.972477064220186,
         "children": [
           {
-            "id": "9718c4dac7ffdea3",
+            "id": "7b0264e62fc99e4c",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.youtube.com/watch?v=i_T7hNmbgEQ&t=773s",
-                "title": "Security+ SY0-801 Encryption in Practice Explained (Lesson 4) - YouTube",
+                "url": "https://www.youtube.com/watch?v=XGLBWhiy0s4",
+                "title": "Security+ SY0-801 Zero Trust Explained (Lesson 5) - YouTube",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Security+ SY0-801 Encryption in Practice Explained (Lesson 4) - YouTube"
+              "title": "Security+ SY0-801 Zero Trust Explained (Lesson 5) - YouTube"
             }
           }
         ]
@@ -276,9 +276,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9718c4dac7ffdea3",
+  "active": "7b0264e62fc99e4c",
   "lastOpenFiles": [
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
+    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112131312.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112131028.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112130634.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261112130600.png",
@@ -302,7 +305,6 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110153635.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110151344.png",
     "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110150741.png",
-    "Secutiry+/A-MyNotes/Generated-CertCrush/assets/Pasted image 20261110150545.png",
     "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
     "Misc/YT Transcript Download.md",
     "ECDHE.md",
@@ -321,7 +323,6 @@
     "SecAI+/SecGuy.SecAI+/015 - SecAI+ Domain 2： 10 Question Walkthrough.md",
     "SecAI+/SecGuy.SecAI+/014 - SecAI+ Domain 1： 10 Question Walkthrough.md",
     "SecAI+/SecGuy.SecAI+/013 - SecAI+ Domain 4.2： Compliance & Law.md",
-    "SecAI+/SecGuy.SecAI+/012 - SecAi+ Domain 4.1： AI CoE, Responsible AI, and AI RIsk.md",
-    "SecAI+/SecGuy.SecAI+/011 - SecAI+ Domain 3.3： The AI Analyst (Blue Team Tools, MCP & Co-Pilot).md"
+    "SecAI+/SecGuy.SecAI+/012 - SecAi+ Domain 4.1： AI CoE, Responsible AI, and AI RIsk.md"
   ]
 }
