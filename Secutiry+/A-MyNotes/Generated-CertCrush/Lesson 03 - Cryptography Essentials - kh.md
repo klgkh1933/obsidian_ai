@@ -49,7 +49,13 @@ tags:
 ![[Pasted image 20261109140032.png]]
 
 **Modes**:
+- e.g.: AES-256-***GCM***: AES with a 256-bit key operating in GCM mode.
+- 
 ![[Pasted image 20261109140359.png]]
+
+- ECB (Electronic Codebook): Simple, but ***insecure*** for most applications.
+- CBC (Cipher Block Chaining): Provides ***confidentiality*** when used correctly, **but not integrity.**
+- GCM (Galois/Counter Mode): Provides ***both confidentiality and integrity***. Recommended for modern TLS.
 ## Hashing and password storage · [↗ 09:06](https://www.youtube.com/watch?v=Xns4tNjM-yg&t=546s)
 
 - [[Hashing and Password Storage]]: a cryptographic hash is a one-way digest; it is **not** encryption and does not hide a secret.
