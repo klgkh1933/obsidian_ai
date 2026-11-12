@@ -39,7 +39,7 @@ tags:
     - Encryption
 2. **Detective**: Finds
     - Camera
-    - IDS
+    - **IDS** stands for **Intrusion Detection System**, which monitors network traffic for suspicious activity
     - Log review
 3. **Corrective**: Restores
     - Backups
