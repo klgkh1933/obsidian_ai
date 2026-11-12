@@ -49,11 +49,14 @@ tags:
 - ![[Pasted image 20261112161518.png]]
   ![[Pasted image 20261112161757.png]]
 - ![[Pasted image 20261112161925.png]]
+- ![[Pasted image 20261112162128.png]]
+- ![[Pasted image 20261112162252.png]]
 ## Threat intelligence lifecycle · [↗ 19:52](https://www.youtube.com/watch?v=YHj9rKND0VY&t=1192s)
 
 - Collect, process, analyze and share evidence relevant to your systems and threat model.
 - Prioritize quality and applicability of intelligence; record source, timeliness, confidence and limitations.
 - Translate intelligence into justified control changes, monitoring and risk decisions.
+- ![[Pasted image 20261112162418.png]]
 
 
 ## Apply it to AI security assurance
