@@ -27,7 +27,13 @@ tags:
 	- ![[Pasted image 20261112132203.png]]
 - Use least privilege, assume compromise, evaluate user/workload identity and device posture.
 - Verification is risk-based and continuous in principle—not necessarily interactive MFA on every API call.
-
+# Zero Trust Legs
+- First Leg: Uuser authentication
+	- ![[Pasted image 20261112141829.png]]
+- Second leg: device management
+	- ![[Pasted image 20261112142006.png]]
+- Third led: application access control
+	- ![[Pasted image 20261112142123.png]]
 ## How access decisions work · [↗ 05:22](https://www.youtube.com/watch?v=XGLBWhiy0s4&t=322s)
 
 - Control plane: policy engine decides and policy administrator coordinates/access configuration.
