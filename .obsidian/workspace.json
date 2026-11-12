@@ -37,8 +37,23 @@
               "icon": "lucide-file",
               "title": "Lesson 05 - Zero Trust Architecture - Kh"
             }
+          },
+          {
+            "id": "c16b3994fdbd6679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secutiry+/CertCrush - Security+ SY0-801/CertCrush-Transcript/005 - Security+ SY0-801 Encryption in Practice Explained (Lesson 4).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "005 - Security+ SY0-801 Encryption in Practice Explained (Lesson 4)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b329b00d4b77c58a",
@@ -123,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.8315315246582,
-    "collapsed": true
+    "width": 561.8315315246582
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -253,8 +267,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7b0264e62fc99e4c",
+  "active": "c16b3994fdbd6679",
   "lastOpenFiles": [
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence - Kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112162937.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112162806.png",
@@ -267,7 +282,6 @@
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112161925.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112161757.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence.md",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
     "Assets/CompTIA SecAI+ Study Guide_ Exam CY0-001 -- Chapple, Mike & Nwanganga, Fred -- First Edition, 2026 -- Wiley -- c52e974f6ecc3e8b12f6205ee2b483a0 -- Anna’s Archive.epub",
     "Secutiry+/CertCrush - Security+ SY0-801/Security+.md",
     "Secutiry+/CertCrush - Security+ SY0-801/AAA Key Concepts Dashboard.md.md",
