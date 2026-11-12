@@ -44,8 +44,8 @@ tags:
 ## Attack surface versus vector · [↗ 09:43](https://www.youtube.com/watch?v=YHj9rKND0VY&t=583s)
 
 - [[Threat Modeling]]: **attack surface** is the set of exposed ways in; **attack vector** is a particular route or method.
-- Examples: exposed admin API, compromised browser, spear-phishing email, malicious dependency, stolen access token.
-- Third-party providers and AI model/data vendors extend the inherited attack surface.
+- ![[Pasted image 20261112160958.png]]
+- ![[Pasted image 20261112161252.png]]
 
 ## Threat intelligence lifecycle · [↗ 19:52](https://www.youtube.com/watch?v=YHj9rKND0VY&t=1192s)
 
