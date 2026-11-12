@@ -27,10 +27,15 @@ tags:
 - Organized crime: profit and extortion.
   Terrorism:
   Hacktivist:
-		- ![[Pasted image 20261112152716.png]]
-- Hackti competitors, insiders (malicious or accidental) and less capable attackers vary in resources and access.
-- Evaluate capability, intent, access, target value and observed activity rather than treating the label as a risk score.
-- 
+	- ![[Pasted image 20261112152716.png]]
+- Unskilled attacker
+  Competitors, 
+  Insider threat:
+	- ![[Pasted image 20261112153606.png]]
+	-  
+- Accidental actor
+	- ![[Pasted image 20261112153756.png]]
+#
 
 ## Attack surface versus vector · [↗ 09:43](https://www.youtube.com/watch?v=YHj9rKND0VY&t=583s)
 
