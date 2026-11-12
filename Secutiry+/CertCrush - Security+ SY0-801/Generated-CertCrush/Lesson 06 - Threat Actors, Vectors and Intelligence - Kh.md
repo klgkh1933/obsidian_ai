@@ -46,7 +46,9 @@ tags:
 - [[Threat Modeling]]: **attack surface** is the set of exposed ways in; **attack vector** is a particular route or method.
 - ![[Pasted image 20261112160958.png]]
 - ![[Pasted image 20261112161252.png]]
-
+- ![[Pasted image 20261112161518.png]]
+  ![[Pasted image 20261112161757.png]]
+- ![[Pasted image 20261112161925.png]]
 ## Threat intelligence lifecycle · [↗ 19:52](https://www.youtube.com/watch?v=YHj9rKND0VY&t=1192s)
 
 - Collect, process, analyze and share evidence relevant to your systems and threat model.
