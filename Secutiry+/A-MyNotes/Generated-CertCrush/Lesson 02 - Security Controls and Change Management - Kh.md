@@ -89,7 +89,8 @@ tags:
 - CAB: Change Advisory Board
 - SOP: Standard Operating Procedure
 - Back out vd Fail forward
-	- is when you can not go 
+	- Back out: undo and rollback the changes
+	- Fail forward: when you can not go 
 		- keep it, patch on after
 Scenario 
 ![[Pasted image 20261105155857.png]]
