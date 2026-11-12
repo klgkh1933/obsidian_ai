@@ -23,7 +23,8 @@ tags:
 ## Principles and common misconceptions · [↗ 03:08](https://www.youtube.com/watch?v=XGLBWhiy0s4&t=188s)
 
 - [[Zero Trust]] (always verify) rejects implicit trust based on internal network placement; verify explicit access to **each protected resource**.
-	- ![[Pasted image 20261112132056.png]]
+	- ![[Pasted image 20261112132301.png]]
+	- ![[Pasted image 20261112132203.png]]
 - Use least privilege, assume compromise, evaluate user/workload identity and device posture.
 - Verification is risk-based and continuous in principle—not necessarily interactive MFA on every API call.
 
