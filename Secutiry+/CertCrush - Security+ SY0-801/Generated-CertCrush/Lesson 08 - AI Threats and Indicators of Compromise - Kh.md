@@ -19,17 +19,17 @@ tags:
 
 > [!summary] Learning target — Essential
 > Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.
+## Prompt injection and jailbreaking · [↗ 03:05](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=185s)
 
+- [[Prompt Injection]]: malicious instructions cross from lower-trust text (email, webpage, retrieved document) into model behavior.
+- Direct injection originates in a user prompt; indirect injection originates in untrusted material retrieved for another task. ![[Pasted image 20261113155305.png]]
+- Jailbreaking attempts to bypass model safety constraints; it overlaps with prompt injection but is not always the same mechanism.
 ## Basic AI system boundaries · [↗ 01:32](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=92s)
 
 - Training shapes learned parameters; inference uses the trained model; agents add external tools and privileges.
 - Model outputs are **not** permission grants. Keep authorization in deterministic application/tool boundaries.
 
-## Prompt injection and jailbreaking · [↗ 03:05](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=185s)
 
-- [[Prompt Injection]]: malicious instructions cross from lower-trust text (email, webpage, retrieved document) into model behavior.
-- Direct injection originates in a user prompt; indirect injection originates in untrusted material retrieved for another task.
-- Jailbreaking attempts to bypass model safety constraints; it overlaps with prompt injection but is not always the same mechanism.
 
 ## Evasion, poisoning, model manipulation · [↗ 04:30](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=270s)
 
