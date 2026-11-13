@@ -22,30 +22,15 @@
               "icon": "lucide-file",
               "title": "Lesson 07 - Malware, Human Attacks and Deepfakes - kh"
             }
-          },
-          {
-            "id": "89bbefaaeda6947f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=DRbUTF6LXm4",
-                "title": "Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7) - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7) - YouTube"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "c4f8d166c3113c21",
+        "id": "8120ebd4144f457e",
         "type": "tabs",
         "children": [
           {
-            "id": "0067c644e82cb95b",
+            "id": "f6b8802fbb540a1f",
             "type": "leaf",
             "state": {
               "type": "webviewer",
@@ -120,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 475.5,
+    "collapsed": true
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -226,13 +212,23 @@
               "icon": "lucide-ghost",
               "title": "git-view"
             }
+          },
+          {
+            "id": "7cc09d36b1963b13",
+            "type": "leaf",
+            "state": {
+              "type": "youtube-panel-view",
+              "state": {},
+              "icon": "play-circle",
+              "title": "YouTube player"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 994.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -250,7 +246,7 @@
       "youtube-panel:Open YouTube player": false
     }
   },
-  "active": "89bbefaaeda6947f",
+  "active": "f6b8802fbb540a1f",
   "lastOpenFiles": [
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes - kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Index.md",
