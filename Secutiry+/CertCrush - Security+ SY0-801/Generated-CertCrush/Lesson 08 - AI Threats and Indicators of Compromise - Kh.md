@@ -59,6 +59,7 @@ tags:
 
 
 ## Review of the lesson
+![[Pasted image 20261113164421.png]]![[Pasted image 20261113164456.png]]![[Pasted image 20261113164537.png]]![[Pasted image 20261113164744.png]]
 
 ## Apply it to AI security assurance
 

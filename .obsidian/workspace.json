@@ -57,10 +57,12 @@
                 "id": "fe9b7d75a388f514",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
+                  "type": "image",
+                  "state": {
+                    "file": "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261105155236.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20261105155236"
                 }
               }
             ]
@@ -268,20 +270,19 @@
       "youtube-panel:Open YouTube player": false
     }
   },
-  "active": "3982e886ddd24317",
+  "active": "fe9b7d75a388f514",
   "lastOpenFiles": [
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise - Kh.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113164744.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113164537.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113164456.png",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113164421.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113164142.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113164101.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113163944.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113163835.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113163717.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113163507.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113163440.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113163225.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113163032.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113162901.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113162754.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise - Kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes - kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Index.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
