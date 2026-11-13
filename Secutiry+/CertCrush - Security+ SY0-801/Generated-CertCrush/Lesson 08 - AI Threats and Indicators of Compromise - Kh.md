@@ -32,14 +32,12 @@ tags:
 
 
 ## Family three: leaks and takeovers
-## Data leakage and unsafe agency · [↗ 06:42](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=402s)
 
-- Sensitive data may leave via prompts, logs, retrieved content, outputs or tool use.
-- [[AI Agent Security]]: excessive agency = too many tools, actions or privileges; restrict scopes, require approvals and monitor actions.
-- Unchecked model-generated code or commands can enable dangerous execution.
-![[Pasted image 20261113160201.png]]
+- Data leakage: Sensitive data may leave via prompts, logs, retrieved content, outputs or tool use.![[Pasted image 20261113160201.png]]
+- Session hijacking ![[Pasted image 20261113162224.png]]
 
-## Hallucination, bias and explainability · [↗ 09:05](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=545s)
+
+## Family 4: unreliable and unfair answers
 
 - Hallucination = unsupported or false answer presented plausibly; validate before high-impact actions.
 - Bias and poor explainability can undermine trustworthy decisions; assess separately from malicious compromise.
@@ -49,6 +47,9 @@ tags:
 - Unusual processes, unexpected network connections, impossible travel, concurrent sessions, lockouts and suspicious account changes are **signals**, not proof.
 - Correlate events and inspect source quality, alternative explanations and scope.
 
+???
+- [[AI Agent Security]]: excessive agency = too many tools, actions or privileges; restrict scopes, require approvals and monitor actions.
+- Unchecked model-generated code or commands can enable dangerous execution.
 
 ## Apply it to AI security assurance
 
