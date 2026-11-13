@@ -54,15 +54,13 @@
             "dimension": 40.19471488178025,
             "children": [
               {
-                "id": "fe9b7d75a388f514",
+                "id": "6c9a2b7e4eb1cfeb",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261105155236.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20261105155236"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               }
             ]
@@ -270,8 +268,9 @@
       "youtube-panel:Open YouTube player": false
     }
   },
-  "active": "fe9b7d75a388f514",
+  "active": "6c9a2b7e4eb1cfeb",
   "lastOpenFiles": [
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261105155236.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise - Kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113164744.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113164537.png",
