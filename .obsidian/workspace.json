@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp.md",
-                "mode": "preview",
+                "file": "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence - Kh.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temp"
+              "title": "Lesson 06 - Threat Actors, Vectors and Intelligence - Kh"
             }
           },
           {
@@ -252,8 +252,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9445c68377d5953d",
+  "active": "9cca1e666eab93bf",
   "lastOpenFiles": [
+    "Temp.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112162937.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112162702.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112162806.png",
@@ -264,7 +265,6 @@
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112162128.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112161925.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112161757.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112161518.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Security+ - Master Notes.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 19 - Governance, Policies and Risk Treatment.md",

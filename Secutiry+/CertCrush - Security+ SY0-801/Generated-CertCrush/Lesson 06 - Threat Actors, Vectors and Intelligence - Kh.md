@@ -24,14 +24,14 @@ tags:
 
 ### Threat actor classes
 - Nation-state/APT: espionage, persistence, strategic disruption; 
-	- ![[Pasted image 20261112152441.png]]
 - Organized crime: profit and extortion.
-  Terrorism:
-  Hacktivist:
-	- ![[Pasted image 20261112152716.png]]
+- Terrorism:
+- Hacktivist:
 - Unskilled attacker
   Competitors, 
   Insider threat:
+	- ![[Pasted image 20261112152441.png]]
+	- ![[Pasted image 20261112152716.png]]
 	- ![[Pasted image 20261112153606.png]]
 	-  
 - Accidental actor
