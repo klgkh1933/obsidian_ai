@@ -49,9 +49,25 @@
               "icon": "lucide-file",
               "title": "Lesson 06 - Threat Actors, Vectors and Intelligence - Kh"
             }
+          },
+          {
+            "id": "fa0a3046653259d1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Lesson 07 - Malware, Human Attacks and Deepfakes 1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7324ff7393b62158",
@@ -64,12 +80,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.youtube.com/watch?v=YHj9rKND0VY&t=1192s",
-                "title": "Security+ SY0-801 Threat Actors Explained (Lesson 6) - YouTube",
+                "url": "https://www.youtube.com/watch?v=DRbUTF6LXm4",
+                "title": "Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7) - YouTube",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Security+ SY0-801 Threat Actors Explained (Lesson 6) - YouTube"
+              "title": "Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7) - YouTube"
             }
           }
         ]
@@ -134,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 475.5
   },
   "right": {
     "id": "4c4163d0368f7916",
@@ -265,6 +281,8 @@
   },
   "active": "615adbe06bbd82f0",
   "lastOpenFiles": [
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes 1.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence - Kh.md",
     "Concepts/Threat Modeling.md",
     "Temp.md",
@@ -292,7 +310,6 @@
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 10 - Hardening and Security Mitigations.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 09 - Vulnerabilities, CVE, CWE and CVSS.md",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
@@ -300,7 +317,6 @@
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 02 - Security Controls and Change Management.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush",
     "Secutiry+/CertCrush - Security+ SY0-801/CertCrush-Transcript",
