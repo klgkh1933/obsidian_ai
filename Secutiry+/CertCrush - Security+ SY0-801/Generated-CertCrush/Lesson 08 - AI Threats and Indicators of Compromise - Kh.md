@@ -55,9 +55,10 @@ tags:
 
 - Unusual processes, unexpected network connections, impossible travel, concurrent sessions, lockouts and suspicious account changes are **signals**, not proof.
 - Correlate events and inspect source quality, alternative explanations and scope.
-- ![[Pasted image 20261113163717.png]]![[Pasted image 20261113163835.png]]
+- ![[Pasted image 20261113163717.png]]![[Pasted image 20261113163835.png]]![[Pasted image 20261113163944.png]]![[Pasted image 20261113164101.png]]![[Pasted image 20261113164142.png]]
 
 
+## Review of the lesson
 
 ## Apply it to AI security assurance
 
