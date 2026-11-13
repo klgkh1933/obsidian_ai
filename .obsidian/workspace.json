@@ -44,6 +44,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "85387fd04cdf3cea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b10896a1f987c0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://duckduckgo.com/?q=emotet+torjan&ia=web",
+                "title": "emotet torjan at DuckDuckGo",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "emotet torjan at DuckDuckGo"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +266,9 @@
       "youtube-panel:Open YouTube player": false
     }
   },
-  "active": "f6b8802fbb540a1f",
+  "active": "74b10896a1f987c0",
   "lastOpenFiles": [
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113124213.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes - kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Index.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
@@ -283,7 +304,6 @@
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 09 - Vulnerabilities, CVE, CWE and CVSS.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture.md",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 05 - Zero Trust Architecture - Kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush",
     "Secutiry+/CertCrush - Security+ SY0-801/CertCrush-Transcript",
