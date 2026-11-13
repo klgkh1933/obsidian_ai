@@ -27,12 +27,12 @@ tags:
 - Organized crime: profit and extortion.
 - Terrorism: fear, chaos, not profit
 - Hacktivist: make a point, not money
-- Unskilled attacker: 
-- Competitors
-- Insider threat:
-- Accidental actor
+- Unskilled attacker: script kiddies, low skill, real damage
+- Competitors: trade secrets
+- Insider threat: angry, greedy
+- Accidental actor: by mistake
 - ![[Pasted image 20261112152441.png]]![[Pasted image 20261112152716.png]]![[Pasted image 20261112153606.png]]![[Pasted image 20261112153756.png]]
-## Actor actor attributes
+## Actor attributes
 - ![[Pasted image 20261112154114.png]]
 
 ### Actor motivations
