@@ -26,44 +26,53 @@
         ]
       },
       {
-        "id": "8120ebd4144f457e",
-        "type": "tabs",
+        "id": "ddd338ac53a96249",
+        "type": "split",
         "children": [
           {
-            "id": "f6b8802fbb540a1f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=DRbUTF6LXm4",
-                "title": "Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7) - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7) - YouTube"
-            }
-          }
-        ]
-      },
-      {
-        "id": "85387fd04cdf3cea",
-        "type": "tabs",
-        "children": [
+            "id": "8120ebd4144f457e",
+            "type": "tabs",
+            "dimension": 59.80528511821975,
+            "children": [
+              {
+                "id": "f6b8802fbb540a1f",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.youtube.com/watch?v=DRbUTF6LXm4",
+                    "title": "Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7) - YouTube",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Security+ SY0-801 Worm vs Virus vs Trojan Explained (Lesson 7) - YouTube"
+                }
+              }
+            ]
+          },
           {
-            "id": "74b10896a1f987c0",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://duckduckgo.com/?q=emotet+torjan&ia=web",
-                "title": "emotet torjan at DuckDuckGo",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "emotet torjan at DuckDuckGo"
-            }
+            "id": "85b23389fdf1375c",
+            "type": "tabs",
+            "dimension": 40.19471488178025,
+            "children": [
+              {
+                "id": "3982e886ddd24317",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.google.com/?sca_esv=9d3573bd1f78f23b&output=search&pccc=1",
+                    "title": "Google",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Google"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -266,10 +275,10 @@
       "youtube-panel:Open YouTube player": false
     }
   },
-  "active": "74b10896a1f987c0",
+  "active": "3982e886ddd24317",
   "lastOpenFiles": [
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113124213.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes - kh.md",
+    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261113124213.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Index.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 03 - Cryptography Essentials - kh.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise.md",
@@ -288,7 +297,6 @@
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112162217.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112162128.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112161925.png",
-    "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/assets/Pasted image 20261112161757.png",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Security+ - Master Notes.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 19 - Governance, Policies and Risk Treatment.md",
