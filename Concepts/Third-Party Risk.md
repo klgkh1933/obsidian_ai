@@ -32,8 +32,8 @@ What would a supplier attestation fail to prove about your own app’s permissio
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence|Lesson 06]] · [↗ Video](https://www.youtube.com/watch?v=YHj9rKND0VY) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 12 - Cloud Security and Shared Responsibility|Lesson 12]] · [↗ Video](https://www.youtube.com/watch?v=mZU9H1nJmJk) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]] · [↗ Video](https://www.youtube.com/watch?v=GtfopUHES4Q)
+[[Lesson 06 - Threat Actors, Vectors and Intelligence|Lesson 06]] · [↗ Video](https://www.youtube.com/watch?v=YHj9rKND0VY) · [[Lesson 12 - Cloud Security and Shared Responsibility|Lesson 12]] · [↗ Video](https://www.youtube.com/watch?v=mZU9H1nJmJk) · [[Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]] · [↗ Video](https://www.youtube.com/watch?v=GtfopUHES4Q)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

@@ -32,8 +32,8 @@ What does a VPN provide, and what does it not provide?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [↗ Video](https://www.youtube.com/watch?v=RZnprQW-3Ac) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture|Lesson 05]] · [↗ Video](https://www.youtube.com/watch?v=XGLBWhiy0s4) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 11 - Network Architecture and Secure Access|Lesson 11]] · [↗ Video](https://www.youtube.com/watch?v=X_nHCg144zE) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 15 - Identity and Access Management|Lesson 15]] · [↗ Video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)
+[[Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [↗ Video](https://www.youtube.com/watch?v=RZnprQW-3Ac) · [[Lesson 05 - Zero Trust Architecture|Lesson 05]] · [↗ Video](https://www.youtube.com/watch?v=XGLBWhiy0s4) · [[Lesson 11 - Network Architecture and Secure Access|Lesson 11]] · [↗ Video](https://www.youtube.com/watch?v=X_nHCg144zE) · [[Lesson 15 - Identity and Access Management|Lesson 15]] · [↗ Video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

@@ -32,8 +32,8 @@ Which control specifically blocks an overprivileged agent, and how do you prove 
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [↗ Video](https://www.youtube.com/watch?v=RZnprQW-3Ac) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 02 - Security Controls and Change Management|Lesson 02]] · [↗ Video](https://www.youtube.com/watch?v=iTlk_HxlCBg) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 10 - Hardening and Security Mitigations|Lesson 10]] · [↗ Video](https://www.youtube.com/watch?v=pIuq5o8htcw)
+[[Lesson 01 - Security Goals, AAA and Zero Trust|Lesson 01]] · [↗ Video](https://www.youtube.com/watch?v=RZnprQW-3Ac) · [[Lesson 02 - Security Controls and Change Management|Lesson 02]] · [↗ Video](https://www.youtube.com/watch?v=iTlk_HxlCBg) · [[Lesson 10 - Hardening and Security Mitigations|Lesson 10]] · [↗ Video](https://www.youtube.com/watch?v=pIuq5o8htcw)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

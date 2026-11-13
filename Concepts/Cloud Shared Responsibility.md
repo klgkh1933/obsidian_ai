@@ -32,8 +32,8 @@ Who decides which employees may send protected data to a SaaS AI application?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 12 - Cloud Security and Shared Responsibility|Lesson 12]] · [↗ Video](https://www.youtube.com/watch?v=mZU9H1nJmJk) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]] · [↗ Video](https://www.youtube.com/watch?v=GtfopUHES4Q)
+[[Lesson 12 - Cloud Security and Shared Responsibility|Lesson 12]] · [↗ Video](https://www.youtube.com/watch?v=mZU9H1nJmJk) · [[Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]] · [↗ Video](https://www.youtube.com/watch?v=GtfopUHES4Q)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

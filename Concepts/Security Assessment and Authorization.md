@@ -33,8 +33,8 @@ Which tests and risk acceptance records should be presented to the departmental 
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 19 - Governance, Policies and Risk Treatment|Lesson 19]] · [↗ Video](https://www.youtube.com/watch?v=QNT9oLfo-3I) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]] · [↗ Video](https://www.youtube.com/watch?v=GtfopUHES4Q)
+[[Lesson 19 - Governance, Policies and Risk Treatment|Lesson 19]] · [↗ Video](https://www.youtube.com/watch?v=QNT9oLfo-3I) · [[Lesson 20 - Third-Party Security, Compliance and Assessments|Lesson 20]] · [↗ Video](https://www.youtube.com/watch?v=GtfopUHES4Q)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

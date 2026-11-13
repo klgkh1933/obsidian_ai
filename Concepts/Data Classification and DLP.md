@@ -33,8 +33,8 @@ Can a masked value still reveal identity through other fields?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 13 - Data Protection and Information Lifecycle|Lesson 13]] · [↗ Video](https://www.youtube.com/watch?v=7hF2DSks_OU)
+[[Lesson 13 - Data Protection and Information Lifecycle|Lesson 13]] · [↗ Video](https://www.youtube.com/watch?v=7hF2DSks_OU)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

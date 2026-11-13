@@ -32,8 +32,8 @@ Why is hashing a password with SHA-256 alone weaker than Argon2id?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 03 - Cryptography Essentials|Lesson 03]] · [↗ Video](https://www.youtube.com/watch?v=Xns4tNjM-yg) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice|Lesson 04]] · [↗ Video](https://www.youtube.com/watch?v=i_T7hNmbgEQ)
+[[Lesson 03 - Cryptography Essentials|Lesson 03]] · [↗ Video](https://www.youtube.com/watch?v=Xns4tNjM-yg) · [[Lesson 04 - Encryption in Practice|Lesson 04]] · [↗ Video](https://www.youtube.com/watch?v=i_T7hNmbgEQ)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

@@ -32,8 +32,8 @@ How can an attacker pivot after compromising a public-facing API if the internal
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 05 - Zero Trust Architecture|Lesson 05]] · [↗ Video](https://www.youtube.com/watch?v=XGLBWhiy0s4) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 10 - Hardening and Security Mitigations|Lesson 10]] · [↗ Video](https://www.youtube.com/watch?v=pIuq5o8htcw) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 11 - Network Architecture and Secure Access|Lesson 11]] · [↗ Video](https://www.youtube.com/watch?v=X_nHCg144zE)
+[[Lesson 05 - Zero Trust Architecture|Lesson 05]] · [↗ Video](https://www.youtube.com/watch?v=XGLBWhiy0s4) · [[Lesson 10 - Hardening and Security Mitigations|Lesson 10]] · [↗ Video](https://www.youtube.com/watch?v=pIuq5o8htcw) · [[Lesson 11 - Network Architecture and Secure Access|Lesson 11]] · [↗ Video](https://www.youtube.com/watch?v=X_nHCg144zE)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

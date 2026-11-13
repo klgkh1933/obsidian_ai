@@ -33,8 +33,8 @@ Why is an AI-generated alert summary insufficient evidence to delete an account 
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 16 - Monitoring, SIEM, SOAR and Security AI|Lesson 16]] · [↗ Video](https://www.youtube.com/watch?v=p8H-Fg_NOaQ)
+[[Lesson 16 - Monitoring, SIEM, SOAR and Security AI|Lesson 16]] · [↗ Video](https://www.youtube.com/watch?v=p8H-Fg_NOaQ)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

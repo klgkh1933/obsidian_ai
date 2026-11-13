@@ -32,8 +32,8 @@ How does token theft differ from password guessing?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 07 - Malware, Human Attacks and Deepfakes|Lesson 07]] · [↗ Video](https://www.youtube.com/watch?v=DRbUTF6LXm4) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]] · [↗ Video](https://www.youtube.com/watch?v=a2G9W8QmFCs) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 15 - Identity and Access Management|Lesson 15]] · [↗ Video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)
+[[Lesson 07 - Malware, Human Attacks and Deepfakes|Lesson 07]] · [↗ Video](https://www.youtube.com/watch?v=DRbUTF6LXm4) · [[Lesson 08 - AI Threats and Indicators of Compromise|Lesson 08]] · [↗ Video](https://www.youtube.com/watch?v=a2G9W8QmFCs) · [[Lesson 15 - Identity and Access Management|Lesson 15]] · [↗ Video](https://www.youtube.com/watch?v=CfVDAQ9FGFE)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]

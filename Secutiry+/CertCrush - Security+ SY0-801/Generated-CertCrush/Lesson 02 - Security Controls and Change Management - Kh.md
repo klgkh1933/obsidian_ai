@@ -1,0 +1,115 @@
+---
+type: video-study-note
+course: Security+ SY0-801
+provider: CertCrush
+lesson: 02
+source_video: https://www.youtube.com/watch?v=iTlk_HxlCBg
+priority: Essential
+status: generated-review
+aliases:
+  - 'CertCrush Lesson 02'
+tags:
+  - security-plus
+  - certcrush
+  - study-notes
+---
+
+**[▶ Watch video](https://www.youtube.com/watch?v=iTlk_HxlCBg)** · [[003 - Security+ SY0-801： 6 Control Types, 4 Categories (Lesson 2)|Full transcript]] · [[Security+ - Master Notes|Consolidated notes]] · [[Index|All lessons]]
+
+> [!summary] Learning target — Essential
+> Understand the concepts and be able to explain **why the safeguards work, where they fail, and how to verify them**. These are synthesized study notes, **not** the video transcript.
+
+# ==🔵Security Controls== 
+## ==🔵Categories of Controls==: how a control is implemented · [↗ 02:23](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=143s)
+
+- **Technical**/logical: encryption, identity enforcement, firewall, EDR.
+- **Managerial**: policies, risk reviews, governance, vendor requirements.
+- **Operational**: training, procedures, incident-response exercises, routine checks.
+- **Physical**: locks, surveillance, secure premises.
+
+![[Pasted image 20261105152918.png]]
+
+## ==🔵Types of Controls==: what a control does · [↗ 04:40](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=280s)
+
+**Six control types**:
+
+1. **Preventive**: Blocks
+    - Locked door
+    - Firewall
+    - Encryption
+2. **Detective**: Finds
+    - Monitoring and Log review
+    - Camera
+    - **IDS** stands for **Intrusion Detection System**, which monitors network traffic for suspicious activity
+3. **Corrective**: Restores
+    - Backups
+    - Extinguisher
+4. **Deterrent**: Discourages 
+    - Dog sign
+    - Seen camera
+    - Warning sign
+5. **Compensating**: Substitutes when the preferred control is impractical.
+    - Isolation
+    - Watch it
+    - Deadbolt
+6. **Directive**
+    - Lock screen
+    - Use policy
+    - Sign-in sign
+    - House rule
+    - Do this  
+
+![[Pasted image 20261105153417.png]]
+
+- Category and type are different dimensions: an access-control rule is typically technical + preventive.
+- Control classification varies with context; examine the actual function rather than the product name.
+![[Pasted image 20261109114021.png]]
+## Organize defenses · [↗ 08:10](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=490s)
+
+- [[Defense in Depth]] = independent layers limiting failure of any one safeguard.
+	- Staking multiple layer of defense.
+	- ![[Pasted image 20261109113446.png|589]]
+	- Defense in depth requires diverse, independently enforced controls—not several settings all bypassed by one credential.
+- [[Least Privilege]] = minimum access needed; 
+- [[Separation of Duties]] = split conflicting powers across people or systems.
+
+# Change Management
+## Change management protects existing security · [↗ 11:39](https://www.youtube.com/watch?v=iTlk_HxlCBg&t=699s)
+
+- [[Change Management]]: request → impact/risk assessment → approval → test → deploy → verify → document.
+- Prepare rollback/backout or controlled fail-forward plan; define owner, window, dependencies and downtime.
+- Emergency changes need an appropriately accelerated process and retrospective review.
+- Update diagrams, configuration baselines, audit trails and downstream consumers after changes.
+
+![[Pasted image 20261105154445.png]]
+![[Pasted image 20261105154707.png]]
+![[Pasted image 20261105154840.png]]
+![[Pasted image 20261105155236.png]]
+![[Pasted image 20261105155643.png]]
+- CAB: Change Advisory Board
+- SOP: Standard Operating Procedure
+- Back out vd Fail forward
+	- Back out: undo and rollback the changes
+	- Fail forward: when you can not go 
+		- keep it, patch on after
+Scenario 
+![[Pasted image 20261105155857.png]]
+![[Pasted image 20261105160118.png]]
+![[Pasted image 20261105160310.png]]
+## Apply it to AI security assurance
+
+> [!example] Scenario
+> Ask the team for a control matrix, evidence of negative tests, and an auditable approval and rollback plan for AI deployments.
+
+## Active recall — answer before reopening the notes
+
+1. Is a firewall a category or a type of control—or both?
+2. Why does the same compromised administrator account defeat multiple seemingly independent controls?
+3. What evidence should accompany approval of an emergency AI agent configuration change?
+
+## Personal additions
+
+- **What I misunderstood:**
+- **One real example:**
+- **One unresolved question:**
+>[!example]  sdfds

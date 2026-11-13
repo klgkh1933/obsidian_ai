@@ -32,8 +32,8 @@ Who can formally accept the residual risk of releasing an AI system?
 
 ## Sources
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 17 - Asset and Vulnerability Management|Lesson 17]] · [↗ Video](https://www.youtube.com/watch?v=fTpQRFzTVwY) · [[Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 19 - Governance, Policies and Risk Treatment|Lesson 19]] · [↗ Video](https://www.youtube.com/watch?v=QNT9oLfo-3I)
+[[Lesson 17 - Asset and Vulnerability Management|Lesson 17]] · [↗ Video](https://www.youtube.com/watch?v=fTpQRFzTVwY) · [[Lesson 19 - Governance, Policies and Risk Treatment|Lesson 19]] · [↗ Video](https://www.youtube.com/watch?v=QNT9oLfo-3I)
 
 ## Back to the learning map
 
-[[Secutiry+/A-MyNotes/Generated-CertCrush/Security+ - Master Notes|Security+ master note]] · [[Secutiry+/A-MyNotes/Generated-CertCrush/Index|Lesson index]]
+[[Security+ - Master Notes|Security+ master note]] · [[Index|Lesson index]]
