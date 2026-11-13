@@ -26,25 +26,18 @@ tags:
 - Jailbreaking: attempts to bypass model safety constraints; it overlaps with prompt injection but is not always the same mechanism.
 - Evasion: modifies runtime input to fool a deployed detector/classifier.![[Pasted image 20261113155450.png]]
 
-### Family two
-
-## Basic AI system boundaries · [↗ 01:32](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=92s)
-
-- Training shapes learned parameters; inference uses the trained model; agents add external tools and privileges.
-- Model outputs are **not** permission grants. Keep authorization in deterministic application/tool boundaries.
+## Family two
+- [[AI Data Poisoning]] alters training, tuning **or retrieval** material to skew results; RAG poisoning need not retrain the model.
+- Model manipulation affects artifacts/weights/configuration or behavior; protect provenance and integrity of model supply chains. ![[Pasted image 20261113155912.png]]![[Pasted image 20261113160023.png]]
 
 
-
-## Evasion, poisoning, model manipulation · [↗ 04:30](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=270s)
-
--
-- 
-
+## Family three: leaks and takeovers
 ## Data leakage and unsafe agency · [↗ 06:42](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=402s)
 
 - Sensitive data may leave via prompts, logs, retrieved content, outputs or tool use.
 - [[AI Agent Security]]: excessive agency = too many tools, actions or privileges; restrict scopes, require approvals and monitor actions.
 - Unchecked model-generated code or commands can enable dangerous execution.
+![[Pasted image 20261113160201.png]]
 
 ## Hallucination, bias and explainability · [↗ 09:05](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=545s)
 
