@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
-                "mode": "source",
+                "file": "Temp.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AAA Key Concepts Dashboard.md"
+              "title": "Temp"
             }
           },
           {
@@ -252,8 +252,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8ba1563a852e6954",
+  "active": "9445c68377d5953d",
   "lastOpenFiles": [
+    "Temp.md",
+    "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
     "Concepts/Zero Trust.md",
     "Concepts/Vulnerability Management.md",
     "Concepts/Threat Modeling.md",
@@ -272,10 +274,8 @@
     "Secutiry+/A-MyNotes/Generated-CertCrush/Lesson 04 - Encryption in Practice - kh.md",
     "ECDHE.md",
     "kko.md",
-    "Temp.md",
     "Main -  CompTIA SecAI+ (CY0-001).md",
     "Secutiry+/A-MyNotes/Security+.md",
-    "Secutiry+/A-MyNotes/AAA Key Concepts Dashboard.md.md",
     "Misc/My Obsidian Related Notes.md",
     "Book-The COMPTIA SECAI+/Chapter 1.md",
     "Temp_soumna/‫3 اغذية جبارة تخلصك من السكري باسابيع (بلا دواء!) [1zHLzVaqYyE].info.json",
