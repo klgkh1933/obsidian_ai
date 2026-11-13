@@ -36,11 +36,13 @@ tags:
 - Data leakage: Sensitive data may leave via prompts, logs, retrieved content, outputs or tool use.![[Pasted image 20261113160201.png]]
 - Session hijacking ![[Pasted image 20261113162224.png]]
 
-
 ## Family 4: unreliable and unfair answers
 
 - Hallucination = unsupported or false answer presented plausibly; validate before high-impact actions.
-- Bias and poor explainability can undermine trustworthy decisions; assess separately from malicious compromise.
+- Bias can undermine trustworthy decisions; assess separately from malicious compromise. ![[Pasted image 20261113162433.png]]
+- Poor explainability![[Pasted image 20261113162754.png]]
+
+## Family 5: giving the intern the key
 
 ## Indicators of compromise (IoCs) · [↗ 15:35](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=935s)
 
