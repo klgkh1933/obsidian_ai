@@ -36,6 +36,7 @@
           {
             "id": "9cca1e666eab93bf",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -43,6 +44,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Lesson 06 - Threat Actors, Vectors and Intelligence - Kh"
             }
@@ -96,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garbled",
+                "query": "rcs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,7 +255,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9cca1e666eab93bf",
+  "active": "c429dbdfd3dcaf16",
   "lastOpenFiles": [
     "Concepts/Threat Modeling.md",
     "Secutiry+/CertCrush - Security+ SY0-801/Generated-CertCrush/Lesson 06 - Threat Actors, Vectors and Intelligence - Kh.md",

@@ -23,7 +23,7 @@ tags:
 ## Threat actor classes and motivations · [↗ 01:15](https://www.youtube.com/watch?v=YHj9rKND0VY&t=75s)
 
 ### Threat actor classes
-- Nation-state/APT: espionage, persistence, strategic disruption; 
+- Nation-state/***APT (Advanced Persistent Threat)***: espionage, persistence, strategic disruption; 
 - Organized crime: profit and extortion.
 - Terrorism: fear, chaos, not profit
 - Hacktivist: make a point, not money
@@ -39,7 +39,9 @@ tags:
 - ![[Pasted image 20261112160737.png]]
 ## Attack surface versus vector · [↗ 09:43](https://www.youtube.com/watch?v=YHj9rKND0VY&t=583s)
 
-- [[Threat Modeling]]: **attack surface** is the set of exposed ways in; **attack vector** is a particular route or method.
+- [[Threat Modeling]]: 
+	- **attack surface** is the set of exposed ways in; 
+	- **attack vector** is a particular route or method.
 - ![[Pasted image 20261112160958.png]]
 - ![[Pasted image 20261112161252.png]]
 - ![[Pasted image 20261112161518.png]]
