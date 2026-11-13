@@ -49,10 +49,13 @@ tags:
 ## ??
 ![[Pasted image 20261113163225.png]]
 
-## Indicators of compromise (IoCs) · [↗ 15:35](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=935s)
+## Attackers use AI too
+![[Pasted image 20261113163507.png]]
+## Indicators of compromise (IoCs) 
 
 - Unusual processes, unexpected network connections, impossible travel, concurrent sessions, lockouts and suspicious account changes are **signals**, not proof.
 - Correlate events and inspect source quality, alternative explanations and scope.
+- ![[Pasted image 20261113163717.png]]![[Pasted image 20261113163835.png]]
 
 
 
