@@ -44,6 +44,7 @@ tags:
 	- **attack vector** is a particular route or method.
 - ![[Pasted image 20261112160958.png]]
 - ![[Pasted image 20261112161252.png]]
+	- **RCS = Rich Communication Services**, an enhanced form of SMS that supports features such as images, read receipts, typing indicators, and group chats.
 - ![[Pasted image 20261112161518.png]]
   ![[Pasted image 20261112161757.png]]
 - ![[Pasted image 20261112161925.png]]
