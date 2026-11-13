@@ -43,15 +43,18 @@ tags:
 - Poor explainability![[Pasted image 20261113162754.png]]
 
 ## Family 5: giving the intern the key
+- [[AI Agent Security]]: excessive agency = too many tools, actions or privileges; restrict scopes, require approvals and monitor actions.
+- Unchecked model-generated code or commands can enable dangerous execution.![[Pasted image 20261113162901.png]]![[Pasted image 20261113163032.png]]
+
+## ??
+![[Pasted image 20261113163225.png]]
 
 ## Indicators of compromise (IoCs) · [↗ 15:35](https://www.youtube.com/watch?v=a2G9W8QmFCs&t=935s)
 
 - Unusual processes, unexpected network connections, impossible travel, concurrent sessions, lockouts and suspicious account changes are **signals**, not proof.
 - Correlate events and inspect source quality, alternative explanations and scope.
 
-???
-- [[AI Agent Security]]: excessive agency = too many tools, actions or privileges; restrict scopes, require approvals and monitor actions.
-- Unchecked model-generated code or commands can enable dangerous execution.
+
 
 ## Apply it to AI security assurance
 
